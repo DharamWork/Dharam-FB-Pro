@@ -1,0 +1,50 @@
+name: 2-Hourly Fleet Views & Stock Real-Time Sync
+
+on:
+  schedule:
+    # Runs every 2 hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Configure Service Account Key
+        if: "${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON != '' }}"
+        run: |
+          echo "${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}" > service_account.json
+          chmod 600 service_account.json
+
+      - name: Sync Fleet Analytics & Drive Stock
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+        run: |
+          python scripts/sync_dashboard_data.py
+
+      - name: Commit & Push Dashboard Payload
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/pages_data.json data/upload_history.json
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore(sync): update real-time fleet analytics [skip ci]"
+            git push
+          fi

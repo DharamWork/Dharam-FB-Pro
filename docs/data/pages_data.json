@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "total_fleet_followers": 0,
+    "total_views": 0,
+    "total_reels_published": 0,
+    "total_playable_stock": 0,
+    "last_sync": "2026-10-28 17:19:08 UTC"
+  },
+  "pages": [
+    {
+      "page_id": "ENTER_PAGE_ID_1",
+      "name": "channel_1",
+      "display_name": "Viral Clips Pro",
+      "account_group": "UK Profile 1",
+      "drive_folder_id": "ENTER_GOOGLE_DRIVE_FOLDER_ID_1",
+      "followers": 0,
+      "views": 0,
+      "stock_count": 0,
+      "last_posted_at": "No posts yet",
+      "avatar_url": "https://graph.facebook.com/v20.0/ENTER_PAGE_ID_1/picture?type=large",
+      "token_healthy": true,
+      "gap_alert": false,
+      "enabled": true
+    },
+    {
+      "page_id": "ENTER_PAGE_ID_2",
+      "name": "channel_2",
+      "display_name": "Motivation Daily",
+      "account_group": "UK Profile 1",
+      "drive_folder_id": "ENTER_GOOGLE_DRIVE_FOLDER_ID_2",
+      "followers": 0,
+      "views": 0,
+      "stock_count": 0,
+      "last_posted_at": "No posts yet",
+      "avatar_url": "https://graph.facebook.com/v20.0/ENTER_PAGE_ID_2/picture?type=large",
+      "token_healthy": true,
+      "gap_alert": false,
+      "enabled": true
+    },
+    {
+      "page_id": "ENTER_PAGE_ID_3",
+      "name": "channel_3",
+      "display_name": "Tech & Gadgets World",
+      "account_group": "USA Profile 1",
+      "drive_folder_id": "ENTER_GOOGLE_DRIVE_FOLDER_ID_3",
+      "followers": 0,
+      "views": 0,
+      "stock_count": 0,
+      "last_posted_at": "No posts yet",
+      "avatar_url": "https://graph.facebook.com/v20.0/ENTER_PAGE_ID_3/picture?type=large",
+      "token_healthy": true,
+      "gap_alert": false,
+      "enabled": true
+    }
+  ],
+  "top_performers": [
+    {
+      "page_id": "ENTER_PAGE_ID_1",
+      "name": "channel_1",
+      "display_name": "Viral Clips Pro",
+      "account_group": "UK Profile 1",
+      "drive_folder_id": "ENTER_GOOGLE_DRIVE_FOLDER_ID_1",
+      "followers": 0,
+      "views": 0,
+      "stock_count": 0,
+      "last_posted_at": "No posts yet",
+      "avatar_url": "https://graph.facebook.com/v20.0/ENTER_PAGE_ID_1/picture?type=large",
+      "token_healthy": true,
+      "gap_alert": false,
+      "enabled": true
+    },
+    {
+      "page_id": "ENTER_PAGE_ID_2",
+      "name": "channel_2",
+      "display_name": "Motivation Daily",
+      "account_group": "UK Profile 1",
+      "drive_folder_id": "ENTER_GOOGLE_DRIVE_FOLDER_ID_2",
+      "followers": 0,
+      "views": 0,
+      "stock_count": 0,
+      "last_posted_at": "No posts yet",
+      "avatar_url": "https://graph.facebook.com/v20.0/ENTER_PAGE_ID_2/picture?type=large",
+      "token_healthy": true,
+      "gap_alert": false,
+      "enabled": true
+    },
+    {
+      "page_id": "ENTER_PAGE_ID_3",
+      "name": "channel_3",
+      "display_name": "Tech & Gadgets World",
+      "account_group": "USA Profile 1",
+      "drive_folder_id": "ENTER_GOOGLE_DRIVE_FOLDER_ID_3",
+      "followers": 0,
+      "views": 0,
+      "stock_count": 0,
+      "last_posted_at": "No posts yet",
+      "avatar_url": "https://graph.facebook.com/v20.0/ENTER_PAGE_ID_3/picture?type=large",
+      "token_healthy": true,
+      "gap_alert": false,
+      "enabled": true
+    }
+  ],
+  "low_performers": [
+    {
+      "page_id": "ENTER_PAGE_ID_1",
+      "name": "channel_1",
+      "display_name": "Viral Clips Pro",
+      "account_group": "UK Profile 1",
+      "drive_folder_id": "ENTER_GOOGLE_DRIVE_FOLDER_ID_1",
+      "followers": 0,
+      "views": 0,
+      "stock_count": 0,
+      "last_posted_at": "No posts yet",
+      "avatar_url": "https://graph.facebook.com/v20.0/ENTER_PAGE_ID_1/picture?type=large",
+      "token_healthy": true,
+      "gap_alert": false,
+      "enabled": true
+    },
+    {
+      "page_id": "ENTER_PAGE_ID_2",
+      "name": "channel_2",
+      "display_name": "Motivation Daily",
+      "account_group": "UK Profile 1",
+      "drive_folder_id": "ENTER_GOOGLE_DRIVE_FOLDER_ID_2",
+      "followers": 0,
+      "views": 0,
+      "stock_count": 0,
+      "last_posted_at": "No posts yet",
+      "avatar_url": "https://graph.facebook.com/v20.0/ENTER_PAGE_ID_2/picture?type=large",
+      "token_healthy": true,
+      "gap_alert": false,
+      "enabled": true
+    },
+    {
+      "page_id": "ENTER_PAGE_ID_3",
+      "name": "channel_3",
+      "display_name": "Tech & Gadgets World",
+      "account_group": "USA Profile 1",
+      "drive_folder_id": "ENTER_GOOGLE_DRIVE_FOLDER_ID_3",
+      "followers": 0,
+      "views": 0,
+      "stock_count": 0,
+      "last_posted_at": "No posts yet",
+      "avatar_url": "https://graph.facebook.com/v20.0/ENTER_PAGE_ID_3/picture?type=large",
+      "token_healthy": true,
+      "gap_alert": false,
+      "enabled": true
+    }
+  ],
+  "recent_uploads": []
+}

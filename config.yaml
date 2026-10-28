@@ -1,0 +1,54 @@
+# ==============================================================================
+# 🚀 RAJ FB PRO - MASTER CONFIGURATION
+# ==============================================================================
+
+meta_app:
+  app_id: "ENTER_NEW_META_APP_ID_HERE"
+  app_secret: "ENTER_NEW_META_APP_SECRET_HERE"
+  app_mode: "live" # CRITICAL: Must be 'live' to avoid 0-views feed suppression
+  user_access_token: "ENTER_TEMPORARY_USER_ACCESS_TOKEN_FOR_EXCHANGE"
+
+network:
+  region: "UK" # "UK" or "USA"
+  wireguard_enabled: false
+  wireguard_peer_endpoint: "ENTER_VPN_ENDPOINT_IF_APPLICABLE"
+  require_regional_ip: false
+
+schedules:
+  slot_1: "09:00 AM"
+  slot_2: "01:00 PM"
+  slot_3: "05:00 PM"
+  slot_4: "09:30 PM"
+
+service_account_path: "service_account.json"
+db_path: "data/posted_videos.db"
+max_retries: 3
+timeout_seconds: 300
+
+pages:
+  - page_id: "ENTER_PAGE_ID_1"
+    name: "channel_1"
+    display_name: "Viral Clips Pro"
+    account_group: "UK Profile 1"
+    drive_folder_id: "ENTER_GOOGLE_DRIVE_FOLDER_ID_1"
+    daily_limit: 4
+    enabled: true
+    access_token: "ENTER_PERMANENT_PAGE_TOKEN_1"
+
+  - page_id: "ENTER_PAGE_ID_2"
+    name: "channel_2"
+    display_name: "Motivation Daily"
+    account_group: "UK Profile 1"
+    drive_folder_id: "ENTER_GOOGLE_DRIVE_FOLDER_ID_2"
+    daily_limit: 4
+    enabled: true
+    access_token: "ENTER_PERMANENT_PAGE_TOKEN_2"
+
+  - page_id: "ENTER_PAGE_ID_3"
+    name: "channel_3"
+    display_name: "Tech & Gadgets World"
+    account_group: "USA Profile 1"
+    drive_folder_id: "ENTER_GOOGLE_DRIVE_FOLDER_ID_3"
+    daily_limit: 4
+    enabled: true
+    access_token: "ENTER_PERMANENT_PAGE_TOKEN_3"

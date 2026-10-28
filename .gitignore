@@ -1,0 +1,28 @@
+# Virtual Environment
+.venv/
+env/
+ENV/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Credentials & Sensitive Secrets
+service_account.json
+credentials.json
+*.pem
+*.key
+.env
+
+# SQLite WAL and lock files (Keep .db if desired, or ignore wal/shm)
+*.db-wal
+*.db-shm
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

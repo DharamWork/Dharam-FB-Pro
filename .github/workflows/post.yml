@@ -1,0 +1,73 @@
+name: USA Fleet Reels & Video Automation
+
+on:
+  schedule:
+    # 4 Scheduled runs per day (Staggered USA hours)
+    - cron: '0 13 * * *'  # 09:00 AM EST
+    - cron: '0 17 * * *'  # 01:00 PM EST
+    - cron: '0 21 * * *'  # 05:00 PM EST
+    - cron: '30 1 * * *'  # 09:30 PM EST
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Simulate without posting (true/false)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  upload-fleet-usa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install System Dependencies & FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg wireguard resolvconf
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Configure Service Account Key
+        if: "${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON != '' }}"
+        run: |
+          echo "${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}" > service_account.json
+          chmod 600 service_account.json
+
+      - name: Connect WireGuard USA VPN (Anti-Ban)
+        env:
+          WIREGUARD_CONFIG_USA: ${{ secrets.WIREGUARD_CONFIG_USA }}
+        run: |
+          bash scripts/connect_wireguard_usa.sh || echo "WireGuard skipped or configured without VPN"
+
+      - name: Run USA Posting Engine
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+        run: |
+          DRY_FLAG=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY_FLAG="--dry-run"
+          fi
+          python main.py --config config.yaml $DRY_FLAG
+
+      - name: Commit & Push Updated Database State
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/posted_videos.db data/upload_history.json
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore(telemetry): auto-record uploaded reels [skip ci]"
+            git push
+          fi

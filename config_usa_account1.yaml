@@ -1,0 +1,27 @@
+meta_app:
+  app_id: "ENTER_META_APP_ID"
+  app_secret: "ENTER_META_APP_SECRET"
+  app_mode: "live"
+
+network:
+  region: "USA"
+  wireguard_enabled: true
+  require_regional_ip: true
+
+schedules:
+  slot_1: "09:30 AM"
+  slot_2: "01:30 PM"
+  slot_3: "05:30 PM"
+  slot_4: "10:00 PM"
+
+service_account_path: "service_account.json"
+db_path: "data/posted_videos.db"
+
+pages:
+  - page_id: "ENTER_USA_PAGE_1"
+    name: "usa_channel_1"
+    display_name: "NYC Daily"
+    account_group: "USA Account 1"
+    drive_folder_id: "DRIVE_FOLDER_USA_1"
+    daily_limit: 4
+    enabled: true
