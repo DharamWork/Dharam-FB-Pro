@@ -9,6 +9,7 @@ import os
 import sys
 import json
 import logging
+import requests
 from datetime import datetime, timedelta, timezone
 
 # Ensure src can be imported
@@ -47,7 +48,7 @@ def sync_all(config_path: str = "config.yaml", output_json: str = "docs/data/pag
     logger.info("Starting real-time dashboard data sync...")
     config = load_config(config_path)
     db = DatabaseManager(config.db_path)
-    drive_client = GoogleDriveClient(config.service_account_path)
+    drive_client = GoogleDriveClient(service_account_path=config.service_account_path, token_path="token.json")
     tokens_map = load_token_map()
 
     total_followers = 0
@@ -70,11 +71,13 @@ def sync_all(config_path: str = "config.yaml", output_json: str = "docs/data/pag
             stock = drive_client.get_folder_stock_count(page.drive_folder_id, db)
         total_stock += stock
 
-        # 2. Meta Insights
+        # 2. Meta Insights (Followers & Avatar)
         followers = 0
         avatar_url = f"https://graph.facebook.com/v20.0/{page.page_id}/picture?type=large"
         token_healthy = bool(token and token != "ENTER_PAGE_TOKEN")
 
+        # 3. Real-Time Video Views from Meta Graph API
+        page_views = 0
         if token_healthy:
             try:
                 fb = FacebookClient(page.page_id, token)
@@ -86,9 +89,21 @@ def sync_all(config_path: str = "config.yaml", output_json: str = "docs/data/pag
                 logger.warning(f"Token/Insights issue for page {page.page_id}: {e}")
                 token_healthy = False
 
-        total_followers += followers
+            try:
+                # Query all published videos on this page and sum real views
+                v_url = f"https://graph.facebook.com/v20.0/{page.page_id}/videos?fields=views,id,title&access_token={token}"
+                v_resp = requests.get(v_url, timeout=15).json()
+                video_list = v_resp.get("data", [])
+                page_views = sum(int(v.get("views", 0)) for v in video_list)
+                logger.info(f"Page {page.display_name} ({page.page_id}): {len(video_list)} videos, real total views: {page_views}")
+            except Exception as v_err:
+                logger.warning(f"Error fetching real video views for {page.page_id}: {v_err}")
+                page_views = 0
 
-        # 3. Database Last Post & Recent stats
+        total_followers += followers
+        total_views += page_views
+
+        # 4. Database Last Post & Recent stats
         last_posted = db.get_last_posted_time(page.page_id)
         
         # Calculate health status
@@ -102,10 +117,6 @@ def sync_all(config_path: str = "config.yaml", output_json: str = "docs/data/pag
                 pass
         else:
             is_gap_alert = False
-
-        # Mock views calculation for demo/fallback or real tally
-        page_views = followers * 12 + (stock * 150)
-        total_views += page_views
 
         pages_output.append({
             "page_id": page.page_id,

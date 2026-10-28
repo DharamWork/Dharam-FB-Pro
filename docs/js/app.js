@@ -86,6 +86,11 @@ document.addEventListener("DOMContentLoaded", () => {
   // Fetch initial data
   window.syncService.fetchLatest();
 
+  // Auto-poll real-time data every 30 seconds in background
+  setInterval(() => {
+    window.syncService.fetchLatest();
+  }, 30000);
+
   // 1. Render KPIs
   function renderKPIs(metrics = {}) {
     document.getElementById("kpiFollowers").textContent = fmt(metrics.total_fleet_followers);

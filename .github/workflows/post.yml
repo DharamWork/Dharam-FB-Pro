@@ -72,12 +72,20 @@ jobs:
         run: |
           sudo wg-quick down wg0 2>/dev/null || true
 
-      - name: Commit & Push Updated Database State
+      - name: Sync Real-Time Dashboard Payload
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGES_TOKENS_JSON: ${{ secrets.FB_PAGES_TOKENS_JSON }}
+          GDRIVE_USER_TOKEN_JSON: ${{ secrets.GDRIVE_USER_TOKEN_JSON }}
+        run: |
+          python scripts/sync_dashboard_data.py
+
+      - name: Commit & Push Updated Database & Dashboard State
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/posted_videos.db data/upload_history.json
+          git add data/posted_videos.db data/upload_history.json docs/data/pages_data.json
           if ! git diff-index --quiet HEAD; then
-            git commit -m "chore(telemetry): auto-record uploaded reels [skip ci]"
+            git commit -m "chore(telemetry): auto-record uploaded reels & sync live dashboard [skip ci]"
             git push
           fi
