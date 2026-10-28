@@ -111,12 +111,33 @@ def trigger_workflow(workflow_filename: str, ref: str = "main", inputs: dict = N
         return False
 
 
+def get_recent_runs(limit: int = 5):
+    url = f"{API_BASE}/actions/runs?per_page={limit}"
+    resp = requests.get(url, headers=_get_headers(), timeout=30)
+    if resp.status_code == 200:
+        runs = resp.json().get("workflow_runs", [])
+        print(f"Recent Workflow Runs on {GITHUB_OWNER}/{GITHUB_REPO}:")
+        for r in runs:
+            status = r.get("status")
+            conclusion = r.get("conclusion") or "running"
+            name = r.get("name")
+            run_id = r.get("id")
+            html_url = r.get("html_url")
+            print(f"  • [{status.upper()}:{conclusion}] {name} (ID: {run_id}) -> {html_url}")
+        return runs
+    else:
+        print(f"[-] Failed to fetch runs (HTTP {resp.status_code}): {resp.text}")
+        return []
+
+
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Autonomous GitHub Manager")
     parser.add_argument("--set-secret", nargs=2, metavar=("NAME", "VALUE"), help="Set repository secret")
     parser.add_argument("--list-secrets", action="store_true", help="List active repository secrets")
     parser.add_argument("--trigger", help="Workflow filename to trigger (e.g. post.yml)")
+    parser.add_argument("--dry-run", action="store_true", help="Pass dry_run=true to triggered workflow")
+    parser.add_argument("--runs", action="store_true", help="List recent workflow runs")
     args = parser.parse_args()
 
     if args.set_secret:
@@ -124,6 +145,9 @@ if __name__ == "__main__":
     elif args.list_secrets:
         list_secrets()
     elif args.trigger:
-        trigger_workflow(args.trigger)
+        inputs = {"dry_run": "true"} if args.dry_run else None
+        trigger_workflow(args.trigger, inputs=inputs)
+    elif args.runs:
+        get_recent_runs()
     else:
         list_secrets()
