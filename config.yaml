@@ -8,7 +8,7 @@ meta_app:
   app_mode: "live" # CRITICAL: 'live' to avoid 0-views feed suppression
 
 network:
-  region: "UK" # "UK" or "USA"
+  region: "USA" # "UK" or "USA"
   wireguard_enabled: false
   wireguard_peer_endpoint: ""
   require_regional_ip: false
@@ -23,20 +23,21 @@ service_account_path: "service_account.json"
 db_path: "data/posted_videos.db"
 max_retries: 3
 timeout_seconds: 300
+auto_delete_from_drive: true # Automatically deletes video from Drive after post
 
 pages:
   - page_id: "1291088570765567"
     name: "stickwisdom"
     display_name: "StickWisdom"
-    account_group: "Account 1"
-    drive_folder_id: "ENTER_STICKWISDOM_GDRIVE_FOLDER_ID"
+    account_group: "Gayu Sagar (USA)"
+    drive_folder_id: "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp"
     daily_limit: 4
     enabled: true
 
   - page_id: "1439435542586778"
     name: "sticktoon_man"
     display_name: "Sticktoon Man"
-    account_group: "Account 1"
-    drive_folder_id: "ENTER_STICKTOON_GDRIVE_FOLDER_ID"
+    account_group: "Gayu Sagar (USA)"
+    drive_folder_id: "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B"
     daily_limit: 4
     enabled: true

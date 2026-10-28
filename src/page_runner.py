@@ -116,6 +116,14 @@ def process_single_page(
                 status="posted"
             )
 
+            # 8. Auto-delete from Google Drive (Clean-up post)
+            if getattr(master_config, "auto_delete_from_drive", True):
+                try:
+                    drive_client.delete_file(file_id)
+                    logger.info(f"Auto-deleted file '{filename}' (ID: {file_id}) from Google Drive.")
+                except Exception as del_err:
+                    logger.warning(f"Could not auto-delete {file_id} from Drive (ensure Editor role): {del_err}")
+
         logger.info(f"Successfully posted video '{filename}' to Page {page_id}! FB ID: {fb_video_id}")
         return PageExecutionResult(page_id, True, f"Uploaded successfully as {route}", fb_video_id)
 

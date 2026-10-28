@@ -45,6 +45,7 @@ class MasterConfig(BaseModel):
     db_path: str = Field(default="data/posted_videos.db", description="Path to SQLite tracking database")
     max_retries: int = Field(default=3, description="Max retries on network/API failure")
     timeout_seconds: int = Field(default=300, description="HTTP request timeout in seconds")
+    auto_delete_from_drive: bool = Field(default=True, description="Auto-delete video from Google Drive after successful post")
 
 
 def load_config(config_path: str = "config.yaml") -> MasterConfig:

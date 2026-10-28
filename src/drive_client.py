@@ -9,7 +9,7 @@ from src.retry import retry_with_backoff
 
 logger = logging.getLogger(__name__)
 
-SCOPES = ["https://www.googleapis.com/auth/drive.readonly"]
+SCOPES = ["https://www.googleapis.com/auth/drive"]
 
 
 class GoogleDriveClient:
@@ -109,3 +109,24 @@ class GoogleDriveClient:
 
         logger.info(f"File {file_id} successfully downloaded to {destination_path}")
         return destination_path
+
+    @retry_with_backoff(retries=3, initial_delay=2.0)
+    def delete_file(self, file_id: str) -> bool:
+        """
+        Permanently deletes a file from Google Drive after successful posting.
+        Falls back to moving to trash if permanent deletion is restricted.
+        """
+        service = self._get_service()
+        try:
+            service.files().delete(fileId=file_id).execute()
+            logger.info(f"File {file_id} permanently deleted from Google Drive.")
+            return True
+        except Exception as e:
+            logger.warning(f"Permanent delete for {file_id} failed: {e}. Attempting to move to Trash...")
+            try:
+                service.files().update(fileId=file_id, body={"trashed": True}).execute()
+                logger.info(f"File {file_id} successfully moved to Google Drive Trash.")
+                return True
+            except Exception as e2:
+                logger.error(f"Failed to trash file {file_id}: {e2}")
+                return False
