@@ -91,17 +91,25 @@ def process_single_page(
         # 6. Upload to Meta Graph API
         fb_client = FacebookClient(page_id, access_token=access_token, timeout=master_config.timeout_seconds)
 
+        # Permanent Rule: Drive filename is the EXACT 1:1 caption & title for Reels/Videos
+        clean_caption = filename
+        base_name, ext = os.path.splitext(filename)
+        if ext.lower() in [".mp4", ".mov", ".mkv", ".avi", ".webm", ".m4v"]:
+            clean_caption = base_name.strip()
+
+        logger.info(f"Using exact Drive title for publication: '{clean_caption}'")
+
         if route == "reel":
             fb_video_id = fb_client.upload_reel(
                 video_path=local_path,
-                description=f"#{page_config.name}",
+                description=clean_caption,
                 dry_run=dry_run
             )
         else:
             fb_video_id = fb_client.upload_classic_video(
                 video_path=local_path,
-                title=filename.rsplit(".", 1)[0],
-                description=f"#{page_config.name}",
+                title=clean_caption,
+                description=clean_caption,
                 dry_run=dry_run
             )
 
