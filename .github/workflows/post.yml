@@ -46,11 +46,11 @@ jobs:
           echo "${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}" > service_account.json
           chmod 600 service_account.json
 
-      - name: Connect WireGuard USA VPN (Anti-Ban)
+      - name: Connect WireGuard USA VPN (Anti-Ban Kill-Switch)
         env:
           WIREGUARD_CONFIG_USA: ${{ secrets.WIREGUARD_CONFIG_USA }}
         run: |
-          bash scripts/connect_wireguard_usa.sh || echo "WireGuard skipped or configured without VPN"
+          bash scripts/connect_wireguard_usa.sh
 
       - name: Run USA Posting Engine
         env:
@@ -63,6 +63,11 @@ jobs:
             DRY_FLAG="--dry-run"
           fi
           python main.py --config config.yaml $DRY_FLAG
+
+      - name: Disconnect WireGuard VPN
+        if: always()
+        run: |
+          sudo wg-quick down wg0 2>/dev/null || true
 
       - name: Commit & Push Updated Database State
         run: |

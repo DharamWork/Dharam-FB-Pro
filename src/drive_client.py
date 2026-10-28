@@ -12,34 +12,69 @@ logger = logging.getLogger(__name__)
 SCOPES = ["https://www.googleapis.com/auth/drive"]
 
 
-class GoogleDriveClient:
-    """Handles interaction with Google Drive via Service Account API."""
+from google.oauth2.credentials import Credentials as UserCredentials
+from google.auth.transport.requests import Request
 
-    def __init__(self, service_account_path: str = "service_account.json"):
+
+class GoogleDriveClient:
+    """Handles interaction with Google Drive via User Credentials or Service Account API."""
+
+    def __init__(self, service_account_path: str = "service_account.json", token_path: str = "token.json"):
         self.service_account_path = service_account_path
+        self.token_path = token_path
         self._service = None
 
     @property
     def is_configured(self) -> bool:
-        """Returns True if service account key file exists."""
-        return os.path.exists(self.service_account_path)
+        """Returns True if user token or service account key file exists."""
+        return os.path.exists(self.token_path) or os.path.exists(self.service_account_path) or "GDRIVE_USER_TOKEN_JSON" in os.environ
 
     def _get_service(self):
         if self._service is not None:
             return self._service
 
-        if not self.is_configured:
-            raise FileNotFoundError(
-                f"Google Service Account key file '{self.service_account_path}' not found. "
-                f"Please download your service_account.json from Google Cloud Console."
-            )
+        creds = None
 
-        creds = service_account.Credentials.from_service_account_file(
-            self.service_account_path,
-            scopes=SCOPES
+        # 1. First priority: Check Owner User Credentials (token.json or env secret)
+        env_token = os.environ.get("GDRIVE_USER_TOKEN_JSON")
+        if env_token:
+            try:
+                import json
+                info = json.loads(env_token)
+                creds = UserCredentials.from_authorized_user_info(info, SCOPES)
+            except Exception as e:
+                logger.warning(f"Could not parse GDRIVE_USER_TOKEN_JSON: {e}")
+
+        if not creds and os.path.exists(self.token_path):
+            try:
+                creds = UserCredentials.from_authorized_user_file(self.token_path, SCOPES)
+            except Exception as e:
+                logger.warning(f"Could not load {self.token_path}: {e}")
+
+        if creds:
+            if creds.expired and creds.refresh_token:
+                try:
+                    creds.refresh(Request())
+                    # Persist refreshed token
+                    with open(self.token_path, "w", encoding="utf-8") as f:
+                        f.write(creds.to_json())
+                except Exception as ref_err:
+                    logger.warning(f"Failed to refresh user token: {ref_err}")
+            self._service = build("drive", "v3", credentials=creds, cache_discovery=False)
+            return self._service
+
+        # 2. Second priority: Fall back to Service Account key file
+        if os.path.exists(self.service_account_path):
+            creds = service_account.Credentials.from_service_account_file(
+                self.service_account_path,
+                scopes=SCOPES
+            )
+            self._service = build("drive", "v3", credentials=creds, cache_discovery=False)
+            return self._service
+
+        raise FileNotFoundError(
+            f"Neither user token ('{self.token_path}') nor service account ('{self.service_account_path}') found."
         )
-        self._service = build("drive", "v3", credentials=creds, cache_discovery=False)
-        return self._service
 
     @retry_with_backoff(retries=3, initial_delay=2.0)
     def list_videos_in_folder(self, folder_id: str) -> List[Dict[str, Any]]:
