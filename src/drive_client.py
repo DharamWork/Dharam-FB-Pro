@@ -110,23 +110,62 @@ class GoogleDriveClient:
         logger.info(f"File {file_id} successfully downloaded to {destination_path}")
         return destination_path
 
+    def _get_or_create_archive_folder(self, parent_folder_id: str) -> str:
+        """Finds or creates a _POSTED_ARCHIVE subfolder inside parent_folder_id."""
+        service = self._get_service()
+        q = f"'{parent_folder_id}' in parents and name = '_POSTED_ARCHIVE' and mimeType = 'application/vnd.google-apps.folder' and trashed = false"
+        res = service.files().list(q=q, fields="files(id)").execute()
+        files = res.get("files", [])
+        if files:
+            return files[0]["id"]
+
+        meta = {
+            "name": "_POSTED_ARCHIVE",
+            "mimeType": "application/vnd.google-apps.folder",
+            "parents": [parent_folder_id]
+        }
+        created = service.files().create(body=meta, fields="id").execute()
+        return created["id"]
+
     @retry_with_backoff(retries=3, initial_delay=2.0)
-    def delete_file(self, file_id: str) -> bool:
+    def handle_post_upload_cleanup(self, file_id: str, parent_folder_id: str) -> str:
         """
-        Permanently deletes a file from Google Drive after successful posting.
-        Falls back to moving to trash if permanent deletion is restricted.
+        Handles post-upload cleanup safely:
+        1. Attempts permanent deletion.
+        2. Attempts moving to Trash.
+        3. If Google prevents deletion (ownership restriction), moves file to '_POSTED_ARCHIVE'
+           subfolder inside parent_folder_id so it NEVER gets orphaned outside.
         """
         service = self._get_service()
+
+        # Attempt 1: Direct permanent delete
         try:
-            service.files().delete(fileId=file_id).execute()
+            service.files().delete(fileId=file_id, supportsAllDrives=True).execute()
             logger.info(f"File {file_id} permanently deleted from Google Drive.")
-            return True
-        except Exception as e:
-            logger.warning(f"Permanent delete for {file_id} failed: {e}. Attempting to move to Trash...")
-            try:
-                service.files().update(fileId=file_id, body={"trashed": True}).execute()
-                logger.info(f"File {file_id} successfully moved to Google Drive Trash.")
-                return True
-            except Exception as e2:
-                logger.error(f"Failed to trash file {file_id}: {e2}")
-                return False
+            return "deleted"
+        except Exception as e1:
+            logger.debug(f"Direct delete not permitted by Google: {e1}")
+
+        # Attempt 2: Move to Trash
+        try:
+            service.files().update(fileId=file_id, body={"trashed": True}, supportsAllDrives=True).execute()
+            logger.info(f"File {file_id} moved to Google Drive Trash.")
+            return "trashed"
+        except Exception as e2:
+            logger.debug(f"Trash update not permitted by Google: {e2}")
+
+        # Attempt 3: Move to _POSTED_ARCHIVE subfolder (Prevents file from being thrown outside)
+        try:
+            archive_id = self._get_or_create_archive_folder(parent_folder_id)
+            service.files().update(
+                fileId=file_id,
+                addParents=archive_id,
+                removeParents=parent_folder_id,
+                fields="id, parents",
+                supportsAllDrives=True
+            ).execute()
+            logger.info(f"File {file_id} safely moved to '_POSTED_ARCHIVE' folder (Zero orphan).")
+            return "archived"
+        except Exception as e3:
+            logger.error(f"Failed to move file {file_id} to archive: {e3}")
+            return "failed"
