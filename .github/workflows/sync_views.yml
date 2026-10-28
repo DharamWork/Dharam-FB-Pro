@@ -37,6 +37,7 @@ jobs:
         env:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           FB_PAGES_TOKENS_JSON: ${{ secrets.FB_PAGES_TOKENS_JSON }}
+          GDRIVE_USER_TOKEN_JSON: ${{ secrets.GDRIVE_USER_TOKEN_JSON }}
         run: |
           python scripts/sync_dashboard_data.py
 

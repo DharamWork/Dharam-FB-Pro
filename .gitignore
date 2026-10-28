@@ -13,6 +13,7 @@ __pycache__/
 # Credentials & Sensitive Secrets
 service_account.json
 credentials.json
+token.json
 data/pages_tokens.json
 *.pem
 *.key
