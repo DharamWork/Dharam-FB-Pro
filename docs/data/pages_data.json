@@ -2,9 +2,9 @@
   "metrics": {
     "total_fleet_followers": 0,
     "total_views": 0,
-    "total_reels_published": 2,
-    "total_playable_stock": 71,
-    "last_sync": "2026-10-28 20:29:14 UTC"
+    "total_reels_published": 4,
+    "total_playable_stock": 69,
+    "last_sync": "2026-10-28 21:28:41 UTC"
   },
   "pages": [
     {
@@ -15,9 +15,9 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 0,
       "views": 0,
-      "stock_count": 29,
-      "last_posted_at": "2026-10-28 19:06:34",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwF_lX1s&_nc_oc=Ado1xpHqaDa40TDvVXLqMnfWHaHfijWHzEB0GT8YWrXCH2jfNA1TT76t9QasNOmzTxs&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=mznIJl9od2JCJCkipTQamg&_nc_tpa=Q5bMBQKuL696jziOQVcGkekohvZZA0eRIHhUxZUnxm_h9Fv9LuggLunFzL52bSFsHDng6g6t9X3fG_FeIA&oh=00_AQTRr2hQyO56MvyfVnCnvQ5Aus4ZHmnLo5ssd8T7Wl7uGw&oe=6AE821FE",
+      "stock_count": 28,
+      "last_posted_at": "2026-10-28 21:28:27",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwHZpkHg&_nc_oc=AdozaQk2hW8NXPPTS8idUjseobAyLLqEG8xygw0lhi7-8CL8PCxArZp0267PBZcQsE4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=uA0fPWj_QIioluhJRSHHiA&_nc_tpa=Q5bMBQJwVW1E2XYN_FBlwaZRu1lgTSW8JwEx6HOgUvbeZufdYbHwaYI4a0BJ3tjhteQ9IDX9ry3xAnH6NQ&oh=00_AQSUyjRFYv9mJ8-CDlS_ATmrAK7m_w9oOsEDwt-nS-4N6g&oe=6AE821FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -30,9 +30,9 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 0,
-      "stock_count": 42,
-      "last_posted_at": "2026-10-28 19:06:43",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwGX9YIo&_nc_oc=AdrgH04bvC_Q-xxNCWce6VHEA5WHsbJtJVVbAseGmWuZfeis_oWmjErNCr7qbp84cMQ&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=hRYbIwHBnCekvfikjYDAwQ&_nc_tpa=Q5bMBQLpOJheW2UVhtZJKdD0HVu3PPsjh3a-D86my73JJxhZwgQ3Zm-o_JTbN_MNN70eBNhw7vx8-5cQFQ&oh=00_AQQI7rVFUg0L2ZuvTERdy_mlYxpLzwecKAsU2k8270wveQ&oe=6AE8220E",
+      "stock_count": 41,
+      "last_posted_at": "2026-10-28 21:28:38",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwENIWMJ&_nc_oc=Ado_t1DRkqQT4NZTDbeVNngk_IC3JBqeLIh1cv1uOU0LAxaqSCgMfkXNCh2rz0WSu3E&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=NlS1PxtIojUH12_M8HhLfA&_nc_tpa=Q5bMBQLZlkeEkTcH7c27a-zsC_Ay19T94VwsDJtLpDBjRWhLu-LRU6DCmVpJ3wI05Ib3u0JoFuf_T0mn9A&oh=00_AQQPUwldw6csecD4UOMyDIAqWNi02daNW2O4zvl3yeCWbQ&oe=6AE8220E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -47,9 +47,9 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 0,
       "views": 0,
-      "stock_count": 29,
-      "last_posted_at": "2026-10-28 19:06:34",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwF_lX1s&_nc_oc=Ado1xpHqaDa40TDvVXLqMnfWHaHfijWHzEB0GT8YWrXCH2jfNA1TT76t9QasNOmzTxs&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=mznIJl9od2JCJCkipTQamg&_nc_tpa=Q5bMBQKuL696jziOQVcGkekohvZZA0eRIHhUxZUnxm_h9Fv9LuggLunFzL52bSFsHDng6g6t9X3fG_FeIA&oh=00_AQTRr2hQyO56MvyfVnCnvQ5Aus4ZHmnLo5ssd8T7Wl7uGw&oe=6AE821FE",
+      "stock_count": 28,
+      "last_posted_at": "2026-10-28 21:28:27",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwHZpkHg&_nc_oc=AdozaQk2hW8NXPPTS8idUjseobAyLLqEG8xygw0lhi7-8CL8PCxArZp0267PBZcQsE4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=uA0fPWj_QIioluhJRSHHiA&_nc_tpa=Q5bMBQJwVW1E2XYN_FBlwaZRu1lgTSW8JwEx6HOgUvbeZufdYbHwaYI4a0BJ3tjhteQ9IDX9ry3xAnH6NQ&oh=00_AQSUyjRFYv9mJ8-CDlS_ATmrAK7m_w9oOsEDwt-nS-4N6g&oe=6AE821FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -62,9 +62,9 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 0,
-      "stock_count": 42,
-      "last_posted_at": "2026-10-28 19:06:43",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwGX9YIo&_nc_oc=AdrgH04bvC_Q-xxNCWce6VHEA5WHsbJtJVVbAseGmWuZfeis_oWmjErNCr7qbp84cMQ&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=hRYbIwHBnCekvfikjYDAwQ&_nc_tpa=Q5bMBQLpOJheW2UVhtZJKdD0HVu3PPsjh3a-D86my73JJxhZwgQ3Zm-o_JTbN_MNN70eBNhw7vx8-5cQFQ&oh=00_AQQI7rVFUg0L2ZuvTERdy_mlYxpLzwecKAsU2k8270wveQ&oe=6AE8220E",
+      "stock_count": 41,
+      "last_posted_at": "2026-10-28 21:28:38",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwENIWMJ&_nc_oc=Ado_t1DRkqQT4NZTDbeVNngk_IC3JBqeLIh1cv1uOU0LAxaqSCgMfkXNCh2rz0WSu3E&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=NlS1PxtIojUH12_M8HhLfA&_nc_tpa=Q5bMBQLZlkeEkTcH7c27a-zsC_Ay19T94VwsDJtLpDBjRWhLu-LRU6DCmVpJ3wI05Ib3u0JoFuf_T0mn9A&oh=00_AQQPUwldw6csecD4UOMyDIAqWNi02daNW2O4zvl3yeCWbQ&oe=6AE8220E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -79,9 +79,9 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 0,
       "views": 0,
-      "stock_count": 29,
-      "last_posted_at": "2026-10-28 19:06:34",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwF_lX1s&_nc_oc=Ado1xpHqaDa40TDvVXLqMnfWHaHfijWHzEB0GT8YWrXCH2jfNA1TT76t9QasNOmzTxs&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=mznIJl9od2JCJCkipTQamg&_nc_tpa=Q5bMBQKuL696jziOQVcGkekohvZZA0eRIHhUxZUnxm_h9Fv9LuggLunFzL52bSFsHDng6g6t9X3fG_FeIA&oh=00_AQTRr2hQyO56MvyfVnCnvQ5Aus4ZHmnLo5ssd8T7Wl7uGw&oe=6AE821FE",
+      "stock_count": 28,
+      "last_posted_at": "2026-10-28 21:28:27",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwHZpkHg&_nc_oc=AdozaQk2hW8NXPPTS8idUjseobAyLLqEG8xygw0lhi7-8CL8PCxArZp0267PBZcQsE4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=uA0fPWj_QIioluhJRSHHiA&_nc_tpa=Q5bMBQJwVW1E2XYN_FBlwaZRu1lgTSW8JwEx6HOgUvbeZufdYbHwaYI4a0BJ3tjhteQ9IDX9ry3xAnH6NQ&oh=00_AQSUyjRFYv9mJ8-CDlS_ATmrAK7m_w9oOsEDwt-nS-4N6g&oe=6AE821FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -94,15 +94,37 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 0,
-      "stock_count": 42,
-      "last_posted_at": "2026-10-28 19:06:43",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwGX9YIo&_nc_oc=AdrgH04bvC_Q-xxNCWce6VHEA5WHsbJtJVVbAseGmWuZfeis_oWmjErNCr7qbp84cMQ&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=hRYbIwHBnCekvfikjYDAwQ&_nc_tpa=Q5bMBQLpOJheW2UVhtZJKdD0HVu3PPsjh3a-D86my73JJxhZwgQ3Zm-o_JTbN_MNN70eBNhw7vx8-5cQFQ&oh=00_AQQI7rVFUg0L2ZuvTERdy_mlYxpLzwecKAsU2k8270wveQ&oe=6AE8220E",
+      "stock_count": 41,
+      "last_posted_at": "2026-10-28 21:28:38",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwENIWMJ&_nc_oc=Ado_t1DRkqQT4NZTDbeVNngk_IC3JBqeLIh1cv1uOU0LAxaqSCgMfkXNCh2rz0WSu3E&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=NlS1PxtIojUH12_M8HhLfA&_nc_tpa=Q5bMBQLZlkeEkTcH7c27a-zsC_Ay19T94VwsDJtLpDBjRWhLu-LRU6DCmVpJ3wI05Ib3u0JoFuf_T0mn9A&oh=00_AQQPUwldw6csecD4UOMyDIAqWNi02daNW2O4zvl3yeCWbQ&oe=6AE8220E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
     }
   ],
   "recent_uploads": [
+    {
+      "id": 4,
+      "page_id": "1439435542586778",
+      "drive_file_id": "1XWt9uq6WMuf0feb2M8lFBy4GLbaDf7JW",
+      "facebook_video_id": "1085694310943602",
+      "filename": "When couples are in deep love! \ud83e\udd23 (best animation meme) #shorts.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-10-28 21:28:38",
+      "error_message": null
+    },
+    {
+      "id": 3,
+      "page_id": "1291088570765567",
+      "drive_file_id": "144WVXNfHo2hnnRYeAlE_GM7MGRxK4xTm",
+      "facebook_video_id": "2611246529286931",
+      "filename": "IT FINALLY CLICKED ! \ud83d\udca1.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-10-28 21:28:27",
+      "error_message": null
+    },
     {
       "id": 2,
       "page_id": "1439435542586778",
