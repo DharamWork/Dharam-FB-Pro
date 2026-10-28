@@ -36,6 +36,7 @@ jobs:
       - name: Sync Fleet Analytics & Drive Stock
         env:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGES_TOKENS_JSON: ${{ secrets.FB_PAGES_TOKENS_JSON }}
         run: |
           python scripts/sync_dashboard_data.py
 

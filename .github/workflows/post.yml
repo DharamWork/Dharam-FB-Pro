@@ -55,6 +55,7 @@ jobs:
       - name: Run USA Posting Engine
         env:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGES_TOKENS_JSON: ${{ secrets.FB_PAGES_TOKENS_JSON }}
         run: |
           DRY_FLAG=""
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then

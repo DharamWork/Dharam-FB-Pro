@@ -30,6 +30,15 @@ logger = logging.getLogger("main")
 
 
 def load_token_map(tokens_path: str = "data/pages_tokens.json") -> dict:
+    # 1. First check environment variable (for GitHub Actions secrets)
+    env_tokens = os.environ.get("FB_PAGES_TOKENS_JSON")
+    if env_tokens:
+        try:
+            return json.loads(env_tokens)
+        except Exception as e:
+            logger.warning(f"Could not parse FB_PAGES_TOKENS_JSON from environment: {e}")
+
+    # 2. Check local file
     if os.path.exists(tokens_path):
         try:
             with open(tokens_path, "r", encoding="utf-8") as f:
