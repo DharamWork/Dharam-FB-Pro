@@ -592,3 +592,257 @@ body {
   padding: 1.5rem;
   box-shadow: var(--shadow-luxe);
 }
+
+/* ==========================================================================
+   ENHANCED NEXT-GEN UI MODULES (COUNTDOWN, UP-NEXT QUEUE, CHARTS & ALERTS)
+   ========================================================================== */
+
+/* 1. Live Slot Countdown Card */
+.slot-countdown-card {
+  background: linear-gradient(135deg, rgba(26, 32, 53, 0.85) 0%, rgba(13, 18, 31, 0.95) 100%);
+  border: 1px solid var(--border-gold);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.7), 0 0 25px -5px rgba(250, 204, 21, 0.15);
+  position: relative;
+  overflow: hidden;
+}
+
+.slot-countdown-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--gold-gradient);
+}
+
+.slot-countdown-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.slot-countdown-title {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--gold);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.slot-timer-grid {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.slot-digital-clock {
+  font-family: var(--font-mono);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text-main);
+  background: rgba(0, 0, 0, 0.4);
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(250, 204, 21, 0.25);
+  letter-spacing: 2px;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  text-shadow: 0 0 15px rgba(250, 204, 21, 0.4);
+}
+
+.slot-chips-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.slot-chip {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-pill);
+  padding: 0.35rem 0.75rem;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.slot-chip.active {
+  background: rgba(250, 204, 21, 0.15);
+  border-color: var(--gold);
+  color: var(--gold);
+  font-weight: 600;
+  box-shadow: 0 0 10px rgba(250, 204, 21, 0.2);
+}
+
+/* 2. Interactive SVG Analytics Chart */
+.chart-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  backdrop-filter: blur(16px);
+}
+
+.chart-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+}
+
+.chart-container {
+  width: 100%;
+  height: 200px;
+  position: relative;
+}
+
+.chart-svg {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.chart-line {
+  fill: none;
+  stroke: url(#goldGrad);
+  stroke-width: 3.5;
+  stroke-linecap: round;
+  filter: drop-shadow(0 4px 12px rgba(250, 204, 21, 0.4));
+}
+
+.chart-area {
+  fill: url(#goldAreaGrad);
+}
+
+.chart-dot {
+  fill: #07090e;
+  stroke: var(--gold);
+  stroke-width: 3;
+  r: 5;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.chart-dot:hover {
+  r: 7;
+  stroke: #ffffff;
+  filter: drop-shadow(0 0 8px var(--gold));
+}
+
+/* 3. Up Next Video Queue Preview */
+.upnext-section {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px dashed rgba(255, 255, 255, 0.1);
+}
+
+.upnext-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--gold);
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.upnext-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.upnext-item {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-sm);
+  padding: 0.6rem 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  transition: all 0.2s ease;
+}
+
+.upnext-item:hover {
+  border-color: rgba(250, 204, 21, 0.3);
+  background: rgba(250, 204, 21, 0.03);
+  transform: translateX(3px);
+}
+
+.upnext-info {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-width: 0;
+}
+
+.upnext-badge-rank {
+  background: rgba(250, 204, 21, 0.15);
+  color: var(--gold);
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 700;
+  width: 22px;
+  height: 22px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.upnext-item:first-child .upnext-badge-rank {
+  background: var(--gold);
+  color: #07090e;
+}
+
+.upnext-title {
+  font-size: 0.85rem;
+  color: var(--text-main);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 500;
+}
+
+.upnext-size {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--cyan);
+  background: rgba(56, 189, 248, 0.1);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+/* 4. Critical Stock Pulse Animation */
+@keyframes pulse-critical {
+  0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.6); }
+  70% { box-shadow: 0 0 0 10px rgba(239, 68, 68, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); }
+}
+
+.stock-critical {
+  background: rgba(239, 68, 68, 0.2) !important;
+  color: #fca5a5 !important;
+  border: 1px solid #ef4444 !important;
+  animation: pulse-critical 2s infinite;
+}

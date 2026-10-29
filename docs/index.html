@@ -91,6 +91,27 @@
         <div class="badge-stock stock-high">100% Cloud Runners Ready</div>
       </div>
 
+      <!-- LIVE SLOT COUNTDOWN CARD -->
+      <div class="slot-countdown-card" id="slotCountdownCard">
+        <div class="slot-countdown-header">
+          <div class="slot-countdown-title">
+            <span>⏱️</span> Next Cloud Posting Slot: <span id="nextSlotName" style="color: var(--text-main); margin-left: 0.35rem;">Slot 1 (Morning)</span>
+          </div>
+          <div class="badge-stock stock-high" id="slotEstBadge">09:00 AM EST</div>
+        </div>
+        <div class="slot-timer-grid">
+          <div class="slot-digital-clock" id="slotCountdownClock">
+            <span id="slotClockText">00:00:00</span>
+          </div>
+          <div class="slot-chips-row">
+            <div class="slot-chip" id="chipSlot1"><span>☀️</span> Slot 1: 09:00 AM</div>
+            <div class="slot-chip" id="chipSlot2"><span>🌤️</span> Slot 2: 01:00 PM</div>
+            <div class="slot-chip" id="chipSlot3"><span>🌆</span> Slot 3: 05:00 PM</div>
+            <div class="slot-chip" id="chipSlot4"><span>🌙</span> Slot 4: 09:30 PM</div>
+          </div>
+        </div>
+      </div>
+
       <div class="grid-kpi">
         <div class="kpi-card">
           <div class="kpi-title">Total Fleet Followers</div>
@@ -111,6 +132,24 @@
           <div class="kpi-title">Playable Drive Stock</div>
           <div class="kpi-value" id="kpiStock">0</div>
           <div class="kpi-delta delta-positive">✔ FIFO Queue Loaded</div>
+        </div>
+      </div>
+
+      <!-- 7-DAY ACTIVITY & PERFORMANCE CHART -->
+      <div class="chart-card" style="margin-top: 2rem;">
+        <div class="chart-header">
+          <div>
+            <h3 style="font-family: var(--font-heading); color: var(--gold); font-size: 1.1rem; display: flex; align-items: center; gap: 0.5rem;">
+              <span>📈</span> 7-Day Reel Publishing Velocity
+            </h3>
+            <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.2rem;">
+              Daily volume of automated cloud reel uploads across fleet
+            </div>
+          </div>
+          <div class="badge-stock stock-high" id="chartTotalUploadsBadge">Active Telemetry</div>
+        </div>
+        <div class="chart-container" id="velocityChartContainer">
+          <!-- Dynamically generated SVG Chart -->
         </div>
       </div>
 

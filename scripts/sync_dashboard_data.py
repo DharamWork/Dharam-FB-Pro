@@ -65,10 +65,28 @@ def sync_all(config_path: str = "config.yaml", output_json: str = "docs/data/pag
         if not token:
             token = os.environ.get("FB_PAGE_ACCESS_TOKEN", "")
 
-        # 1. Drive stock count
+        # 1. Drive stock count & Up Next queue preview
         stock = 0
+        up_next_list = []
         if drive_client.is_configured:
-            stock = drive_client.get_folder_stock_count(page.drive_folder_id, db)
+            try:
+                unposted = drive_client.get_unposted_videos(page.drive_folder_id, db)
+                stock = len(unposted)
+                for item in unposted[:5]:
+                    raw_title = item.get("name", "Untitled")
+                    base_name, _ = os.path.splitext(raw_title)
+                    sz_bytes = int(item.get("size", 0)) if item.get("size") else 0
+                    sz_mb = round(sz_bytes / (1024 * 1024), 1) if sz_bytes else 0
+                    up_next_list.append({
+                        "id": item.get("id"),
+                        "title": base_name,
+                        "filename": raw_title,
+                        "size_mb": sz_mb,
+                        "created_time": item.get("createdTime", "")
+                    })
+            except Exception as e:
+                logger.warning(f"Could not fetch unposted videos for folder {page.drive_folder_id}: {e}")
+                stock = drive_client.get_folder_stock_count(page.drive_folder_id, db)
         total_stock += stock
 
         # 2. Meta Insights (Followers & Avatar)
@@ -127,6 +145,7 @@ def sync_all(config_path: str = "config.yaml", output_json: str = "docs/data/pag
             "followers": followers,
             "views": page_views,
             "stock_count": stock,
+            "up_next": up_next_list,
             "last_posted_at": last_posted or "No posts yet",
             "avatar_url": avatar_url,
             "token_healthy": token_healthy,
@@ -141,14 +160,59 @@ def sync_all(config_path: str = "config.yaml", output_json: str = "docs/data/pag
     top_performers = sorted(pages_output, key=lambda x: x["views"], reverse=True)
     low_performers = [p for p in pages_output if p["views"] < 500]
 
+    # Generate 7-day upload performance trend for chart
+    now_utc = datetime.now(timezone.utc)
+    today = now_utc.date()
+    daily_analytics = []
+    for day_offset in range(6, -1, -1):
+        target_date = today - timedelta(days=day_offset)
+        date_str = target_date.strftime("%Y-%m-%d")
+        day_label = target_date.strftime("%b %d")
+        day_count = sum(1 for u in recent_uploads if (u.get("timestamp") or "").startswith(date_str))
+        daily_analytics.append({
+            "date": date_str,
+            "label": day_label,
+            "uploads": day_count
+        })
+
+    # Calculate Next Scheduled Slot
+    slot_defs = [
+        {"name": "Slot 1 (Morning)", "est": "09:00 AM EST", "hour": 13, "minute": 0},
+        {"name": "Slot 2 (Mid-Day)", "est": "01:00 PM EST", "hour": 17, "minute": 0},
+        {"name": "Slot 3 (Evening)", "est": "05:00 PM EST", "hour": 21, "minute": 0},
+        {"name": "Slot 4 (Night)", "est": "09:30 PM EST", "hour": 1, "minute": 30, "next_day": True},
+    ]
+
+    next_slot_info = None
+    min_diff = None
+
+    for slot in slot_defs:
+        target_dt = now_utc.replace(hour=slot["hour"], minute=slot["minute"], second=0, microsecond=0)
+        if slot.get("next_day") and now_utc.hour >= 2:
+            target_dt += timedelta(days=1)
+        elif target_dt <= now_utc:
+            target_dt += timedelta(days=1)
+
+        diff = (target_dt - now_utc).total_seconds()
+        if min_diff is None or diff < min_diff:
+            min_diff = diff
+            next_slot_info = {
+                "name": slot["name"],
+                "est": slot["est"],
+                "target_iso": target_dt.isoformat(),
+                "seconds_left": int(diff)
+            }
+
     payload = {
         "metrics": {
             "total_fleet_followers": total_followers,
             "total_views": total_views,
             "total_reels_published": len(recent_uploads),
             "total_playable_stock": total_stock,
-            "last_sync": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+            "last_sync": now_utc.strftime("%Y-%m-%d %H:%M:%S UTC"),
+            "next_slot": next_slot_info
         },
+        "daily_analytics": daily_analytics,
         "pages": pages_output,
         "top_performers": top_performers[:50],
         "low_performers": low_performers,

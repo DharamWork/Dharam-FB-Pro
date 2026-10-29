@@ -8,6 +8,7 @@ from src.db import DatabaseManager
 from src.drive_client import GoogleDriveClient
 from src.facebook_client import FacebookClient
 from src.video_utils import probe_video
+from src.notifier import TelegramNotifier
 
 logger = logging.getLogger(__name__)
 
@@ -98,6 +99,7 @@ def process_single_page(
             clean_caption = base_name.strip()
 
         logger.info(f"Using exact Drive title for publication: '{clean_caption}'")
+        notifier = TelegramNotifier()
 
         if route == "reel":
             fb_video_id = fb_client.upload_reel(
@@ -132,6 +134,22 @@ def process_single_page(
                 except Exception as del_err:
                     logger.warning(f"Drive cleanup error for {file_id}: {del_err}")
 
+            # 9. Optional Telegram notification (Non-blocking)
+            try:
+                stock_remaining = drive_client.get_folder_stock_count(page_config.drive_folder_id, db_manager)
+                notifier.notify_reel_uploaded(
+                    page_name=page_config.display_name,
+                    page_id=page_id,
+                    reel_title=clean_caption,
+                    fb_video_id=fb_video_id,
+                    stock_remaining=stock_remaining,
+                    route=route
+                )
+                if stock_remaining < 5:
+                    notifier.notify_low_stock(page_config.display_name, stock_remaining, page_config.drive_folder_id)
+            except Exception as notify_err:
+                logger.debug(f"Telegram notifier non-fatal log: {notify_err}")
+
         logger.info(f"Successfully posted video '{filename}' to Page {page_id}! FB ID: {fb_video_id}")
         return PageExecutionResult(page_id, True, f"Uploaded successfully as {route}", fb_video_id)
 
@@ -148,6 +166,10 @@ def process_single_page(
                 status="failed",
                 error_message=error_msg
             )
+            try:
+                TelegramNotifier().notify_error(page_config.display_name, error_msg)
+            except Exception:
+                pass
         return PageExecutionResult(page_id, False, error_msg)
 
     finally:
