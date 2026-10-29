@@ -4,12 +4,12 @@
     "total_views": 0,
     "total_reels_published": 8,
     "total_playable_stock": 65,
-    "last_sync": "2026-10-29 16:40:30 UTC",
+    "last_sync": "2026-10-29 17:44:33 UTC",
     "next_slot": {
-      "name": "Slot 2 (Mid-Day)",
-      "est": "01:00 PM EST",
-      "target_iso": "2026-10-29T17:00:00+00:00",
-      "seconds_left": 1169
+      "name": "Slot 3 (Evening)",
+      "est": "05:00 PM EST",
+      "target_iso": "2026-10-29T21:00:00+00:00",
+      "seconds_left": 11726
     }
   },
   "daily_analytics": [
