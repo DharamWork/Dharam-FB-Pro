@@ -27,12 +27,12 @@ class TelegramNotifier:
         chat_id: Optional[str] = None,
         timeout: int = 10
     ):
-        self.bot_token = bot_token or os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-        self.chat_id = chat_id or os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+        self.bot_token = bot_token.strip() if bot_token is not None else os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+        self.chat_id = chat_id.strip() if chat_id is not None else os.environ.get("TELEGRAM_CHAT_ID", "").strip()
         self.timeout = timeout
 
         # Support reading from local .env if not found in os.environ
-        if not self.bot_token or not self.chat_id:
+        if bot_token is None and chat_id is None and (not self.bot_token or not self.chat_id):
             self._load_from_env_file()
 
     def _load_from_env_file(self):
