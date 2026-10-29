@@ -2,14 +2,14 @@
   "metrics": {
     "total_fleet_followers": 0,
     "total_views": 0,
-    "total_reels_published": 6,
-    "total_playable_stock": 67,
-    "last_sync": "2026-10-29 12:32:22 UTC",
+    "total_reels_published": 8,
+    "total_playable_stock": 65,
+    "last_sync": "2026-10-29 13:52:03 UTC",
     "next_slot": {
-      "name": "Slot 1 (Morning)",
-      "est": "09:00 AM EST",
-      "target_iso": "2026-10-29T13:00:00+00:00",
-      "seconds_left": 1657
+      "name": "Slot 2 (Mid-Day)",
+      "est": "01:00 PM EST",
+      "target_iso": "2026-10-29T17:00:00+00:00",
+      "seconds_left": 11276
     }
   },
   "daily_analytics": [
@@ -58,15 +58,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 0,
       "views": 0,
-      "stock_count": 27,
+      "stock_count": 26,
       "up_next": [
-        {
-          "id": "1MQPSkyHCMET1PxEdB-Uo1z7tqpAXQ25q",
-          "title": "LADIES FIRST ! \ud83d\ude01\u2640\ufe0f",
-          "filename": "LADIES FIRST ! \ud83d\ude01\u2640\ufe0f.mp4",
-          "size_mb": 4.9,
-          "created_time": "2026-10-28T12:19:07.075Z"
-        },
         {
           "id": "155Tw8BO0g8kfD-9oUAAxPcDFyjpvmT_I",
           "title": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman",
@@ -94,10 +87,17 @@
           "filename": "Ms Pacman in Acid trap ! \ud83d\ude09\ud83d\ude4f#friendship #pacman #trending #stickman #acid.mp4",
           "size_mb": 11.9,
           "created_time": "2026-10-28T12:19:40.870Z"
+        },
+        {
+          "id": "1g6NNI1-aXDFgUbdHX1TfzWQPuxpVICEi",
+          "title": "Open Sesame ! \ud83d\ude1c",
+          "filename": "Open Sesame ! \ud83d\ude1c.mp4",
+          "size_mb": 3.0,
+          "created_time": "2026-10-28T12:19:44.463Z"
         }
       ],
-      "last_posted_at": "2026-10-29 02:13:37",
-      "avatar_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwEJkqOb&_nc_oc=AdoP5_Z21vqhl8445xZLZoc5Yh1ffeeKClQiVCUracbKyriavHidiuMh3mXdbAas-_I&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&edm=AJdBtusEAAAA&_nc_gid=gkdGEZ6_3gpQ93KJ_MH1lg&_nc_tpa=Q5bMBQKFxaouj9q2h14ZZFGxZa2kdWYlmxl9hCTtcOdR-T_bDTJ5DCtEGpAdw8amctyUQKPbInXA58BNwQ&oh=00_AQSNPnvh49PZZq5u4a_2sS7fUR02g9xYTE04Sygjdvu64w&oe=6AE902FE",
+      "last_posted_at": "2026-10-29 13:51:44",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwHJxb8R&_nc_oc=AdqVyH51xJTs4McHpV_yUfSaB9SsxBSK5d6lZ8jsuwQ88gv4bF-mdmH0_-AgXn1F2DE&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=rz4-6vSwp1GszTezkBOhuA&_nc_tpa=Q5bMBQLgoQ70I7-PB9YNGw15P0OYMWhRPjMEbjdyHDw_fidIhFz-BANPJ8N1BfI4ljc_1NnMe8zV3vIUYQ&oh=00_AQQ6nubk02c-Ayv3XHnfRIxtuaNQG4ghpQWh6c4iEmD8sQ&oe=6AE93B3E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -110,15 +110,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 0,
-      "stock_count": 40,
+      "stock_count": 39,
       "up_next": [
-        {
-          "id": "1zX6KcHot_X7Ru69hUb6ko7PNbOoHEU6I",
-          "title": "Bro thought he escaped destiny! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "Bro thought he escaped destiny! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 2.4,
-          "created_time": "2026-10-28T12:15:43.523Z"
-        },
         {
           "id": "1Xf66LgCjitRcl4C9BnuEHJW3ipd1UlM3",
           "title": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -146,10 +139,17 @@
           "filename": "Days of No Sleep! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 3.1,
           "created_time": "2026-10-28T12:16:02.864Z"
+        },
+        {
+          "id": "19qwl8LzhOwUZijj8LhXnBGi25T3LqC88",
+          "title": "Bro has PhD in cheating! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "Bro has PhD in cheating! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 2.4,
+          "created_time": "2026-10-28T12:16:09.321Z"
         }
       ],
-      "last_posted_at": "2026-10-29 02:13:49",
-      "avatar_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwFAmMsx&_nc_oc=AdqOlFJScAmrJiz5UZGCFJjU6X6nn0TXg3nzPxJpZjgmEF5QoIz28MuhBgK5OsSo3WI&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&edm=AJdBtusEAAAA&_nc_gid=ml5_suRtW1b-bVyS8du0Lw&_nc_tpa=Q5bMBQL5tro9mmpdQ-hG6TRvB9R8FX5ZjfFSH-ja9i1evaeTN1nyMlgrOtT9JAgJ0lziBn5GwRaYVY2seg&oh=00_AQQz21Trizw7ULtF4yNe55DH9BZDeG0czqwINf9Csx-9BA&oe=6AE9030E",
+      "last_posted_at": "2026-10-29 13:51:58",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwGaNH82&_nc_oc=AdobGWLcHu14wQtQpyISO6VbhV76vPSitUoBFSKpXbSEgSHBSlmXVkkGabO1HFWtxIw&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=SY056NO7P0JcBnW8c45nsA&_nc_tpa=Q5bMBQI3OwSXwwbOXU2gOJwM4_67Eexdqzck5_n6qrZlmFg8h_bHFDyuJxC6Gd8KYqX2R8Kq-PKRm9mthA&oh=00_AQQQ4bMifzqASeel60tKOlOoqqWfqCLSkkUtSiJjulE5rA&oe=6AE93B4E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -164,15 +164,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 0,
       "views": 0,
-      "stock_count": 27,
+      "stock_count": 26,
       "up_next": [
-        {
-          "id": "1MQPSkyHCMET1PxEdB-Uo1z7tqpAXQ25q",
-          "title": "LADIES FIRST ! \ud83d\ude01\u2640\ufe0f",
-          "filename": "LADIES FIRST ! \ud83d\ude01\u2640\ufe0f.mp4",
-          "size_mb": 4.9,
-          "created_time": "2026-10-28T12:19:07.075Z"
-        },
         {
           "id": "155Tw8BO0g8kfD-9oUAAxPcDFyjpvmT_I",
           "title": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman",
@@ -200,10 +193,17 @@
           "filename": "Ms Pacman in Acid trap ! \ud83d\ude09\ud83d\ude4f#friendship #pacman #trending #stickman #acid.mp4",
           "size_mb": 11.9,
           "created_time": "2026-10-28T12:19:40.870Z"
+        },
+        {
+          "id": "1g6NNI1-aXDFgUbdHX1TfzWQPuxpVICEi",
+          "title": "Open Sesame ! \ud83d\ude1c",
+          "filename": "Open Sesame ! \ud83d\ude1c.mp4",
+          "size_mb": 3.0,
+          "created_time": "2026-10-28T12:19:44.463Z"
         }
       ],
-      "last_posted_at": "2026-10-29 02:13:37",
-      "avatar_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwEJkqOb&_nc_oc=AdoP5_Z21vqhl8445xZLZoc5Yh1ffeeKClQiVCUracbKyriavHidiuMh3mXdbAas-_I&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&edm=AJdBtusEAAAA&_nc_gid=gkdGEZ6_3gpQ93KJ_MH1lg&_nc_tpa=Q5bMBQKFxaouj9q2h14ZZFGxZa2kdWYlmxl9hCTtcOdR-T_bDTJ5DCtEGpAdw8amctyUQKPbInXA58BNwQ&oh=00_AQSNPnvh49PZZq5u4a_2sS7fUR02g9xYTE04Sygjdvu64w&oe=6AE902FE",
+      "last_posted_at": "2026-10-29 13:51:44",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwHJxb8R&_nc_oc=AdqVyH51xJTs4McHpV_yUfSaB9SsxBSK5d6lZ8jsuwQ88gv4bF-mdmH0_-AgXn1F2DE&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=rz4-6vSwp1GszTezkBOhuA&_nc_tpa=Q5bMBQLgoQ70I7-PB9YNGw15P0OYMWhRPjMEbjdyHDw_fidIhFz-BANPJ8N1BfI4ljc_1NnMe8zV3vIUYQ&oh=00_AQQ6nubk02c-Ayv3XHnfRIxtuaNQG4ghpQWh6c4iEmD8sQ&oe=6AE93B3E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -216,15 +216,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 0,
-      "stock_count": 40,
+      "stock_count": 39,
       "up_next": [
-        {
-          "id": "1zX6KcHot_X7Ru69hUb6ko7PNbOoHEU6I",
-          "title": "Bro thought he escaped destiny! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "Bro thought he escaped destiny! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 2.4,
-          "created_time": "2026-10-28T12:15:43.523Z"
-        },
         {
           "id": "1Xf66LgCjitRcl4C9BnuEHJW3ipd1UlM3",
           "title": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -252,10 +245,17 @@
           "filename": "Days of No Sleep! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 3.1,
           "created_time": "2026-10-28T12:16:02.864Z"
+        },
+        {
+          "id": "19qwl8LzhOwUZijj8LhXnBGi25T3LqC88",
+          "title": "Bro has PhD in cheating! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "Bro has PhD in cheating! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 2.4,
+          "created_time": "2026-10-28T12:16:09.321Z"
         }
       ],
-      "last_posted_at": "2026-10-29 02:13:49",
-      "avatar_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwFAmMsx&_nc_oc=AdqOlFJScAmrJiz5UZGCFJjU6X6nn0TXg3nzPxJpZjgmEF5QoIz28MuhBgK5OsSo3WI&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&edm=AJdBtusEAAAA&_nc_gid=ml5_suRtW1b-bVyS8du0Lw&_nc_tpa=Q5bMBQL5tro9mmpdQ-hG6TRvB9R8FX5ZjfFSH-ja9i1evaeTN1nyMlgrOtT9JAgJ0lziBn5GwRaYVY2seg&oh=00_AQQz21Trizw7ULtF4yNe55DH9BZDeG0czqwINf9Csx-9BA&oe=6AE9030E",
+      "last_posted_at": "2026-10-29 13:51:58",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwGaNH82&_nc_oc=AdobGWLcHu14wQtQpyISO6VbhV76vPSitUoBFSKpXbSEgSHBSlmXVkkGabO1HFWtxIw&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=SY056NO7P0JcBnW8c45nsA&_nc_tpa=Q5bMBQI3OwSXwwbOXU2gOJwM4_67Eexdqzck5_n6qrZlmFg8h_bHFDyuJxC6Gd8KYqX2R8Kq-PKRm9mthA&oh=00_AQQQ4bMifzqASeel60tKOlOoqqWfqCLSkkUtSiJjulE5rA&oe=6AE93B4E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -270,15 +270,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 0,
       "views": 0,
-      "stock_count": 27,
+      "stock_count": 26,
       "up_next": [
-        {
-          "id": "1MQPSkyHCMET1PxEdB-Uo1z7tqpAXQ25q",
-          "title": "LADIES FIRST ! \ud83d\ude01\u2640\ufe0f",
-          "filename": "LADIES FIRST ! \ud83d\ude01\u2640\ufe0f.mp4",
-          "size_mb": 4.9,
-          "created_time": "2026-10-28T12:19:07.075Z"
-        },
         {
           "id": "155Tw8BO0g8kfD-9oUAAxPcDFyjpvmT_I",
           "title": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman",
@@ -306,10 +299,17 @@
           "filename": "Ms Pacman in Acid trap ! \ud83d\ude09\ud83d\ude4f#friendship #pacman #trending #stickman #acid.mp4",
           "size_mb": 11.9,
           "created_time": "2026-10-28T12:19:40.870Z"
+        },
+        {
+          "id": "1g6NNI1-aXDFgUbdHX1TfzWQPuxpVICEi",
+          "title": "Open Sesame ! \ud83d\ude1c",
+          "filename": "Open Sesame ! \ud83d\ude1c.mp4",
+          "size_mb": 3.0,
+          "created_time": "2026-10-28T12:19:44.463Z"
         }
       ],
-      "last_posted_at": "2026-10-29 02:13:37",
-      "avatar_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwEJkqOb&_nc_oc=AdoP5_Z21vqhl8445xZLZoc5Yh1ffeeKClQiVCUracbKyriavHidiuMh3mXdbAas-_I&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&edm=AJdBtusEAAAA&_nc_gid=gkdGEZ6_3gpQ93KJ_MH1lg&_nc_tpa=Q5bMBQKFxaouj9q2h14ZZFGxZa2kdWYlmxl9hCTtcOdR-T_bDTJ5DCtEGpAdw8amctyUQKPbInXA58BNwQ&oh=00_AQSNPnvh49PZZq5u4a_2sS7fUR02g9xYTE04Sygjdvu64w&oe=6AE902FE",
+      "last_posted_at": "2026-10-29 13:51:44",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwHJxb8R&_nc_oc=AdqVyH51xJTs4McHpV_yUfSaB9SsxBSK5d6lZ8jsuwQ88gv4bF-mdmH0_-AgXn1F2DE&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=rz4-6vSwp1GszTezkBOhuA&_nc_tpa=Q5bMBQLgoQ70I7-PB9YNGw15P0OYMWhRPjMEbjdyHDw_fidIhFz-BANPJ8N1BfI4ljc_1NnMe8zV3vIUYQ&oh=00_AQQ6nubk02c-Ayv3XHnfRIxtuaNQG4ghpQWh6c4iEmD8sQ&oe=6AE93B3E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -322,15 +322,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 0,
-      "stock_count": 40,
+      "stock_count": 39,
       "up_next": [
-        {
-          "id": "1zX6KcHot_X7Ru69hUb6ko7PNbOoHEU6I",
-          "title": "Bro thought he escaped destiny! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "Bro thought he escaped destiny! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 2.4,
-          "created_time": "2026-10-28T12:15:43.523Z"
-        },
         {
           "id": "1Xf66LgCjitRcl4C9BnuEHJW3ipd1UlM3",
           "title": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -358,16 +351,45 @@
           "filename": "Days of No Sleep! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 3.1,
           "created_time": "2026-10-28T12:16:02.864Z"
+        },
+        {
+          "id": "19qwl8LzhOwUZijj8LhXnBGi25T3LqC88",
+          "title": "Bro has PhD in cheating! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "Bro has PhD in cheating! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 2.4,
+          "created_time": "2026-10-28T12:16:09.321Z"
         }
       ],
-      "last_posted_at": "2026-10-29 02:13:49",
-      "avatar_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwFAmMsx&_nc_oc=AdqOlFJScAmrJiz5UZGCFJjU6X6nn0TXg3nzPxJpZjgmEF5QoIz28MuhBgK5OsSo3WI&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&edm=AJdBtusEAAAA&_nc_gid=ml5_suRtW1b-bVyS8du0Lw&_nc_tpa=Q5bMBQL5tro9mmpdQ-hG6TRvB9R8FX5ZjfFSH-ja9i1evaeTN1nyMlgrOtT9JAgJ0lziBn5GwRaYVY2seg&oh=00_AQQz21Trizw7ULtF4yNe55DH9BZDeG0czqwINf9Csx-9BA&oe=6AE9030E",
+      "last_posted_at": "2026-10-29 13:51:58",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=QvMUALf-C9YQ7kNvwGaNH82&_nc_oc=AdobGWLcHu14wQtQpyISO6VbhV76vPSitUoBFSKpXbSEgSHBSlmXVkkGabO1HFWtxIw&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=SY056NO7P0JcBnW8c45nsA&_nc_tpa=Q5bMBQI3OwSXwwbOXU2gOJwM4_67Eexdqzck5_n6qrZlmFg8h_bHFDyuJxC6Gd8KYqX2R8Kq-PKRm9mthA&oh=00_AQQQ4bMifzqASeel60tKOlOoqqWfqCLSkkUtSiJjulE5rA&oe=6AE93B4E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
     }
   ],
   "recent_uploads": [
+    {
+      "id": 8,
+      "page_id": "1439435542586778",
+      "drive_file_id": "1zX6KcHot_X7Ru69hUb6ko7PNbOoHEU6I",
+      "facebook_video_id": "1835789137619025",
+      "filename": "Bro thought he escaped destiny! \ud83e\udd23 (best animation memes) #shorts.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-10-29 13:51:58",
+      "error_message": null
+    },
+    {
+      "id": 7,
+      "page_id": "1291088570765567",
+      "drive_file_id": "1MQPSkyHCMET1PxEdB-Uo1z7tqpAXQ25q",
+      "facebook_video_id": "1413784424239782",
+      "filename": "LADIES FIRST ! \ud83d\ude01\u2640\ufe0f.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-10-29 13:51:44",
+      "error_message": null
+    },
     {
       "id": 6,
       "page_id": "1439435542586778",
