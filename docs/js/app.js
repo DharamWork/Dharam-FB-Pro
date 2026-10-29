@@ -230,6 +230,14 @@ document.addEventListener("DOMContentLoaded", () => {
     const container = document.getElementById("pagesContainer");
     const searchInput = document.getElementById("pageSearchInput");
 
+    // Populate Post Now Studio Target Select with active fleet pages
+    const select = document.getElementById("manualPageSelect");
+    if (select && pages.length) {
+      select.innerHTML = pages.map(p => `
+        <option value="${p.page_id}">${p.display_name} (${p.account_group || 'USA'}) • Stock: ${p.stock_count} ready</option>
+      `).join("");
+    }
+
     const render = (items) => {
       if (!items.length) {
         container.innerHTML = `<div style="grid-column: 1/-1; text-align: center; padding: 2rem; color: var(--text-dim);">No pages match your search.</div>`;
