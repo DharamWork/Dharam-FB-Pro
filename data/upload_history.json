@@ -1,5 +1,27 @@
 [
   {
+    "id": 10,
+    "page_id": "1439435542586778",
+    "drive_file_id": "1Xf66LgCjitRcl4C9BnuEHJW3ipd1UlM3",
+    "facebook_video_id": null,
+    "filename": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+    "post_type": "unknown",
+    "status": "failed",
+    "posted_at": "2026-10-29 21:29:00",
+    "error_message": "Reel upload start error: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page."
+  },
+  {
+    "id": 9,
+    "page_id": "1291088570765567",
+    "drive_file_id": "155Tw8BO0g8kfD-9oUAAxPcDFyjpvmT_I",
+    "facebook_video_id": null,
+    "filename": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman.mp4",
+    "post_type": "unknown",
+    "status": "failed",
+    "posted_at": "2026-10-29 21:28:58",
+    "error_message": "Reel upload start error: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page."
+  },
+  {
     "id": 8,
     "page_id": "1439435542586778",
     "drive_file_id": "1zX6KcHot_X7Ru69hUb6ko7PNbOoHEU6I",

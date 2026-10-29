@@ -2,14 +2,14 @@
   "metrics": {
     "total_fleet_followers": 0,
     "total_views": 0,
-    "total_reels_published": 8,
+    "total_reels_published": 10,
     "total_playable_stock": 65,
-    "last_sync": "2026-10-29 20:30:15 UTC",
+    "last_sync": "2026-10-29 21:29:02 UTC",
     "next_slot": {
-      "name": "Slot 3 (Evening)",
-      "est": "05:00 PM EST",
-      "target_iso": "2026-10-29T21:00:00+00:00",
-      "seconds_left": 1784
+      "name": "Slot 4 (Night)",
+      "est": "09:30 PM EST",
+      "target_iso": "2026-10-30T01:30:00+00:00",
+      "seconds_left": 14457
     }
   },
   "daily_analytics": [
@@ -368,6 +368,28 @@
     }
   ],
   "recent_uploads": [
+    {
+      "id": 10,
+      "page_id": "1439435542586778",
+      "drive_file_id": "1Xf66LgCjitRcl4C9BnuEHJW3ipd1UlM3",
+      "facebook_video_id": null,
+      "filename": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+      "post_type": "unknown",
+      "status": "failed",
+      "posted_at": "2026-10-29 21:29:00",
+      "error_message": "Reel upload start error: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page."
+    },
+    {
+      "id": 9,
+      "page_id": "1291088570765567",
+      "drive_file_id": "155Tw8BO0g8kfD-9oUAAxPcDFyjpvmT_I",
+      "facebook_video_id": null,
+      "filename": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman.mp4",
+      "post_type": "unknown",
+      "status": "failed",
+      "posted_at": "2026-10-29 21:28:58",
+      "error_message": "Reel upload start error: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page."
+    },
     {
       "id": 8,
       "page_id": "1439435542586778",
