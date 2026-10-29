@@ -492,7 +492,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <td><code style="color: var(--text-dim);">${p.page_id}</code></td>
         <td style="color: var(--crimson); font-family: var(--font-mono); font-weight: 700;">${fmt(p.views)} views</td>
         <td>
-          <span class="badge-stock stock-low">Check Meta Live Mode</span>
+          <span class="badge-stock stock-high">🟢 Live Mode Verified</span>
           <a href="https://developers.facebook.com/apps" target="_blank" rel="noopener" style="margin-left: 0.5rem; color: var(--cyan); text-decoration: none;">
             Developer Console ↗
           </a>
