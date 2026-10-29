@@ -51,3 +51,4 @@ def test_telegram_notifier_network_failure_does_not_crash(mock_post):
     # Must return False, not raise
     result = notifier.send_message("Hello")
     assert result is False
+

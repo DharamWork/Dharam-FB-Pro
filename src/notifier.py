@@ -135,3 +135,4 @@ class TelegramNotifier:
             f"ℹ️ _System will retry in next scheduled cloud slot._"
         )
         return self.send_message(message)
+
