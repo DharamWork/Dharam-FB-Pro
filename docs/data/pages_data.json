@@ -4,20 +4,15 @@
     "total_views": 0,
     "total_reels_published": 10,
     "total_playable_stock": 65,
-    "last_sync": "2026-10-29 22:28:41 UTC",
+    "last_sync": "2026-10-30 00:28:59 UTC",
     "next_slot": {
       "name": "Slot 4 (Night)",
       "est": "09:30 PM EST",
       "target_iso": "2026-10-30T01:30:00+00:00",
-      "seconds_left": 10878
+      "seconds_left": 3660
     }
   },
   "daily_analytics": [
-    {
-      "date": "2026-10-23",
-      "label": "Oct 23",
-      "uploads": 0
-    },
     {
       "date": "2026-10-24",
       "label": "Oct 24",
@@ -46,6 +41,11 @@
     {
       "date": "2026-10-29",
       "label": "Oct 29",
+      "uploads": 0
+    },
+    {
+      "date": "2026-10-30",
+      "label": "Oct 30",
       "uploads": 0
     }
   ],
