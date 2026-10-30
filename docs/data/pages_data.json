@@ -4,12 +4,12 @@
     "total_views": 0,
     "total_reels_published": 10,
     "total_playable_stock": 65,
-    "last_sync": "2026-10-30 02:13:21 UTC",
+    "last_sync": "2026-10-30 02:35:27 UTC",
     "next_slot": {
       "name": "Slot 1 (Morning)",
       "est": "09:00 AM EST",
       "target_iso": "2026-10-30T13:00:00+00:00",
-      "seconds_left": 38798
+      "seconds_left": 37472
     }
   },
   "daily_analytics": [
