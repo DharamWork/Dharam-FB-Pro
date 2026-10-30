@@ -1,15 +1,15 @@
 {
   "metrics": {
     "total_fleet_followers": 1,
-    "total_views": 312,
+    "total_views": 313,
     "total_reels_published": 10,
-    "total_playable_stock": 65,
-    "last_sync": "2026-10-30 12:31:48 UTC",
+    "total_playable_stock": 63,
+    "last_sync": "2026-10-30 13:52:12 UTC",
     "next_slot": {
-      "name": "Slot 1 (Morning)",
-      "est": "09:00 AM EST",
-      "target_iso": "2026-10-30T13:00:00+00:00",
-      "seconds_left": 1691
+      "name": "Slot 2 (Mid-Day)",
+      "est": "01:00 PM EST",
+      "target_iso": "2026-10-30T17:00:00+00:00",
+      "seconds_left": 11267
     }
   },
   "daily_analytics": [
@@ -57,16 +57,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 312,
-      "stock_count": 26,
+      "views": 313,
+      "stock_count": 25,
       "up_next": [
-        {
-          "id": "155Tw8BO0g8kfD-9oUAAxPcDFyjpvmT_I",
-          "title": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman",
-          "filename": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman.mp4",
-          "size_mb": 13.0,
-          "created_time": "2026-10-28T12:19:14.224Z"
-        },
         {
           "id": "1vOffWzMR0YXLJZEFDvkblYuuCRov7eBv",
           "title": "Just Press That Green Button ! \ud83d\ude31\ud83d\udd0b",
@@ -94,10 +87,17 @@
           "filename": "Open Sesame ! \ud83d\ude1c.mp4",
           "size_mb": 3.0,
           "created_time": "2026-10-28T12:19:44.463Z"
+        },
+        {
+          "id": "1WoAUCS5p7Rv7W-FRl1FeOf4n_iyxzy1a",
+          "title": "One Kick, one chance \u26bd\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #worldcup #domino",
+          "filename": "One Kick, one chance \u26bd\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #worldcup #domino.mp4",
+          "size_mb": 20.2,
+          "created_time": "2026-10-28T12:19:54.110Z"
         }
       ],
-      "last_posted_at": "2026-10-29 13:51:44",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwGV04EN&_nc_oc=Adr25eGYUTRig7Ufa-7q5V2K7jNKMsL_tltfUDZOSdt7zb--40fVw_B3L0f5YvIWWPQ&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=Ictpk8eqce4rkQvw9uDoXQ&_nc_tpa=Q5bMBQKDmqjv8du5EYRk3TOlkbqrJ7WGBhCtrLKDFGncieSfgiE9LNnw2MT7wVI9IxEC5pc_8NxltYMqOQ&oh=00_AQQSmNvZAMhJyX_h-26knuofxo7wah_SIci133Z92a-gTg&oe=6AEA547E",
+      "last_posted_at": "2026-10-30 13:52:00",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwEBzjQs&_nc_oc=AdoXSB60DxF8nCfBvPua-jOmK9k6dqWtIwKMOLEdzEfipTN4rbQbT0fktt6fZw-kxg8&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=YFCzNssaHLYuu0WsWNLZ1Q&_nc_tpa=Q5bMBQIyknrkIMGvK6UWetAIGczxq3u5XiuO5q38VADYN13LUpTWKM4qHVSqZO54LX6Bc6IbKH9wipa2qw&oh=00_AQTKtK-MM0eoDvRB5SeInsy2OlTWJKtkDuopmLjGzgsqvA&oe=6AEA8CBE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -110,15 +110,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 0,
-      "stock_count": 39,
+      "stock_count": 38,
       "up_next": [
-        {
-          "id": "1Xf66LgCjitRcl4C9BnuEHJW3ipd1UlM3",
-          "title": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.5,
-          "created_time": "2026-10-28T12:15:47.847Z"
-        },
         {
           "id": "1JSV4VZv0DwxdBhVK94OX8pU2OeozwKaV",
           "title": "Alone at 2 AM! \ud83e\udd23 (Best Animation Memes) #shorts #animationmeme",
@@ -146,10 +139,17 @@
           "filename": "Bro has PhD in cheating! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 2.4,
           "created_time": "2026-10-28T12:16:09.321Z"
+        },
+        {
+          "id": "1xVrj7ZAKVfBl1i5_KoCkf7Md72DtjEp8",
+          "title": "Best Mosquito Revenge Ever! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "Best Mosquito Revenge Ever! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 3.5,
+          "created_time": "2026-10-28T12:16:16.525Z"
         }
       ],
-      "last_posted_at": "2026-10-29 13:51:58",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwHM6C3s&_nc_oc=AdpP91fsTfuHMZJRqdcyc_2rJZdK-HfaZWXKpNIzlr4ybpYM0uk_CRHY7C2Vu00O6sk&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=E9L1JMzpXtqk_nDIEIR1uA&_nc_tpa=Q5bMBQIsXZ06Os23XiqOmrnpjbmWpusii3MRAZ7JwI3102pTRbrbxs3CU5LYx0_QztIDm1vdjYHlc0do3w&oh=00_AQRR9ZAD8gkurBL1zPPARCOObV49n3dA6UFECwzCM5NAHQ&oe=6AEA548E",
+      "last_posted_at": "2026-10-30 13:52:09",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwGfOkaz&_nc_oc=AdqiZrVMJB21ld8t5al5ykC5P4e0YHUp2MLKS8fNLEdgn7bXbDXEI53O8MU02X4uuTw&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=f5XXJrZEF6ggemRlXDMUTw&_nc_tpa=Q5bMBQI6VtS0GUPsjnlAsxqXlDCH6UXdU5oYXkwQ8lmCO9zL0fjZTXXEm3mcV3f4OaoEov7Y1ihjAsg9eg&oh=00_AQS3UWV9beMiLke4DQu6Lz-dwhnAyg4RyFYipUZ82V-1_Q&oe=6AEA8CCE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -163,16 +163,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 312,
-      "stock_count": 26,
+      "views": 313,
+      "stock_count": 25,
       "up_next": [
-        {
-          "id": "155Tw8BO0g8kfD-9oUAAxPcDFyjpvmT_I",
-          "title": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman",
-          "filename": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman.mp4",
-          "size_mb": 13.0,
-          "created_time": "2026-10-28T12:19:14.224Z"
-        },
         {
           "id": "1vOffWzMR0YXLJZEFDvkblYuuCRov7eBv",
           "title": "Just Press That Green Button ! \ud83d\ude31\ud83d\udd0b",
@@ -200,10 +193,17 @@
           "filename": "Open Sesame ! \ud83d\ude1c.mp4",
           "size_mb": 3.0,
           "created_time": "2026-10-28T12:19:44.463Z"
+        },
+        {
+          "id": "1WoAUCS5p7Rv7W-FRl1FeOf4n_iyxzy1a",
+          "title": "One Kick, one chance \u26bd\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #worldcup #domino",
+          "filename": "One Kick, one chance \u26bd\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #worldcup #domino.mp4",
+          "size_mb": 20.2,
+          "created_time": "2026-10-28T12:19:54.110Z"
         }
       ],
-      "last_posted_at": "2026-10-29 13:51:44",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwGV04EN&_nc_oc=Adr25eGYUTRig7Ufa-7q5V2K7jNKMsL_tltfUDZOSdt7zb--40fVw_B3L0f5YvIWWPQ&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=Ictpk8eqce4rkQvw9uDoXQ&_nc_tpa=Q5bMBQKDmqjv8du5EYRk3TOlkbqrJ7WGBhCtrLKDFGncieSfgiE9LNnw2MT7wVI9IxEC5pc_8NxltYMqOQ&oh=00_AQQSmNvZAMhJyX_h-26knuofxo7wah_SIci133Z92a-gTg&oe=6AEA547E",
+      "last_posted_at": "2026-10-30 13:52:00",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwEBzjQs&_nc_oc=AdoXSB60DxF8nCfBvPua-jOmK9k6dqWtIwKMOLEdzEfipTN4rbQbT0fktt6fZw-kxg8&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=YFCzNssaHLYuu0WsWNLZ1Q&_nc_tpa=Q5bMBQIyknrkIMGvK6UWetAIGczxq3u5XiuO5q38VADYN13LUpTWKM4qHVSqZO54LX6Bc6IbKH9wipa2qw&oh=00_AQTKtK-MM0eoDvRB5SeInsy2OlTWJKtkDuopmLjGzgsqvA&oe=6AEA8CBE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -216,15 +216,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 0,
-      "stock_count": 39,
+      "stock_count": 38,
       "up_next": [
-        {
-          "id": "1Xf66LgCjitRcl4C9BnuEHJW3ipd1UlM3",
-          "title": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.5,
-          "created_time": "2026-10-28T12:15:47.847Z"
-        },
         {
           "id": "1JSV4VZv0DwxdBhVK94OX8pU2OeozwKaV",
           "title": "Alone at 2 AM! \ud83e\udd23 (Best Animation Memes) #shorts #animationmeme",
@@ -252,10 +245,17 @@
           "filename": "Bro has PhD in cheating! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 2.4,
           "created_time": "2026-10-28T12:16:09.321Z"
+        },
+        {
+          "id": "1xVrj7ZAKVfBl1i5_KoCkf7Md72DtjEp8",
+          "title": "Best Mosquito Revenge Ever! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "Best Mosquito Revenge Ever! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 3.5,
+          "created_time": "2026-10-28T12:16:16.525Z"
         }
       ],
-      "last_posted_at": "2026-10-29 13:51:58",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwHM6C3s&_nc_oc=AdpP91fsTfuHMZJRqdcyc_2rJZdK-HfaZWXKpNIzlr4ybpYM0uk_CRHY7C2Vu00O6sk&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=E9L1JMzpXtqk_nDIEIR1uA&_nc_tpa=Q5bMBQIsXZ06Os23XiqOmrnpjbmWpusii3MRAZ7JwI3102pTRbrbxs3CU5LYx0_QztIDm1vdjYHlc0do3w&oh=00_AQRR9ZAD8gkurBL1zPPARCOObV49n3dA6UFECwzCM5NAHQ&oe=6AEA548E",
+      "last_posted_at": "2026-10-30 13:52:09",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwGfOkaz&_nc_oc=AdqiZrVMJB21ld8t5al5ykC5P4e0YHUp2MLKS8fNLEdgn7bXbDXEI53O8MU02X4uuTw&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=f5XXJrZEF6ggemRlXDMUTw&_nc_tpa=Q5bMBQI6VtS0GUPsjnlAsxqXlDCH6UXdU5oYXkwQ8lmCO9zL0fjZTXXEm3mcV3f4OaoEov7Y1ihjAsg9eg&oh=00_AQS3UWV9beMiLke4DQu6Lz-dwhnAyg4RyFYipUZ82V-1_Q&oe=6AEA8CCE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -269,16 +269,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 312,
-      "stock_count": 26,
+      "views": 313,
+      "stock_count": 25,
       "up_next": [
-        {
-          "id": "155Tw8BO0g8kfD-9oUAAxPcDFyjpvmT_I",
-          "title": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman",
-          "filename": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman.mp4",
-          "size_mb": 13.0,
-          "created_time": "2026-10-28T12:19:14.224Z"
-        },
         {
           "id": "1vOffWzMR0YXLJZEFDvkblYuuCRov7eBv",
           "title": "Just Press That Green Button ! \ud83d\ude31\ud83d\udd0b",
@@ -306,10 +299,17 @@
           "filename": "Open Sesame ! \ud83d\ude1c.mp4",
           "size_mb": 3.0,
           "created_time": "2026-10-28T12:19:44.463Z"
+        },
+        {
+          "id": "1WoAUCS5p7Rv7W-FRl1FeOf4n_iyxzy1a",
+          "title": "One Kick, one chance \u26bd\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #worldcup #domino",
+          "filename": "One Kick, one chance \u26bd\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #worldcup #domino.mp4",
+          "size_mb": 20.2,
+          "created_time": "2026-10-28T12:19:54.110Z"
         }
       ],
-      "last_posted_at": "2026-10-29 13:51:44",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwGV04EN&_nc_oc=Adr25eGYUTRig7Ufa-7q5V2K7jNKMsL_tltfUDZOSdt7zb--40fVw_B3L0f5YvIWWPQ&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=Ictpk8eqce4rkQvw9uDoXQ&_nc_tpa=Q5bMBQKDmqjv8du5EYRk3TOlkbqrJ7WGBhCtrLKDFGncieSfgiE9LNnw2MT7wVI9IxEC5pc_8NxltYMqOQ&oh=00_AQQSmNvZAMhJyX_h-26knuofxo7wah_SIci133Z92a-gTg&oe=6AEA547E",
+      "last_posted_at": "2026-10-30 13:52:00",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwEBzjQs&_nc_oc=AdoXSB60DxF8nCfBvPua-jOmK9k6dqWtIwKMOLEdzEfipTN4rbQbT0fktt6fZw-kxg8&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=YFCzNssaHLYuu0WsWNLZ1Q&_nc_tpa=Q5bMBQIyknrkIMGvK6UWetAIGczxq3u5XiuO5q38VADYN13LUpTWKM4qHVSqZO54LX6Bc6IbKH9wipa2qw&oh=00_AQTKtK-MM0eoDvRB5SeInsy2OlTWJKtkDuopmLjGzgsqvA&oe=6AEA8CBE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -322,15 +322,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 0,
-      "stock_count": 39,
+      "stock_count": 38,
       "up_next": [
-        {
-          "id": "1Xf66LgCjitRcl4C9BnuEHJW3ipd1UlM3",
-          "title": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.5,
-          "created_time": "2026-10-28T12:15:47.847Z"
-        },
         {
           "id": "1JSV4VZv0DwxdBhVK94OX8pU2OeozwKaV",
           "title": "Alone at 2 AM! \ud83e\udd23 (Best Animation Memes) #shorts #animationmeme",
@@ -358,10 +351,17 @@
           "filename": "Bro has PhD in cheating! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 2.4,
           "created_time": "2026-10-28T12:16:09.321Z"
+        },
+        {
+          "id": "1xVrj7ZAKVfBl1i5_KoCkf7Md72DtjEp8",
+          "title": "Best Mosquito Revenge Ever! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "Best Mosquito Revenge Ever! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 3.5,
+          "created_time": "2026-10-28T12:16:16.525Z"
         }
       ],
-      "last_posted_at": "2026-10-29 13:51:58",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwHM6C3s&_nc_oc=AdpP91fsTfuHMZJRqdcyc_2rJZdK-HfaZWXKpNIzlr4ybpYM0uk_CRHY7C2Vu00O6sk&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=E9L1JMzpXtqk_nDIEIR1uA&_nc_tpa=Q5bMBQIsXZ06Os23XiqOmrnpjbmWpusii3MRAZ7JwI3102pTRbrbxs3CU5LYx0_QztIDm1vdjYHlc0do3w&oh=00_AQRR9ZAD8gkurBL1zPPARCOObV49n3dA6UFECwzCM5NAHQ&oe=6AEA548E",
+      "last_posted_at": "2026-10-30 13:52:09",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwGfOkaz&_nc_oc=AdqiZrVMJB21ld8t5al5ykC5P4e0YHUp2MLKS8fNLEdgn7bXbDXEI53O8MU02X4uuTw&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=f5XXJrZEF6ggemRlXDMUTw&_nc_tpa=Q5bMBQI6VtS0GUPsjnlAsxqXlDCH6UXdU5oYXkwQ8lmCO9zL0fjZTXXEm3mcV3f4OaoEov7Y1ihjAsg9eg&oh=00_AQS3UWV9beMiLke4DQu6Lz-dwhnAyg4RyFYipUZ82V-1_Q&oe=6AEA8CCE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -369,26 +369,26 @@
   ],
   "recent_uploads": [
     {
-      "id": 12,
+      "id": 14,
       "page_id": "1439435542586778",
       "drive_file_id": "1Xf66LgCjitRcl4C9BnuEHJW3ipd1UlM3",
-      "facebook_video_id": null,
+      "facebook_video_id": "1644318430400919",
       "filename": "Boys Life Hack! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-      "post_type": "unknown",
-      "status": "failed",
-      "posted_at": "2026-10-30 02:13:19",
-      "error_message": "Reel upload start error: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page."
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-10-30 13:52:09",
+      "error_message": null
     },
     {
-      "id": 11,
+      "id": 13,
       "page_id": "1291088570765567",
       "drive_file_id": "155Tw8BO0g8kfD-9oUAAxPcDFyjpvmT_I",
-      "facebook_video_id": null,
+      "facebook_video_id": "1447697767475121",
       "filename": "Maybe Bad at math, but definitely has good Friends \ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman.mp4",
-      "post_type": "unknown",
-      "status": "failed",
-      "posted_at": "2026-10-30 02:13:17",
-      "error_message": "Reel upload start error: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page."
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-10-30 13:52:00",
+      "error_message": null
     },
     {
       "id": 8,
