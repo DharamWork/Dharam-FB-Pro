@@ -1,15 +1,15 @@
 {
   "metrics": {
-    "total_fleet_followers": 0,
-    "total_views": 0,
+    "total_fleet_followers": 1,
+    "total_views": 310,
     "total_reels_published": 10,
     "total_playable_stock": 65,
-    "last_sync": "2026-10-30 02:35:27 UTC",
+    "last_sync": "2026-10-30 04:34:34 UTC",
     "next_slot": {
       "name": "Slot 1 (Morning)",
       "est": "09:00 AM EST",
       "target_iso": "2026-10-30T13:00:00+00:00",
-      "seconds_left": 37472
+      "seconds_left": 30325
     }
   },
   "daily_analytics": [
@@ -56,8 +56,8 @@
       "display_name": "StickWisdom",
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
-      "followers": 0,
-      "views": 0,
+      "followers": 1,
+      "views": 310,
       "stock_count": 26,
       "up_next": [
         {
@@ -97,7 +97,7 @@
         }
       ],
       "last_posted_at": "2026-10-29 13:51:44",
-      "avatar_url": "https://graph.facebook.com/v20.0/1291088570765567/picture?type=large",
+      "avatar_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwHny3_Z&_nc_oc=Adq_r2bs58M7YUyBJH47uBLKapWxAVhBzRB1-rimGtIL0XZAMLPwiQXYG8QvY6K8mU4&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=3qqRUyRKbeFXUhH1nUTobw&_nc_tpa=Q5bMBQLVnNhrOUYVUuQhong0gNByHrM1bOKVmpHc03rDHfcTcXYxbN3KgiSjCMC0Qp4vylhcyyStWiVAAw&oh=00_AQSPL7QwcACievR2ItQ6Hi9Hi0TIMYzTLUUdsVZ8exV08g&oe=6AE9E3FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -149,7 +149,7 @@
         }
       ],
       "last_posted_at": "2026-10-29 13:51:58",
-      "avatar_url": "https://graph.facebook.com/v20.0/1439435542586778/picture?type=large",
+      "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwGItUU8&_nc_oc=Adrgtf6TZPBh5m6vjxuzGgnVz2cmHUemV6FIvwBA3o_xLep6CdMParJz_gtTdj3AseQ&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&edm=AJdBtusEAAAA&_nc_gid=DGp91f7as55T0xFJhv6u9A&_nc_tpa=Q5bMBQII8ezf3Yt49b8KOpWzManyXO-5FemQldf5K1WeiOKbZ7Qq6RkPWd67rooxIrOnSR4F5aKQDfDBzA&oh=00_AQTAXhkzCsALe1AMVY7flDUDRLGrd8bFf915wkgZr7ZoUA&oe=6AE9E40E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -162,8 +162,8 @@
       "display_name": "StickWisdom",
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
-      "followers": 0,
-      "views": 0,
+      "followers": 1,
+      "views": 310,
       "stock_count": 26,
       "up_next": [
         {
@@ -203,7 +203,7 @@
         }
       ],
       "last_posted_at": "2026-10-29 13:51:44",
-      "avatar_url": "https://graph.facebook.com/v20.0/1291088570765567/picture?type=large",
+      "avatar_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwHny3_Z&_nc_oc=Adq_r2bs58M7YUyBJH47uBLKapWxAVhBzRB1-rimGtIL0XZAMLPwiQXYG8QvY6K8mU4&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=3qqRUyRKbeFXUhH1nUTobw&_nc_tpa=Q5bMBQLVnNhrOUYVUuQhong0gNByHrM1bOKVmpHc03rDHfcTcXYxbN3KgiSjCMC0Qp4vylhcyyStWiVAAw&oh=00_AQSPL7QwcACievR2ItQ6Hi9Hi0TIMYzTLUUdsVZ8exV08g&oe=6AE9E3FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -255,7 +255,7 @@
         }
       ],
       "last_posted_at": "2026-10-29 13:51:58",
-      "avatar_url": "https://graph.facebook.com/v20.0/1439435542586778/picture?type=large",
+      "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwGItUU8&_nc_oc=Adrgtf6TZPBh5m6vjxuzGgnVz2cmHUemV6FIvwBA3o_xLep6CdMParJz_gtTdj3AseQ&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&edm=AJdBtusEAAAA&_nc_gid=DGp91f7as55T0xFJhv6u9A&_nc_tpa=Q5bMBQII8ezf3Yt49b8KOpWzManyXO-5FemQldf5K1WeiOKbZ7Qq6RkPWd67rooxIrOnSR4F5aKQDfDBzA&oh=00_AQTAXhkzCsALe1AMVY7flDUDRLGrd8bFf915wkgZr7ZoUA&oe=6AE9E40E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -268,8 +268,8 @@
       "display_name": "StickWisdom",
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
-      "followers": 0,
-      "views": 0,
+      "followers": 1,
+      "views": 310,
       "stock_count": 26,
       "up_next": [
         {
@@ -309,7 +309,7 @@
         }
       ],
       "last_posted_at": "2026-10-29 13:51:44",
-      "avatar_url": "https://graph.facebook.com/v20.0/1291088570765567/picture?type=large",
+      "avatar_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Wad_BFwLBGYQ7kNvwHny3_Z&_nc_oc=Adq_r2bs58M7YUyBJH47uBLKapWxAVhBzRB1-rimGtIL0XZAMLPwiQXYG8QvY6K8mU4&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=3qqRUyRKbeFXUhH1nUTobw&_nc_tpa=Q5bMBQLVnNhrOUYVUuQhong0gNByHrM1bOKVmpHc03rDHfcTcXYxbN3KgiSjCMC0Qp4vylhcyyStWiVAAw&oh=00_AQSPL7QwcACievR2ItQ6Hi9Hi0TIMYzTLUUdsVZ8exV08g&oe=6AE9E3FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -361,7 +361,7 @@
         }
       ],
       "last_posted_at": "2026-10-29 13:51:58",
-      "avatar_url": "https://graph.facebook.com/v20.0/1439435542586778/picture?type=large",
+      "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwGItUU8&_nc_oc=Adrgtf6TZPBh5m6vjxuzGgnVz2cmHUemV6FIvwBA3o_xLep6CdMParJz_gtTdj3AseQ&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&edm=AJdBtusEAAAA&_nc_gid=DGp91f7as55T0xFJhv6u9A&_nc_tpa=Q5bMBQII8ezf3Yt49b8KOpWzManyXO-5FemQldf5K1WeiOKbZ7Qq6RkPWd67rooxIrOnSR4F5aKQDfDBzA&oh=00_AQTAXhkzCsALe1AMVY7flDUDRLGrd8bFf915wkgZr7ZoUA&oe=6AE9E40E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
