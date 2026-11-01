@@ -1,15 +1,15 @@
 {
   "metrics": {
     "total_fleet_followers": 1,
-    "total_views": 316,
-    "total_reels_published": 20,
-    "total_playable_stock": 53,
-    "last_sync": "2026-11-01 00:32:26 UTC",
+    "total_views": 318,
+    "total_reels_published": 22,
+    "total_playable_stock": 51,
+    "last_sync": "2026-11-01 02:16:00 UTC",
     "next_slot": {
-      "name": "Slot 4 (Night)",
-      "est": "09:30 PM EST",
-      "target_iso": "2026-11-01T01:30:00+00:00",
-      "seconds_left": 3453
+      "name": "Slot 1 (Morning)",
+      "est": "09:00 AM EST",
+      "target_iso": "2026-11-01T13:00:00+00:00",
+      "seconds_left": 38639
     }
   },
   "daily_analytics": [
@@ -58,15 +58,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
       "views": 314,
-      "stock_count": 20,
+      "stock_count": 19,
       "up_next": [
-        {
-          "id": "1aeLsvdHIPQkmIsdhDYXsB5nWTvECFVRz",
-          "title": "Pacman fixed his friend's mistake and saved the School \ud83e\udd13\ud83c\udfeb\ud83c\udfd7\ufe0f#friendship #pacman #stickman #domino",
-          "filename": "Pacman fixed his friend's mistake and saved the School \ud83e\udd13\ud83c\udfeb\ud83c\udfd7\ufe0f#friendship #pacman #stickman #domino.mp4",
-          "size_mb": 18.6,
-          "created_time": "2026-10-28T12:20:03.398Z"
-        },
         {
           "id": "1ZFumbSIYtQl7wIFKfP8Jw7pRmd8PRE6z",
           "title": "Pacman fixed his friend's mistake and saved the HOME ! \ud83c\udfe1\ud83d\ude31",
@@ -94,10 +87,17 @@
           "filename": "Pacman in Acid Zone ! \ud83e\udd2e.mp4",
           "size_mb": 17.0,
           "created_time": "2026-10-28T12:20:39.271Z"
+        },
+        {
+          "id": "1EWbdfN2_xcDFJisGa0NH5FZakfuBTIUS",
+          "title": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus",
+          "filename": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus.mp4",
+          "size_mb": 13.8,
+          "created_time": "2026-10-28T12:20:46.924Z"
         }
       ],
-      "last_posted_at": "2026-10-31 21:24:02",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwHd1dc1&_nc_oc=Adroyw5wkiqNjVnwfBDFk-E2C_9YwJZpohv297abeVu0SeyZrepPkCDmticqCn5u0Ig&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=ECnMnR8UU4Q7fsQ8kevrHw&_nc_tpa=Q5bMBQLnqVVBMWZLCyf6g3ZFX5ECR8Q-8ZD0GLwxU00RuvN9gfd5lyAXrA_s0j8tpqWBj6zFHkFwXZy48A&oh=00_AQTo3YdcDR6ERbFpklos2M9I81RK8l4QYeuzW0_5iCJ6VA&oe=6AEC4EBE",
+      "last_posted_at": "2026-11-01 02:15:47",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwG-YuRD&_nc_oc=AdqtSvvln10RzBIFL-GTKXdtkHxvkeyyM6JdDapSZpZwFJoUD2LSGUgmJ5CBiWcDuwU&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=05WGGX6iB8lyudiiVCAldA&_nc_tpa=Q5bMBQJ0bbfYx52e8i3YrCb-NUi0xDHQ58cBgf2xYRO43scz02v6NCXYtcKPzwgsxYKOt218Tdu8kaDMyQ&oh=00_AQSuYlFKnSDtx4ydA7D9gfiDvrwTXT88EDP_irTHr48RyA&oe=6AEC86FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -109,16 +109,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
-      "views": 2,
-      "stock_count": 33,
+      "views": 4,
+      "stock_count": 32,
       "up_next": [
-        {
-          "id": "17TmnizVUNiz2wmqyye5lgvphZG3mXHCF",
-          "title": "Dating in 2026 be like! \ud83d\udc80 (best animation memes)",
-          "filename": "Dating in 2026 be like! \ud83d\udc80 (best animation memes).mp4",
-          "size_mb": 3.3,
-          "created_time": "2026-10-28T12:16:23.773Z"
-        },
         {
           "id": "11M6zgFVCOsszLIZCJDHs7Zlei7v4Nwii",
           "title": "enemy of my enemy is my friend \ud83e\udd23 (4k animation meme) #shorts",
@@ -146,10 +139,17 @@
           "filename": "His Last Dream! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 2.7,
           "created_time": "2026-10-28T12:16:51.202Z"
+        },
+        {
+          "id": "135FnJkVR7oNDq7PwUWB2SAq6M_KkqbG5",
+          "title": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme",
+          "filename": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme.mp4",
+          "size_mb": 2.6,
+          "created_time": "2026-10-28T12:16:57.779Z"
         }
       ],
-      "last_posted_at": "2026-10-31 21:24:12",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwH_Tw4s&_nc_oc=AdpzbxQGxOGl4d8lz2maFO4TuDe3_NsWbiZMyCWcc7L2WkVdJoDq70sewQBlL_ckJ-Y&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=lA6yCLDPG0cVoczz8bQSFg&_nc_tpa=Q5bMBQINCaRQQ0kVqwOscpdsw4wFgLnBzRaRmCQBP8sdNwcXwH4pgkwjf8TYTkOYni2m725umgHj46r8NA&oh=00_AQQgr7LTZbqrWBHRB8A9Z1bOV-zkVRn_PwKxPNfwoDNWsg&oe=6AEC4ECE",
+      "last_posted_at": "2026-11-01 02:15:55",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwH8wDzw&_nc_oc=Adq5zdEw3YWyzupLWlhbnsKPPW2ASANc7F5qkSv9FxGwvtcV9b3_49U9VOsafQ6UEkM&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=ojz4d1qHMu8K2jVnDkGOLQ&_nc_tpa=Q5bMBQIal-MoxSh6hKFzyJty6QV5rAmgahjWjKAXM9XiBEDst40FcNel_GaAnAYpfiJyt6NWrUMcwnE15g&oh=00_AQRt2LBEHWheUk-CjCk-PBI1HF2C9VWXlzg2i634HCgu7g&oe=6AEC870E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -164,15 +164,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
       "views": 314,
-      "stock_count": 20,
+      "stock_count": 19,
       "up_next": [
-        {
-          "id": "1aeLsvdHIPQkmIsdhDYXsB5nWTvECFVRz",
-          "title": "Pacman fixed his friend's mistake and saved the School \ud83e\udd13\ud83c\udfeb\ud83c\udfd7\ufe0f#friendship #pacman #stickman #domino",
-          "filename": "Pacman fixed his friend's mistake and saved the School \ud83e\udd13\ud83c\udfeb\ud83c\udfd7\ufe0f#friendship #pacman #stickman #domino.mp4",
-          "size_mb": 18.6,
-          "created_time": "2026-10-28T12:20:03.398Z"
-        },
         {
           "id": "1ZFumbSIYtQl7wIFKfP8Jw7pRmd8PRE6z",
           "title": "Pacman fixed his friend's mistake and saved the HOME ! \ud83c\udfe1\ud83d\ude31",
@@ -200,10 +193,17 @@
           "filename": "Pacman in Acid Zone ! \ud83e\udd2e.mp4",
           "size_mb": 17.0,
           "created_time": "2026-10-28T12:20:39.271Z"
+        },
+        {
+          "id": "1EWbdfN2_xcDFJisGa0NH5FZakfuBTIUS",
+          "title": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus",
+          "filename": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus.mp4",
+          "size_mb": 13.8,
+          "created_time": "2026-10-28T12:20:46.924Z"
         }
       ],
-      "last_posted_at": "2026-10-31 21:24:02",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwHd1dc1&_nc_oc=Adroyw5wkiqNjVnwfBDFk-E2C_9YwJZpohv297abeVu0SeyZrepPkCDmticqCn5u0Ig&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=ECnMnR8UU4Q7fsQ8kevrHw&_nc_tpa=Q5bMBQLnqVVBMWZLCyf6g3ZFX5ECR8Q-8ZD0GLwxU00RuvN9gfd5lyAXrA_s0j8tpqWBj6zFHkFwXZy48A&oh=00_AQTo3YdcDR6ERbFpklos2M9I81RK8l4QYeuzW0_5iCJ6VA&oe=6AEC4EBE",
+      "last_posted_at": "2026-11-01 02:15:47",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwG-YuRD&_nc_oc=AdqtSvvln10RzBIFL-GTKXdtkHxvkeyyM6JdDapSZpZwFJoUD2LSGUgmJ5CBiWcDuwU&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=05WGGX6iB8lyudiiVCAldA&_nc_tpa=Q5bMBQJ0bbfYx52e8i3YrCb-NUi0xDHQ58cBgf2xYRO43scz02v6NCXYtcKPzwgsxYKOt218Tdu8kaDMyQ&oh=00_AQSuYlFKnSDtx4ydA7D9gfiDvrwTXT88EDP_irTHr48RyA&oe=6AEC86FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -215,16 +215,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
-      "views": 2,
-      "stock_count": 33,
+      "views": 4,
+      "stock_count": 32,
       "up_next": [
-        {
-          "id": "17TmnizVUNiz2wmqyye5lgvphZG3mXHCF",
-          "title": "Dating in 2026 be like! \ud83d\udc80 (best animation memes)",
-          "filename": "Dating in 2026 be like! \ud83d\udc80 (best animation memes).mp4",
-          "size_mb": 3.3,
-          "created_time": "2026-10-28T12:16:23.773Z"
-        },
         {
           "id": "11M6zgFVCOsszLIZCJDHs7Zlei7v4Nwii",
           "title": "enemy of my enemy is my friend \ud83e\udd23 (4k animation meme) #shorts",
@@ -252,10 +245,17 @@
           "filename": "His Last Dream! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 2.7,
           "created_time": "2026-10-28T12:16:51.202Z"
+        },
+        {
+          "id": "135FnJkVR7oNDq7PwUWB2SAq6M_KkqbG5",
+          "title": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme",
+          "filename": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme.mp4",
+          "size_mb": 2.6,
+          "created_time": "2026-10-28T12:16:57.779Z"
         }
       ],
-      "last_posted_at": "2026-10-31 21:24:12",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwH_Tw4s&_nc_oc=AdpzbxQGxOGl4d8lz2maFO4TuDe3_NsWbiZMyCWcc7L2WkVdJoDq70sewQBlL_ckJ-Y&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=lA6yCLDPG0cVoczz8bQSFg&_nc_tpa=Q5bMBQINCaRQQ0kVqwOscpdsw4wFgLnBzRaRmCQBP8sdNwcXwH4pgkwjf8TYTkOYni2m725umgHj46r8NA&oh=00_AQQgr7LTZbqrWBHRB8A9Z1bOV-zkVRn_PwKxPNfwoDNWsg&oe=6AEC4ECE",
+      "last_posted_at": "2026-11-01 02:15:55",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwH8wDzw&_nc_oc=Adq5zdEw3YWyzupLWlhbnsKPPW2ASANc7F5qkSv9FxGwvtcV9b3_49U9VOsafQ6UEkM&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=ojz4d1qHMu8K2jVnDkGOLQ&_nc_tpa=Q5bMBQIal-MoxSh6hKFzyJty6QV5rAmgahjWjKAXM9XiBEDst40FcNel_GaAnAYpfiJyt6NWrUMcwnE15g&oh=00_AQRt2LBEHWheUk-CjCk-PBI1HF2C9VWXlzg2i634HCgu7g&oe=6AEC870E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -270,15 +270,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
       "views": 314,
-      "stock_count": 20,
+      "stock_count": 19,
       "up_next": [
-        {
-          "id": "1aeLsvdHIPQkmIsdhDYXsB5nWTvECFVRz",
-          "title": "Pacman fixed his friend's mistake and saved the School \ud83e\udd13\ud83c\udfeb\ud83c\udfd7\ufe0f#friendship #pacman #stickman #domino",
-          "filename": "Pacman fixed his friend's mistake and saved the School \ud83e\udd13\ud83c\udfeb\ud83c\udfd7\ufe0f#friendship #pacman #stickman #domino.mp4",
-          "size_mb": 18.6,
-          "created_time": "2026-10-28T12:20:03.398Z"
-        },
         {
           "id": "1ZFumbSIYtQl7wIFKfP8Jw7pRmd8PRE6z",
           "title": "Pacman fixed his friend's mistake and saved the HOME ! \ud83c\udfe1\ud83d\ude31",
@@ -306,10 +299,17 @@
           "filename": "Pacman in Acid Zone ! \ud83e\udd2e.mp4",
           "size_mb": 17.0,
           "created_time": "2026-10-28T12:20:39.271Z"
+        },
+        {
+          "id": "1EWbdfN2_xcDFJisGa0NH5FZakfuBTIUS",
+          "title": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus",
+          "filename": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus.mp4",
+          "size_mb": 13.8,
+          "created_time": "2026-10-28T12:20:46.924Z"
         }
       ],
-      "last_posted_at": "2026-10-31 21:24:02",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwHd1dc1&_nc_oc=Adroyw5wkiqNjVnwfBDFk-E2C_9YwJZpohv297abeVu0SeyZrepPkCDmticqCn5u0Ig&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=ECnMnR8UU4Q7fsQ8kevrHw&_nc_tpa=Q5bMBQLnqVVBMWZLCyf6g3ZFX5ECR8Q-8ZD0GLwxU00RuvN9gfd5lyAXrA_s0j8tpqWBj6zFHkFwXZy48A&oh=00_AQTo3YdcDR6ERbFpklos2M9I81RK8l4QYeuzW0_5iCJ6VA&oe=6AEC4EBE",
+      "last_posted_at": "2026-11-01 02:15:47",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwG-YuRD&_nc_oc=AdqtSvvln10RzBIFL-GTKXdtkHxvkeyyM6JdDapSZpZwFJoUD2LSGUgmJ5CBiWcDuwU&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=05WGGX6iB8lyudiiVCAldA&_nc_tpa=Q5bMBQJ0bbfYx52e8i3YrCb-NUi0xDHQ58cBgf2xYRO43scz02v6NCXYtcKPzwgsxYKOt218Tdu8kaDMyQ&oh=00_AQSuYlFKnSDtx4ydA7D9gfiDvrwTXT88EDP_irTHr48RyA&oe=6AEC86FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -321,16 +321,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
-      "views": 2,
-      "stock_count": 33,
+      "views": 4,
+      "stock_count": 32,
       "up_next": [
-        {
-          "id": "17TmnizVUNiz2wmqyye5lgvphZG3mXHCF",
-          "title": "Dating in 2026 be like! \ud83d\udc80 (best animation memes)",
-          "filename": "Dating in 2026 be like! \ud83d\udc80 (best animation memes).mp4",
-          "size_mb": 3.3,
-          "created_time": "2026-10-28T12:16:23.773Z"
-        },
         {
           "id": "11M6zgFVCOsszLIZCJDHs7Zlei7v4Nwii",
           "title": "enemy of my enemy is my friend \ud83e\udd23 (4k animation meme) #shorts",
@@ -358,16 +351,45 @@
           "filename": "His Last Dream! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 2.7,
           "created_time": "2026-10-28T12:16:51.202Z"
+        },
+        {
+          "id": "135FnJkVR7oNDq7PwUWB2SAq6M_KkqbG5",
+          "title": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme",
+          "filename": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme.mp4",
+          "size_mb": 2.6,
+          "created_time": "2026-10-28T12:16:57.779Z"
         }
       ],
-      "last_posted_at": "2026-10-31 21:24:12",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwH_Tw4s&_nc_oc=AdpzbxQGxOGl4d8lz2maFO4TuDe3_NsWbiZMyCWcc7L2WkVdJoDq70sewQBlL_ckJ-Y&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=lA6yCLDPG0cVoczz8bQSFg&_nc_tpa=Q5bMBQINCaRQQ0kVqwOscpdsw4wFgLnBzRaRmCQBP8sdNwcXwH4pgkwjf8TYTkOYni2m725umgHj46r8NA&oh=00_AQQgr7LTZbqrWBHRB8A9Z1bOV-zkVRn_PwKxPNfwoDNWsg&oe=6AEC4ECE",
+      "last_posted_at": "2026-11-01 02:15:55",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=3Z6uSb-B21cQ7kNvwH8wDzw&_nc_oc=Adq5zdEw3YWyzupLWlhbnsKPPW2ASANc7F5qkSv9FxGwvtcV9b3_49U9VOsafQ6UEkM&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=ojz4d1qHMu8K2jVnDkGOLQ&_nc_tpa=Q5bMBQIal-MoxSh6hKFzyJty6QV5rAmgahjWjKAXM9XiBEDst40FcNel_GaAnAYpfiJyt6NWrUMcwnE15g&oh=00_AQRt2LBEHWheUk-CjCk-PBI1HF2C9VWXlzg2i634HCgu7g&oe=6AEC870E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
     }
   ],
   "recent_uploads": [
+    {
+      "id": 26,
+      "page_id": "1439435542586778",
+      "drive_file_id": "17TmnizVUNiz2wmqyye5lgvphZG3mXHCF",
+      "facebook_video_id": "1522610689695691",
+      "filename": "Dating in 2026 be like! \ud83d\udc80 (best animation memes).mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-01 02:15:55",
+      "error_message": null
+    },
+    {
+      "id": 25,
+      "page_id": "1291088570765567",
+      "drive_file_id": "1aeLsvdHIPQkmIsdhDYXsB5nWTvECFVRz",
+      "facebook_video_id": "1448125587506508",
+      "filename": "Pacman fixed his friend's mistake and saved the School \ud83e\udd13\ud83c\udfeb\ud83c\udfd7\ufe0f#friendship #pacman #stickman #domino.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-01 02:15:47",
+      "error_message": null
+    },
     {
       "id": 24,
       "page_id": "1439435542586778",
