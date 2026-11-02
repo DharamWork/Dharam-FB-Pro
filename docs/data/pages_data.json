@@ -2,14 +2,14 @@
   "metrics": {
     "total_fleet_followers": 1,
     "total_views": 323,
-    "total_reels_published": 30,
-    "total_playable_stock": 43,
-    "last_sync": "2026-11-02 12:45:51 UTC",
+    "total_reels_published": 32,
+    "total_playable_stock": 41,
+    "last_sync": "2026-11-02 14:03:08 UTC",
     "next_slot": {
-      "name": "Slot 1 (Morning)",
-      "est": "09:00 AM EST",
-      "target_iso": "2026-11-02T13:00:00+00:00",
-      "seconds_left": 848
+      "name": "Slot 2 (Mid-Day)",
+      "est": "01:00 PM EST",
+      "target_iso": "2026-11-02T17:00:00+00:00",
+      "seconds_left": 10611
     }
   },
   "daily_analytics": [
@@ -58,15 +58,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
       "views": 316,
-      "stock_count": 15,
+      "stock_count": 14,
       "up_next": [
-        {
-          "id": "1EWbdfN2_xcDFJisGa0NH5FZakfuBTIUS",
-          "title": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus",
-          "filename": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus.mp4",
-          "size_mb": 13.8,
-          "created_time": "2026-10-28T12:20:46.924Z"
-        },
         {
           "id": "1uVSeQlAL-2Si-yPehIEF19vfn_cbiqP6",
           "title": "Pacman is Trying to Figure Out How to Save Them ! (help him) \ud83d\ude4f\ud83d\ude33",
@@ -94,10 +87,17 @@
           "filename": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
           "size_mb": 7.2,
           "created_time": "2026-10-28T12:21:11.698Z"
+        },
+        {
+          "id": "1vb8A0LuL_hV22K3h20rMQ97RVa445AD8",
+          "title": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending",
+          "filename": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending.mp4",
+          "size_mb": 8.3,
+          "created_time": "2026-10-28T12:21:17.050Z"
         }
       ],
-      "last_posted_at": "2026-11-02 02:19:37",
-      "avatar_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwFpKg8R&_nc_oc=AdqB7vUtfXOjdMfivzf8QQWioxAeBNj26yRE3HDTi_B73Ow6uhnhxvYSjLKzzjmmwno&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&edm=AJdBtusEAAAA&_nc_gid=qt-_BFXXuMoD5pcj1UpxOw&_nc_tpa=Q5bMBQKVf2YBwxOcBuIWSqMrqbp0sjK_TkjmEbPxvHil3rdXIgOnhQkUF0SImpmMzPJvi8CT3K5mslwA3w&oh=00_AQQuMD5YfhOzemktgF_XMhlXquz2VTe-RHjufkXQQUJo3w&oe=6AEE48FE",
+      "last_posted_at": "2026-11-02 14:02:55",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwEdyjwM&_nc_oc=AdpLQTaOuPU4ACeqnp50KHLAF6h1FkR3EurQfDki5LckUQCi-xOyUNPmFoPrfkoN6Tw&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=9xyC2Kssmc3ILZMRou3Hpg&_nc_tpa=Q5bMBQLXvtwFvaeBbGcZGLvmIRY5z1FlHfYTQijPdzS6m5Mg3cKhyJGSrP4xaBMjk3G4S-815eu6dUWZ4w&oh=00_AQSeXv4rkRs-0YwMKXclM6UjLpFRijbkseA5fLXBxII_1Q&oe=6AEE813E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -110,15 +110,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 7,
-      "stock_count": 28,
+      "stock_count": 27,
       "up_next": [
-        {
-          "id": "135FnJkVR7oNDq7PwUWB2SAq6M_KkqbG5",
-          "title": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme",
-          "filename": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme.mp4",
-          "size_mb": 2.6,
-          "created_time": "2026-10-28T12:16:57.779Z"
-        },
         {
           "id": "19OG3u2y-yoTj5YRX5VzSiFnIxBhz9saF",
           "title": "How To Be a Good Neighbor! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -146,10 +139,17 @@
           "filename": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts.mp4",
           "size_mb": 2.3,
           "created_time": "2026-10-28T12:17:15.999Z"
+        },
+        {
+          "id": "184LgjtOAA7AfoTUfjWG-6ChQTPA3AfKG",
+          "title": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 2.1,
+          "created_time": "2026-10-28T12:17:19.570Z"
         }
       ],
-      "last_posted_at": "2026-11-02 02:19:47",
-      "avatar_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEuZuJ0&_nc_oc=AdpxE4kkkpd0T1dzTUv7n8EVVT776y18epJ1UPHV66ikiQNnRN-Pfti2PSoZewgjBco&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=3qvzk4pJ50-7juFxT-4bhA&_nc_tpa=Q5bMBQI0cHBPJW-bteSEDCRWQeQitmaYKMQMXYnxsT5SLA-hCaPFGBvsVhFBm7SL2FETgFTUbCfaSHNViw&oh=00_AQRkwiH1TtGe4BBPwa1nf_YhFiuGjW6N0fZiyOPh0zvsxw&oe=6AEE490E",
+      "last_posted_at": "2026-11-02 14:03:04",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEd2gUy&_nc_oc=AdqtEDoHzWwfH5H6Ok3jnuHGw7gMAajlhD7bPit7Fdk7XeYvzOg3bHtExIC-ixFXJ0k&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=XakO-1BxTyTERX3ZG6D47Q&_nc_tpa=Q5bMBQI3rjDmzWINnBi3yZkUUUaHA8H5VkeF_EcpBf-uEmKfn6RVnEP0CsQc4UoorNJDqBiq7H-uvWbY9A&oh=00_AQRatSscKfJzN92gnZjEZSjTkh5ER6JK4JztYosGB9APFw&oe=6AEE814E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -164,15 +164,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
       "views": 316,
-      "stock_count": 15,
+      "stock_count": 14,
       "up_next": [
-        {
-          "id": "1EWbdfN2_xcDFJisGa0NH5FZakfuBTIUS",
-          "title": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus",
-          "filename": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus.mp4",
-          "size_mb": 13.8,
-          "created_time": "2026-10-28T12:20:46.924Z"
-        },
         {
           "id": "1uVSeQlAL-2Si-yPehIEF19vfn_cbiqP6",
           "title": "Pacman is Trying to Figure Out How to Save Them ! (help him) \ud83d\ude4f\ud83d\ude33",
@@ -200,10 +193,17 @@
           "filename": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
           "size_mb": 7.2,
           "created_time": "2026-10-28T12:21:11.698Z"
+        },
+        {
+          "id": "1vb8A0LuL_hV22K3h20rMQ97RVa445AD8",
+          "title": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending",
+          "filename": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending.mp4",
+          "size_mb": 8.3,
+          "created_time": "2026-10-28T12:21:17.050Z"
         }
       ],
-      "last_posted_at": "2026-11-02 02:19:37",
-      "avatar_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwFpKg8R&_nc_oc=AdqB7vUtfXOjdMfivzf8QQWioxAeBNj26yRE3HDTi_B73Ow6uhnhxvYSjLKzzjmmwno&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&edm=AJdBtusEAAAA&_nc_gid=qt-_BFXXuMoD5pcj1UpxOw&_nc_tpa=Q5bMBQKVf2YBwxOcBuIWSqMrqbp0sjK_TkjmEbPxvHil3rdXIgOnhQkUF0SImpmMzPJvi8CT3K5mslwA3w&oh=00_AQQuMD5YfhOzemktgF_XMhlXquz2VTe-RHjufkXQQUJo3w&oe=6AEE48FE",
+      "last_posted_at": "2026-11-02 14:02:55",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwEdyjwM&_nc_oc=AdpLQTaOuPU4ACeqnp50KHLAF6h1FkR3EurQfDki5LckUQCi-xOyUNPmFoPrfkoN6Tw&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=9xyC2Kssmc3ILZMRou3Hpg&_nc_tpa=Q5bMBQLXvtwFvaeBbGcZGLvmIRY5z1FlHfYTQijPdzS6m5Mg3cKhyJGSrP4xaBMjk3G4S-815eu6dUWZ4w&oh=00_AQSeXv4rkRs-0YwMKXclM6UjLpFRijbkseA5fLXBxII_1Q&oe=6AEE813E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -216,15 +216,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 7,
-      "stock_count": 28,
+      "stock_count": 27,
       "up_next": [
-        {
-          "id": "135FnJkVR7oNDq7PwUWB2SAq6M_KkqbG5",
-          "title": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme",
-          "filename": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme.mp4",
-          "size_mb": 2.6,
-          "created_time": "2026-10-28T12:16:57.779Z"
-        },
         {
           "id": "19OG3u2y-yoTj5YRX5VzSiFnIxBhz9saF",
           "title": "How To Be a Good Neighbor! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -252,10 +245,17 @@
           "filename": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts.mp4",
           "size_mb": 2.3,
           "created_time": "2026-10-28T12:17:15.999Z"
+        },
+        {
+          "id": "184LgjtOAA7AfoTUfjWG-6ChQTPA3AfKG",
+          "title": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 2.1,
+          "created_time": "2026-10-28T12:17:19.570Z"
         }
       ],
-      "last_posted_at": "2026-11-02 02:19:47",
-      "avatar_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEuZuJ0&_nc_oc=AdpxE4kkkpd0T1dzTUv7n8EVVT776y18epJ1UPHV66ikiQNnRN-Pfti2PSoZewgjBco&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=3qvzk4pJ50-7juFxT-4bhA&_nc_tpa=Q5bMBQI0cHBPJW-bteSEDCRWQeQitmaYKMQMXYnxsT5SLA-hCaPFGBvsVhFBm7SL2FETgFTUbCfaSHNViw&oh=00_AQRkwiH1TtGe4BBPwa1nf_YhFiuGjW6N0fZiyOPh0zvsxw&oe=6AEE490E",
+      "last_posted_at": "2026-11-02 14:03:04",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEd2gUy&_nc_oc=AdqtEDoHzWwfH5H6Ok3jnuHGw7gMAajlhD7bPit7Fdk7XeYvzOg3bHtExIC-ixFXJ0k&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=XakO-1BxTyTERX3ZG6D47Q&_nc_tpa=Q5bMBQI3rjDmzWINnBi3yZkUUUaHA8H5VkeF_EcpBf-uEmKfn6RVnEP0CsQc4UoorNJDqBiq7H-uvWbY9A&oh=00_AQRatSscKfJzN92gnZjEZSjTkh5ER6JK4JztYosGB9APFw&oe=6AEE814E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -270,15 +270,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
       "views": 316,
-      "stock_count": 15,
+      "stock_count": 14,
       "up_next": [
-        {
-          "id": "1EWbdfN2_xcDFJisGa0NH5FZakfuBTIUS",
-          "title": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus",
-          "filename": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus.mp4",
-          "size_mb": 13.8,
-          "created_time": "2026-10-28T12:20:46.924Z"
-        },
         {
           "id": "1uVSeQlAL-2Si-yPehIEF19vfn_cbiqP6",
           "title": "Pacman is Trying to Figure Out How to Save Them ! (help him) \ud83d\ude4f\ud83d\ude33",
@@ -306,10 +299,17 @@
           "filename": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
           "size_mb": 7.2,
           "created_time": "2026-10-28T12:21:11.698Z"
+        },
+        {
+          "id": "1vb8A0LuL_hV22K3h20rMQ97RVa445AD8",
+          "title": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending",
+          "filename": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending.mp4",
+          "size_mb": 8.3,
+          "created_time": "2026-10-28T12:21:17.050Z"
         }
       ],
-      "last_posted_at": "2026-11-02 02:19:37",
-      "avatar_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwFpKg8R&_nc_oc=AdqB7vUtfXOjdMfivzf8QQWioxAeBNj26yRE3HDTi_B73Ow6uhnhxvYSjLKzzjmmwno&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&edm=AJdBtusEAAAA&_nc_gid=qt-_BFXXuMoD5pcj1UpxOw&_nc_tpa=Q5bMBQKVf2YBwxOcBuIWSqMrqbp0sjK_TkjmEbPxvHil3rdXIgOnhQkUF0SImpmMzPJvi8CT3K5mslwA3w&oh=00_AQQuMD5YfhOzemktgF_XMhlXquz2VTe-RHjufkXQQUJo3w&oe=6AEE48FE",
+      "last_posted_at": "2026-11-02 14:02:55",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwEdyjwM&_nc_oc=AdpLQTaOuPU4ACeqnp50KHLAF6h1FkR3EurQfDki5LckUQCi-xOyUNPmFoPrfkoN6Tw&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=9xyC2Kssmc3ILZMRou3Hpg&_nc_tpa=Q5bMBQLXvtwFvaeBbGcZGLvmIRY5z1FlHfYTQijPdzS6m5Mg3cKhyJGSrP4xaBMjk3G4S-815eu6dUWZ4w&oh=00_AQSeXv4rkRs-0YwMKXclM6UjLpFRijbkseA5fLXBxII_1Q&oe=6AEE813E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -322,15 +322,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 7,
-      "stock_count": 28,
+      "stock_count": 27,
       "up_next": [
-        {
-          "id": "135FnJkVR7oNDq7PwUWB2SAq6M_KkqbG5",
-          "title": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme",
-          "filename": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme.mp4",
-          "size_mb": 2.6,
-          "created_time": "2026-10-28T12:16:57.779Z"
-        },
         {
           "id": "19OG3u2y-yoTj5YRX5VzSiFnIxBhz9saF",
           "title": "How To Be a Good Neighbor! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -358,16 +351,45 @@
           "filename": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts.mp4",
           "size_mb": 2.3,
           "created_time": "2026-10-28T12:17:15.999Z"
+        },
+        {
+          "id": "184LgjtOAA7AfoTUfjWG-6ChQTPA3AfKG",
+          "title": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 2.1,
+          "created_time": "2026-10-28T12:17:19.570Z"
         }
       ],
-      "last_posted_at": "2026-11-02 02:19:47",
-      "avatar_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEuZuJ0&_nc_oc=AdpxE4kkkpd0T1dzTUv7n8EVVT776y18epJ1UPHV66ikiQNnRN-Pfti2PSoZewgjBco&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=3qvzk4pJ50-7juFxT-4bhA&_nc_tpa=Q5bMBQI0cHBPJW-bteSEDCRWQeQitmaYKMQMXYnxsT5SLA-hCaPFGBvsVhFBm7SL2FETgFTUbCfaSHNViw&oh=00_AQRkwiH1TtGe4BBPwa1nf_YhFiuGjW6N0fZiyOPh0zvsxw&oe=6AEE490E",
+      "last_posted_at": "2026-11-02 14:03:04",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEd2gUy&_nc_oc=AdqtEDoHzWwfH5H6Ok3jnuHGw7gMAajlhD7bPit7Fdk7XeYvzOg3bHtExIC-ixFXJ0k&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=XakO-1BxTyTERX3ZG6D47Q&_nc_tpa=Q5bMBQI3rjDmzWINnBi3yZkUUUaHA8H5VkeF_EcpBf-uEmKfn6RVnEP0CsQc4UoorNJDqBiq7H-uvWbY9A&oh=00_AQRatSscKfJzN92gnZjEZSjTkh5ER6JK4JztYosGB9APFw&oe=6AEE814E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
     }
   ],
   "recent_uploads": [
+    {
+      "id": 36,
+      "page_id": "1439435542586778",
+      "drive_file_id": "135FnJkVR7oNDq7PwUWB2SAq6M_KkqbG5",
+      "facebook_video_id": "1420617589724723",
+      "filename": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-02 14:03:04",
+      "error_message": null
+    },
+    {
+      "id": 35,
+      "page_id": "1291088570765567",
+      "drive_file_id": "1EWbdfN2_xcDFJisGa0NH5FZakfuBTIUS",
+      "facebook_video_id": "1438337798406173",
+      "filename": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-02 14:02:55",
+      "error_message": null
+    },
     {
       "id": 34,
       "page_id": "1439435542586778",
