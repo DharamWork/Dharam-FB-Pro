@@ -1,15 +1,15 @@
 {
   "metrics": {
     "total_fleet_followers": 1,
-    "total_views": 320,
-    "total_reels_published": 28,
-    "total_playable_stock": 45,
-    "last_sync": "2026-11-02 00:33:26 UTC",
+    "total_views": 322,
+    "total_reels_published": 30,
+    "total_playable_stock": 43,
+    "last_sync": "2026-11-02 02:19:51 UTC",
     "next_slot": {
-      "name": "Slot 4 (Night)",
-      "est": "09:30 PM EST",
-      "target_iso": "2026-11-02T01:30:00+00:00",
-      "seconds_left": 3393
+      "name": "Slot 1 (Morning)",
+      "est": "09:00 AM EST",
+      "target_iso": "2026-11-02T13:00:00+00:00",
+      "seconds_left": 38408
     }
   },
   "daily_analytics": [
@@ -58,15 +58,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
       "views": 315,
-      "stock_count": 16,
+      "stock_count": 15,
       "up_next": [
-        {
-          "id": "1fsygmRRChrjNex1c8qHAJo5vJP26k13R",
-          "title": "Pacman in Acid Zone ! \ud83e\udd2e",
-          "filename": "Pacman in Acid Zone ! \ud83e\udd2e.mp4",
-          "size_mb": 17.0,
-          "created_time": "2026-10-28T12:20:39.271Z"
-        },
         {
           "id": "1EWbdfN2_xcDFJisGa0NH5FZakfuBTIUS",
           "title": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus",
@@ -94,10 +87,17 @@
           "filename": "Pacman saved his Family ! \ud83e\uddd1\u200d\ud83e\uddd1\u200d\ud83e\uddd2\u200d\ud83e\uddd2\ud83d\ude31 #friendship #pacman #blender.mp4",
           "size_mb": 9.3,
           "created_time": "2026-10-28T12:21:06.673Z"
+        },
+        {
+          "id": "1CE8gdx0Ps5ThUD_XoBUn2c5V6keG9sMP",
+          "title": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending",
+          "filename": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
+          "size_mb": 7.2,
+          "created_time": "2026-10-28T12:21:11.698Z"
         }
       ],
-      "last_posted_at": "2026-11-01 21:25:10",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwGHNrmu&_nc_oc=Adp3RnPugju58Hcpzw3QBHx4MkBoTze_mT4R_fmEgnmy2_fL7Gas2QN-h6y5Szx_zgc&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=JUobBt2e-e-1qDI5f_L4CQ&_nc_tpa=Q5bMBQLpdRCSC1P9RqGFv6GpVRl_Ys8-t_PS3RulgHOpdWDFypge-Ep4caO_ctzijuAMUhxDD-XdCa28Xg&oh=00_AQQKGfBLlNiT63JYpFeSjCGzvLWRV-ry8fuW8rc5lZwL4w&oe=6AEDA03E",
+      "last_posted_at": "2026-11-02 02:19:37",
+      "avatar_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwEizFA_&_nc_oc=AdrETUcYhwdzH2K04GlLR9oWf7IVGpQaA7OSgiZRWyi3aaluiT0MezRB_APennj4vaY&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&edm=AJdBtusEAAAA&_nc_gid=jyK4yWVgzRaE2ekBfGJigw&_nc_tpa=Q5bMBQKTuVCY6hxVCMJJ8hJ5-QykdRFS1-SHIAfVWM5Y1IXYUvM2GkqeZRkf72AXRnGvVYIptSt79g2mCQ&oh=00_AQSJAiiX1Mbfy2KbusbqycAL-cJYvHTCCHXMB8csE6Kxyg&oe=6AEDD87E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -109,16 +109,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
-      "views": 5,
-      "stock_count": 29,
+      "views": 7,
+      "stock_count": 28,
       "up_next": [
-        {
-          "id": "1jqHh952a1-AkoNkLxFUBelXP-mu0bE4K",
-          "title": "His Last Dream! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "His Last Dream! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.7,
-          "created_time": "2026-10-28T12:16:51.202Z"
-        },
         {
           "id": "135FnJkVR7oNDq7PwUWB2SAq6M_KkqbG5",
           "title": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme",
@@ -146,10 +139,17 @@
           "filename": "How I Animate! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 1.8,
           "created_time": "2026-10-28T12:17:11.588Z"
+        },
+        {
+          "id": "1C97IS7kpU-qAgnwmQc9t9QJxLUwmTnPi",
+          "title": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts",
+          "filename": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts.mp4",
+          "size_mb": 2.3,
+          "created_time": "2026-10-28T12:17:15.999Z"
         }
       ],
-      "last_posted_at": "2026-11-01 21:25:18",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwH2YetX&_nc_oc=Adq1-_E6lnaKN331Kqb6h2nbdCBgaOsn9JDJnJCE8YZkb0HMDG4hRHt50JxR8o8srHE&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=sh8KFkL97GJrOyv0Y1DWCA&_nc_tpa=Q5bMBQJCFcvLxt7DkyEfT-vpPc8pkipttuiEP-ZsTSKCEdPamefGlUFBfG0PUV7WoJfEuy84JtDC_1_hGg&oh=00_AQQZ6JvNYa5Nz4c9o0NJz48ppE14LV-7wIb49urcWApcXw&oe=6AEDA04E",
+      "last_posted_at": "2026-11-02 02:19:47",
+      "avatar_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwFdZo2t&_nc_oc=AdrreE1ZWDZcsjmLme6BJJ6C0E1e3T_yrU7qdtkwPpUEpjEJZxzw0RdBvOssThBUL4o&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=A5OdQ4JeIkHPO-0Zpw3nbg&_nc_tpa=Q5bMBQJynJulNiNXcZp6FIi1T65C0D-Ba3DQAL4vP_mJZ_ySlOzCmozWaALCKI6V-QYLY2nW5T9kkI2Etw&oh=00_AQTrwbKEfjfKG9aW4tg33pxX4zmSaPgb19fdM-7C-gBowA&oe=6AEDD88E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -164,15 +164,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
       "views": 315,
-      "stock_count": 16,
+      "stock_count": 15,
       "up_next": [
-        {
-          "id": "1fsygmRRChrjNex1c8qHAJo5vJP26k13R",
-          "title": "Pacman in Acid Zone ! \ud83e\udd2e",
-          "filename": "Pacman in Acid Zone ! \ud83e\udd2e.mp4",
-          "size_mb": 17.0,
-          "created_time": "2026-10-28T12:20:39.271Z"
-        },
         {
           "id": "1EWbdfN2_xcDFJisGa0NH5FZakfuBTIUS",
           "title": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus",
@@ -200,10 +193,17 @@
           "filename": "Pacman saved his Family ! \ud83e\uddd1\u200d\ud83e\uddd1\u200d\ud83e\uddd2\u200d\ud83e\uddd2\ud83d\ude31 #friendship #pacman #blender.mp4",
           "size_mb": 9.3,
           "created_time": "2026-10-28T12:21:06.673Z"
+        },
+        {
+          "id": "1CE8gdx0Ps5ThUD_XoBUn2c5V6keG9sMP",
+          "title": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending",
+          "filename": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
+          "size_mb": 7.2,
+          "created_time": "2026-10-28T12:21:11.698Z"
         }
       ],
-      "last_posted_at": "2026-11-01 21:25:10",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwGHNrmu&_nc_oc=Adp3RnPugju58Hcpzw3QBHx4MkBoTze_mT4R_fmEgnmy2_fL7Gas2QN-h6y5Szx_zgc&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=JUobBt2e-e-1qDI5f_L4CQ&_nc_tpa=Q5bMBQLpdRCSC1P9RqGFv6GpVRl_Ys8-t_PS3RulgHOpdWDFypge-Ep4caO_ctzijuAMUhxDD-XdCa28Xg&oh=00_AQQKGfBLlNiT63JYpFeSjCGzvLWRV-ry8fuW8rc5lZwL4w&oe=6AEDA03E",
+      "last_posted_at": "2026-11-02 02:19:37",
+      "avatar_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwEizFA_&_nc_oc=AdrETUcYhwdzH2K04GlLR9oWf7IVGpQaA7OSgiZRWyi3aaluiT0MezRB_APennj4vaY&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&edm=AJdBtusEAAAA&_nc_gid=jyK4yWVgzRaE2ekBfGJigw&_nc_tpa=Q5bMBQKTuVCY6hxVCMJJ8hJ5-QykdRFS1-SHIAfVWM5Y1IXYUvM2GkqeZRkf72AXRnGvVYIptSt79g2mCQ&oh=00_AQSJAiiX1Mbfy2KbusbqycAL-cJYvHTCCHXMB8csE6Kxyg&oe=6AEDD87E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -215,16 +215,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
-      "views": 5,
-      "stock_count": 29,
+      "views": 7,
+      "stock_count": 28,
       "up_next": [
-        {
-          "id": "1jqHh952a1-AkoNkLxFUBelXP-mu0bE4K",
-          "title": "His Last Dream! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "His Last Dream! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.7,
-          "created_time": "2026-10-28T12:16:51.202Z"
-        },
         {
           "id": "135FnJkVR7oNDq7PwUWB2SAq6M_KkqbG5",
           "title": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme",
@@ -252,10 +245,17 @@
           "filename": "How I Animate! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 1.8,
           "created_time": "2026-10-28T12:17:11.588Z"
+        },
+        {
+          "id": "1C97IS7kpU-qAgnwmQc9t9QJxLUwmTnPi",
+          "title": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts",
+          "filename": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts.mp4",
+          "size_mb": 2.3,
+          "created_time": "2026-10-28T12:17:15.999Z"
         }
       ],
-      "last_posted_at": "2026-11-01 21:25:18",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwH2YetX&_nc_oc=Adq1-_E6lnaKN331Kqb6h2nbdCBgaOsn9JDJnJCE8YZkb0HMDG4hRHt50JxR8o8srHE&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=sh8KFkL97GJrOyv0Y1DWCA&_nc_tpa=Q5bMBQJCFcvLxt7DkyEfT-vpPc8pkipttuiEP-ZsTSKCEdPamefGlUFBfG0PUV7WoJfEuy84JtDC_1_hGg&oh=00_AQQZ6JvNYa5Nz4c9o0NJz48ppE14LV-7wIb49urcWApcXw&oe=6AEDA04E",
+      "last_posted_at": "2026-11-02 02:19:47",
+      "avatar_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwFdZo2t&_nc_oc=AdrreE1ZWDZcsjmLme6BJJ6C0E1e3T_yrU7qdtkwPpUEpjEJZxzw0RdBvOssThBUL4o&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=A5OdQ4JeIkHPO-0Zpw3nbg&_nc_tpa=Q5bMBQJynJulNiNXcZp6FIi1T65C0D-Ba3DQAL4vP_mJZ_ySlOzCmozWaALCKI6V-QYLY2nW5T9kkI2Etw&oh=00_AQTrwbKEfjfKG9aW4tg33pxX4zmSaPgb19fdM-7C-gBowA&oe=6AEDD88E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -270,15 +270,8 @@
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
       "views": 315,
-      "stock_count": 16,
+      "stock_count": 15,
       "up_next": [
-        {
-          "id": "1fsygmRRChrjNex1c8qHAJo5vJP26k13R",
-          "title": "Pacman in Acid Zone ! \ud83e\udd2e",
-          "filename": "Pacman in Acid Zone ! \ud83e\udd2e.mp4",
-          "size_mb": 17.0,
-          "created_time": "2026-10-28T12:20:39.271Z"
-        },
         {
           "id": "1EWbdfN2_xcDFJisGa0NH5FZakfuBTIUS",
           "title": "Pacman Found the Cure! \ud83e\udedf\ud83d\udc8a\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending #stickman #virus",
@@ -306,10 +299,17 @@
           "filename": "Pacman saved his Family ! \ud83e\uddd1\u200d\ud83e\uddd1\u200d\ud83e\uddd2\u200d\ud83e\uddd2\ud83d\ude31 #friendship #pacman #blender.mp4",
           "size_mb": 9.3,
           "created_time": "2026-10-28T12:21:06.673Z"
+        },
+        {
+          "id": "1CE8gdx0Ps5ThUD_XoBUn2c5V6keG9sMP",
+          "title": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending",
+          "filename": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
+          "size_mb": 7.2,
+          "created_time": "2026-10-28T12:21:11.698Z"
         }
       ],
-      "last_posted_at": "2026-11-01 21:25:10",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwGHNrmu&_nc_oc=Adp3RnPugju58Hcpzw3QBHx4MkBoTze_mT4R_fmEgnmy2_fL7Gas2QN-h6y5Szx_zgc&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=JUobBt2e-e-1qDI5f_L4CQ&_nc_tpa=Q5bMBQLpdRCSC1P9RqGFv6GpVRl_Ys8-t_PS3RulgHOpdWDFypge-Ep4caO_ctzijuAMUhxDD-XdCa28Xg&oh=00_AQQKGfBLlNiT63JYpFeSjCGzvLWRV-ry8fuW8rc5lZwL4w&oe=6AEDA03E",
+      "last_posted_at": "2026-11-02 02:19:37",
+      "avatar_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=91LpZIv3aMMQ7kNvwEizFA_&_nc_oc=AdrETUcYhwdzH2K04GlLR9oWf7IVGpQaA7OSgiZRWyi3aaluiT0MezRB_APennj4vaY&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&edm=AJdBtusEAAAA&_nc_gid=jyK4yWVgzRaE2ekBfGJigw&_nc_tpa=Q5bMBQKTuVCY6hxVCMJJ8hJ5-QykdRFS1-SHIAfVWM5Y1IXYUvM2GkqeZRkf72AXRnGvVYIptSt79g2mCQ&oh=00_AQSJAiiX1Mbfy2KbusbqycAL-cJYvHTCCHXMB8csE6Kxyg&oe=6AEDD87E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -321,16 +321,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
-      "views": 5,
-      "stock_count": 29,
+      "views": 7,
+      "stock_count": 28,
       "up_next": [
-        {
-          "id": "1jqHh952a1-AkoNkLxFUBelXP-mu0bE4K",
-          "title": "His Last Dream! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "His Last Dream! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.7,
-          "created_time": "2026-10-28T12:16:51.202Z"
-        },
         {
           "id": "135FnJkVR7oNDq7PwUWB2SAq6M_KkqbG5",
           "title": "His Last Photo Shoot! \ud83e\udd23 (Best Animation Memes) #shorts #meme",
@@ -358,16 +351,45 @@
           "filename": "How I Animate! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 1.8,
           "created_time": "2026-10-28T12:17:11.588Z"
+        },
+        {
+          "id": "1C97IS7kpU-qAgnwmQc9t9QJxLUwmTnPi",
+          "title": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts",
+          "filename": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts.mp4",
+          "size_mb": 2.3,
+          "created_time": "2026-10-28T12:17:15.999Z"
         }
       ],
-      "last_posted_at": "2026-11-01 21:25:18",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwH2YetX&_nc_oc=Adq1-_E6lnaKN331Kqb6h2nbdCBgaOsn9JDJnJCE8YZkb0HMDG4hRHt50JxR8o8srHE&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=sh8KFkL97GJrOyv0Y1DWCA&_nc_tpa=Q5bMBQJCFcvLxt7DkyEfT-vpPc8pkipttuiEP-ZsTSKCEdPamefGlUFBfG0PUV7WoJfEuy84JtDC_1_hGg&oh=00_AQQZ6JvNYa5Nz4c9o0NJz48ppE14LV-7wIb49urcWApcXw&oe=6AEDA04E",
+      "last_posted_at": "2026-11-02 02:19:47",
+      "avatar_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwFdZo2t&_nc_oc=AdrreE1ZWDZcsjmLme6BJJ6C0E1e3T_yrU7qdtkwPpUEpjEJZxzw0RdBvOssThBUL4o&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=A5OdQ4JeIkHPO-0Zpw3nbg&_nc_tpa=Q5bMBQJynJulNiNXcZp6FIi1T65C0D-Ba3DQAL4vP_mJZ_ySlOzCmozWaALCKI6V-QYLY2nW5T9kkI2Etw&oh=00_AQTrwbKEfjfKG9aW4tg33pxX4zmSaPgb19fdM-7C-gBowA&oe=6AEDD88E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
     }
   ],
   "recent_uploads": [
+    {
+      "id": 34,
+      "page_id": "1439435542586778",
+      "drive_file_id": "1jqHh952a1-AkoNkLxFUBelXP-mu0bE4K",
+      "facebook_video_id": "1166509689247626",
+      "filename": "His Last Dream! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-02 02:19:47",
+      "error_message": null
+    },
+    {
+      "id": 33,
+      "page_id": "1291088570765567",
+      "drive_file_id": "1fsygmRRChrjNex1c8qHAJo5vJP26k13R",
+      "facebook_video_id": "1108957575181015",
+      "filename": "Pacman in Acid Zone ! \ud83e\udd2e.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-02 02:19:37",
+      "error_message": null
+    },
     {
       "id": 32,
       "page_id": "1439435542586778",
