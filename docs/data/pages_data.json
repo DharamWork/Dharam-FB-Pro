@@ -1,15 +1,15 @@
 {
   "metrics": {
     "total_fleet_followers": 1,
-    "total_views": 331,
+    "total_views": 741,
     "total_reels_published": 38,
     "total_playable_stock": 35,
-    "last_sync": "2026-11-03 14:43:26 UTC",
+    "last_sync": "2026-11-03 16:42:28 UTC",
     "next_slot": {
       "name": "Slot 2 (Mid-Day)",
       "est": "01:00 PM EST",
       "target_iso": "2026-11-03T17:00:00+00:00",
-      "seconds_left": 8193
+      "seconds_left": 1051
     }
   },
   "daily_analytics": [
@@ -57,7 +57,7 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 316,
+      "views": 726,
       "stock_count": 11,
       "up_next": [
         {
@@ -97,7 +97,7 @@
         }
       ],
       "last_posted_at": "2026-11-03 14:02:43",
-      "avatar_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwH8Wg_J&_nc_oc=AdoUEqirjezmj5pWNOCMVV8LzqTDSsQJoM6VDSJdBOf0MEsl9BWkWDAZKCLAq1Zwbc4&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=921U2AKfrIY9VrxpnrLn7w&_nc_tpa=Q5bMBQL0hny1jpTH3mGWSU-bwRALKi4TVQGZUZX5-GSlni0d2KJ49gRE7yPPpd5pm70KdaEq4rGePJHPCA&oh=00_AQRML4ez4yqZy0s0phuBRod9cqRE1umF7-CkyTIyTDWB-w&oe=6AEFD2BE",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwFVw4dz&_nc_oc=Adrz8kjsbRBPC_PtT-dq4DiHMKCZKQ3r0HPw4Kw9ZeAI6_dn8p3SG_F-W5SwwDt9IH4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=SnfqC4eFvZCpDQSfN8iInQ&_nc_tpa=Q5bMBQJ3FQzHfNobcplayq5jqygywnsL75sHZ7gAVQMhMt-bEFrfBBTNAZFMUQxKLnwg3KvzqM4B-_FXUQ&oh=00_AQQeyZyo4K5Kyz3uBEUhDpvZO_Z5qcP_gHWlEXeGZ95PTA&oe=6AEFD2BE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -149,7 +149,7 @@
         }
       ],
       "last_posted_at": "2026-11-03 14:03:00",
-      "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwHo1B8v&_nc_oc=AdouKmAsbyZFU2HhuEbbRzzooSsgkLu_NlaeJu5dakU_Hisb-ypg4QSAVK_fjdD0siQ&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&edm=AJdBtusEAAAA&_nc_gid=48Sqvdpu06rAMaxlfTZNzg&_nc_tpa=Q5bMBQJ5t4IWdsw_0_7aCdzWKxLHBtfDpf2cPeR3rHJkMryr8jVisFwPXMxe-S2ftjfDxi_gys1vOjBERQ&oh=00_AQSTAKKAnjoCeuAmyM9TBVt7cvwGgPEZ3tcPQZJOmZawLQ&oe=6AEFD2CE",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwELoyVO&_nc_oc=AdrOVhestshYjxBRs3_uHeOswdewEb8yxmreHQ061rWYHypVL6xZ1YqtWdCgencr5LQ&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=wDxl5XPaVD6BONnHSzIg0g&_nc_tpa=Q5bMBQJO9bdt_Q-z9Pcz9XXN0sApXo9P4hJbyKz6dLglvRKOxNncpKphpX4QDPqknWUCmr8XIyPLRLH64Q&oh=00_AQR-6UsAAtaEqGQUJMYyFBAdySddrgNh9uo4PQAo1FFHBg&oe=6AEFD2CE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -163,7 +163,7 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 316,
+      "views": 726,
       "stock_count": 11,
       "up_next": [
         {
@@ -203,7 +203,7 @@
         }
       ],
       "last_posted_at": "2026-11-03 14:02:43",
-      "avatar_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwH8Wg_J&_nc_oc=AdoUEqirjezmj5pWNOCMVV8LzqTDSsQJoM6VDSJdBOf0MEsl9BWkWDAZKCLAq1Zwbc4&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=921U2AKfrIY9VrxpnrLn7w&_nc_tpa=Q5bMBQL0hny1jpTH3mGWSU-bwRALKi4TVQGZUZX5-GSlni0d2KJ49gRE7yPPpd5pm70KdaEq4rGePJHPCA&oh=00_AQRML4ez4yqZy0s0phuBRod9cqRE1umF7-CkyTIyTDWB-w&oe=6AEFD2BE",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwFVw4dz&_nc_oc=Adrz8kjsbRBPC_PtT-dq4DiHMKCZKQ3r0HPw4Kw9ZeAI6_dn8p3SG_F-W5SwwDt9IH4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=SnfqC4eFvZCpDQSfN8iInQ&_nc_tpa=Q5bMBQJ3FQzHfNobcplayq5jqygywnsL75sHZ7gAVQMhMt-bEFrfBBTNAZFMUQxKLnwg3KvzqM4B-_FXUQ&oh=00_AQQeyZyo4K5Kyz3uBEUhDpvZO_Z5qcP_gHWlEXeGZ95PTA&oe=6AEFD2BE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -255,7 +255,7 @@
         }
       ],
       "last_posted_at": "2026-11-03 14:03:00",
-      "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwHo1B8v&_nc_oc=AdouKmAsbyZFU2HhuEbbRzzooSsgkLu_NlaeJu5dakU_Hisb-ypg4QSAVK_fjdD0siQ&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&edm=AJdBtusEAAAA&_nc_gid=48Sqvdpu06rAMaxlfTZNzg&_nc_tpa=Q5bMBQJ5t4IWdsw_0_7aCdzWKxLHBtfDpf2cPeR3rHJkMryr8jVisFwPXMxe-S2ftjfDxi_gys1vOjBERQ&oh=00_AQSTAKKAnjoCeuAmyM9TBVt7cvwGgPEZ3tcPQZJOmZawLQ&oe=6AEFD2CE",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwELoyVO&_nc_oc=AdrOVhestshYjxBRs3_uHeOswdewEb8yxmreHQ061rWYHypVL6xZ1YqtWdCgencr5LQ&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=wDxl5XPaVD6BONnHSzIg0g&_nc_tpa=Q5bMBQJO9bdt_Q-z9Pcz9XXN0sApXo9P4hJbyKz6dLglvRKOxNncpKphpX4QDPqknWUCmr8XIyPLRLH64Q&oh=00_AQR-6UsAAtaEqGQUJMYyFBAdySddrgNh9uo4PQAo1FFHBg&oe=6AEFD2CE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -263,58 +263,6 @@
   ],
   "low_performers": [
     {
-      "page_id": "1291088570765567",
-      "name": "stickwisdom",
-      "display_name": "StickWisdom",
-      "account_group": "Gayu Sagar (USA)",
-      "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
-      "followers": 1,
-      "views": 316,
-      "stock_count": 11,
-      "up_next": [
-        {
-          "id": "1CE8gdx0Ps5ThUD_XoBUn2c5V6keG9sMP",
-          "title": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending",
-          "filename": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
-          "size_mb": 7.2,
-          "created_time": "2026-10-28T12:21:11.698Z"
-        },
-        {
-          "id": "1vb8A0LuL_hV22K3h20rMQ97RVa445AD8",
-          "title": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending",
-          "filename": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending.mp4",
-          "size_mb": 8.3,
-          "created_time": "2026-10-28T12:21:17.050Z"
-        },
-        {
-          "id": "1QlQYwGgRQmY0EqyadEy42_b5M8sEQaYI",
-          "title": "Pacman vs Pitbull ! \ud83d\ude31\ud83d\udc15(must see END)",
-          "filename": "Pacman vs Pitbull ! \ud83d\ude31\ud83d\udc15(must see END).mp4",
-          "size_mb": 12.5,
-          "created_time": "2026-10-28T12:21:23.952Z"
-        },
-        {
-          "id": "150hvH5sStRiXzp9k2PV_nuLC6IVEnWlD",
-          "title": "Pacman's Friends Save Him 2 \ud83d\ude4f\ud83d\ude02 #friendship #pacman #stickman",
-          "filename": "Pacman's Friends Save Him 2 \ud83d\ude4f\ud83d\ude02 #friendship #pacman #stickman.mp4",
-          "size_mb": 7.0,
-          "created_time": "2026-10-28T12:21:28.965Z"
-        },
-        {
-          "id": "1ElbbSZsKr8uo7AptNGS0cu6b0WE8Igm1",
-          "title": "Pacman's Bad Decision means Huge Problems ! \ud83d\ude32\ud83d\ude4f",
-          "filename": "Pacman's Bad Decision means Huge Problems ! \ud83d\ude32\ud83d\ude4f.mp4",
-          "size_mb": 15.1,
-          "created_time": "2026-10-28T12:21:37.373Z"
-        }
-      ],
-      "last_posted_at": "2026-11-03 14:02:43",
-      "avatar_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwH8Wg_J&_nc_oc=AdoUEqirjezmj5pWNOCMVV8LzqTDSsQJoM6VDSJdBOf0MEsl9BWkWDAZKCLAq1Zwbc4&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=921U2AKfrIY9VrxpnrLn7w&_nc_tpa=Q5bMBQL0hny1jpTH3mGWSU-bwRALKi4TVQGZUZX5-GSlni0d2KJ49gRE7yPPpd5pm70KdaEq4rGePJHPCA&oh=00_AQRML4ez4yqZy0s0phuBRod9cqRE1umF7-CkyTIyTDWB-w&oe=6AEFD2BE",
-      "token_healthy": true,
-      "gap_alert": false,
-      "enabled": true
-    },
-    {
       "page_id": "1439435542586778",
       "name": "sticktoon_man",
       "display_name": "Sticktoon Man",
@@ -361,7 +309,7 @@
         }
       ],
       "last_posted_at": "2026-11-03 14:03:00",
-      "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwHo1B8v&_nc_oc=AdouKmAsbyZFU2HhuEbbRzzooSsgkLu_NlaeJu5dakU_Hisb-ypg4QSAVK_fjdD0siQ&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&edm=AJdBtusEAAAA&_nc_gid=48Sqvdpu06rAMaxlfTZNzg&_nc_tpa=Q5bMBQJ5t4IWdsw_0_7aCdzWKxLHBtfDpf2cPeR3rHJkMryr8jVisFwPXMxe-S2ftjfDxi_gys1vOjBERQ&oh=00_AQSTAKKAnjoCeuAmyM9TBVt7cvwGgPEZ3tcPQZJOmZawLQ&oe=6AEFD2CE",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwELoyVO&_nc_oc=AdrOVhestshYjxBRs3_uHeOswdewEb8yxmreHQ061rWYHypVL6xZ1YqtWdCgencr5LQ&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=wDxl5XPaVD6BONnHSzIg0g&_nc_tpa=Q5bMBQJO9bdt_Q-z9Pcz9XXN0sApXo9P4hJbyKz6dLglvRKOxNncpKphpX4QDPqknWUCmr8XIyPLRLH64Q&oh=00_AQR-6UsAAtaEqGQUJMYyFBAdySddrgNh9uo4PQAo1FFHBg&oe=6AEFD2CE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
