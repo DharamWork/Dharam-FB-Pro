@@ -1,15 +1,15 @@
 {
   "metrics": {
     "total_fleet_followers": 1,
-    "total_views": 1062,
-    "total_reels_published": 40,
-    "total_playable_stock": 33,
-    "last_sync": "2026-11-03 20:35:10 UTC",
+    "total_views": 1138,
+    "total_reels_published": 42,
+    "total_playable_stock": 31,
+    "last_sync": "2026-11-03 21:31:12 UTC",
     "next_slot": {
-      "name": "Slot 3 (Evening)",
-      "est": "05:00 PM EST",
-      "target_iso": "2026-11-03T21:00:00+00:00",
-      "seconds_left": 1489
+      "name": "Slot 4 (Night)",
+      "est": "09:30 PM EST",
+      "target_iso": "2026-11-04T01:30:00+00:00",
+      "seconds_left": 14327
     }
   },
   "daily_analytics": [
@@ -57,16 +57,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 1046,
-      "stock_count": 10,
+      "views": 1122,
+      "stock_count": 9,
       "up_next": [
-        {
-          "id": "1vb8A0LuL_hV22K3h20rMQ97RVa445AD8",
-          "title": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending",
-          "filename": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending.mp4",
-          "size_mb": 8.3,
-          "created_time": "2026-10-28T12:21:17.050Z"
-        },
         {
           "id": "1QlQYwGgRQmY0EqyadEy42_b5M8sEQaYI",
           "title": "Pacman vs Pitbull ! \ud83d\ude31\ud83d\udc15(must see END)",
@@ -94,10 +87,17 @@
           "filename": "Pacman's Much Easier Way ! (must see END)  \ud83d\ude02\ud83d\ude02#friendship #pacman #trending #stickman #spider.mp4",
           "size_mb": 10.9,
           "created_time": "2026-10-28T12:21:44.031Z"
+        },
+        {
+          "id": "1ejllKb8AVZ5VPnyweJ1aWVmxIrBPH7X-",
+          "title": "Pacman's so smart and simple solution \ud83e\udd13\ud83d\ude4f#friendship #pacman #trending",
+          "filename": "Pacman's so smart and simple solution \ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
+          "size_mb": 9.5,
+          "created_time": "2026-10-28T12:21:50.077Z"
         }
       ],
-      "last_posted_at": "2026-11-03 17:46:56",
-      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwHsNerO&_nc_oc=Adr_G1OuBpN0rBlfVEOFjlli64AYdqgxuSFJc5rhiN7wxTbmesVEVQXqW4cG3zhe8m4&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=-IzwimJUpqImydi84x7hUw&_nc_tpa=Q5bMBQKtOvTV9vA3bzChLaa7YJZVeAwjutDrxBi9UvWJxlC10-UcREcAdliFO99SXLbMBhWdW-sEJrfsgg&oh=00_AQQJpuE2CXucEgQJUm12NuNUukF0qEk91KYpbFBjo6k1LQ&oe=6AF00AFE",
+      "last_posted_at": "2026-11-03 21:30:58",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwE4XciN&_nc_oc=AdovCQdUk82mN2IoIPcP-QtwiqSgdED-TepHNwig4F_Ah5jcUjKQXhfeswHw1G3DQ6A&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=GGjyBPMjss6w_mshtWvaRQ&_nc_tpa=Q5bMBQKqqPp7c3xTwKy09r9z0bbguNDPtj9buv2vEcJaVRYctjRgNxIyyHDSrWGodb4T3taMxNHPMnyKhQ&oh=00_AQRvax20TBc7GWkjmrsuxjVn_2Wya2rMDOe56zo6yjSsAw&oe=6AF00AFE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -110,15 +110,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 23,
+      "stock_count": 22,
       "up_next": [
-        {
-          "id": "184LgjtOAA7AfoTUfjWG-6ChQTPA3AfKG",
-          "title": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.1,
-          "created_time": "2026-10-28T12:17:19.570Z"
-        },
         {
           "id": "12Cf5aFQZ7xIiBBcyXXVzhK4R1S29r8XT",
           "title": "Mosquito mission impossible! \ud83e\udd23 (best animation memes) #shorts",
@@ -146,10 +139,17 @@
           "filename": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts.mp4",
           "size_mb": 2.5,
           "created_time": "2026-10-28T12:17:33.835Z"
+        },
+        {
+          "id": "1QiR6HjWbjrdiZUpGtCcj7QGRvqjrkTV7",
+          "title": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes)",
+          "filename": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes).mp4",
+          "size_mb": 2.2,
+          "created_time": "2026-10-28T12:17:37.441Z"
         }
       ],
-      "last_posted_at": "2026-11-03 17:47:07",
-      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwFRQvGI&_nc_oc=AdrDltu7mEuSBiCP7-wkL0D8xOtFFFvy7sYu1zJFELa0RhEPxK0ToRtsqAwvpl5C2hY&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=HxfoXjHjYrdKa16F9v5oTQ&_nc_tpa=Q5bMBQKdyTMPaRkzz_osCn5koSZfcv021LlWNhucFZaGhVOj2604WlKMXefomCacEt-aNVhtNGU0XAjilA&oh=00_AQTGBxEeTTMRLKUc2i6RTxbitKoC5y-SiXKjg9haJ6LU-w&oe=6AF00B0E",
+      "last_posted_at": "2026-11-03 21:31:07",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwHNYn16&_nc_oc=AdpNnaF_bsgDNMZ5bXBx_29z58Qf-eHjYXrKqaSa0RMzxMW9jVWCEKKh6Z7GCC6ewzw&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=fhufcMQkdsrLm4OJ1lsiyQ&_nc_tpa=Q5bMBQLOKQ3jvchNchLAE-vky4n8pY26l3YBTyhP20DIz6JbwDuezQvDe_9yMCzVQL1_IV650kCiQzyRrw&oh=00_AQT8ji1t9D6be55ISEMQ8MkMUuCgxGL1OEIADuj3CV4tQw&oe=6AF00B0E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -163,16 +163,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 1046,
-      "stock_count": 10,
+      "views": 1122,
+      "stock_count": 9,
       "up_next": [
-        {
-          "id": "1vb8A0LuL_hV22K3h20rMQ97RVa445AD8",
-          "title": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending",
-          "filename": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending.mp4",
-          "size_mb": 8.3,
-          "created_time": "2026-10-28T12:21:17.050Z"
-        },
         {
           "id": "1QlQYwGgRQmY0EqyadEy42_b5M8sEQaYI",
           "title": "Pacman vs Pitbull ! \ud83d\ude31\ud83d\udc15(must see END)",
@@ -200,10 +193,17 @@
           "filename": "Pacman's Much Easier Way ! (must see END)  \ud83d\ude02\ud83d\ude02#friendship #pacman #trending #stickman #spider.mp4",
           "size_mb": 10.9,
           "created_time": "2026-10-28T12:21:44.031Z"
+        },
+        {
+          "id": "1ejllKb8AVZ5VPnyweJ1aWVmxIrBPH7X-",
+          "title": "Pacman's so smart and simple solution \ud83e\udd13\ud83d\ude4f#friendship #pacman #trending",
+          "filename": "Pacman's so smart and simple solution \ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
+          "size_mb": 9.5,
+          "created_time": "2026-10-28T12:21:50.077Z"
         }
       ],
-      "last_posted_at": "2026-11-03 17:46:56",
-      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwHsNerO&_nc_oc=Adr_G1OuBpN0rBlfVEOFjlli64AYdqgxuSFJc5rhiN7wxTbmesVEVQXqW4cG3zhe8m4&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=-IzwimJUpqImydi84x7hUw&_nc_tpa=Q5bMBQKtOvTV9vA3bzChLaa7YJZVeAwjutDrxBi9UvWJxlC10-UcREcAdliFO99SXLbMBhWdW-sEJrfsgg&oh=00_AQQJpuE2CXucEgQJUm12NuNUukF0qEk91KYpbFBjo6k1LQ&oe=6AF00AFE",
+      "last_posted_at": "2026-11-03 21:30:58",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwE4XciN&_nc_oc=AdovCQdUk82mN2IoIPcP-QtwiqSgdED-TepHNwig4F_Ah5jcUjKQXhfeswHw1G3DQ6A&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=GGjyBPMjss6w_mshtWvaRQ&_nc_tpa=Q5bMBQKqqPp7c3xTwKy09r9z0bbguNDPtj9buv2vEcJaVRYctjRgNxIyyHDSrWGodb4T3taMxNHPMnyKhQ&oh=00_AQRvax20TBc7GWkjmrsuxjVn_2Wya2rMDOe56zo6yjSsAw&oe=6AF00AFE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -216,15 +216,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 23,
+      "stock_count": 22,
       "up_next": [
-        {
-          "id": "184LgjtOAA7AfoTUfjWG-6ChQTPA3AfKG",
-          "title": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.1,
-          "created_time": "2026-10-28T12:17:19.570Z"
-        },
         {
           "id": "12Cf5aFQZ7xIiBBcyXXVzhK4R1S29r8XT",
           "title": "Mosquito mission impossible! \ud83e\udd23 (best animation memes) #shorts",
@@ -252,10 +245,17 @@
           "filename": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts.mp4",
           "size_mb": 2.5,
           "created_time": "2026-10-28T12:17:33.835Z"
+        },
+        {
+          "id": "1QiR6HjWbjrdiZUpGtCcj7QGRvqjrkTV7",
+          "title": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes)",
+          "filename": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes).mp4",
+          "size_mb": 2.2,
+          "created_time": "2026-10-28T12:17:37.441Z"
         }
       ],
-      "last_posted_at": "2026-11-03 17:47:07",
-      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwFRQvGI&_nc_oc=AdrDltu7mEuSBiCP7-wkL0D8xOtFFFvy7sYu1zJFELa0RhEPxK0ToRtsqAwvpl5C2hY&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=HxfoXjHjYrdKa16F9v5oTQ&_nc_tpa=Q5bMBQKdyTMPaRkzz_osCn5koSZfcv021LlWNhucFZaGhVOj2604WlKMXefomCacEt-aNVhtNGU0XAjilA&oh=00_AQTGBxEeTTMRLKUc2i6RTxbitKoC5y-SiXKjg9haJ6LU-w&oe=6AF00B0E",
+      "last_posted_at": "2026-11-03 21:31:07",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwHNYn16&_nc_oc=AdpNnaF_bsgDNMZ5bXBx_29z58Qf-eHjYXrKqaSa0RMzxMW9jVWCEKKh6Z7GCC6ewzw&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=fhufcMQkdsrLm4OJ1lsiyQ&_nc_tpa=Q5bMBQLOKQ3jvchNchLAE-vky4n8pY26l3YBTyhP20DIz6JbwDuezQvDe_9yMCzVQL1_IV650kCiQzyRrw&oh=00_AQT8ji1t9D6be55ISEMQ8MkMUuCgxGL1OEIADuj3CV4tQw&oe=6AF00B0E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -270,15 +270,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 23,
+      "stock_count": 22,
       "up_next": [
-        {
-          "id": "184LgjtOAA7AfoTUfjWG-6ChQTPA3AfKG",
-          "title": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.1,
-          "created_time": "2026-10-28T12:17:19.570Z"
-        },
         {
           "id": "12Cf5aFQZ7xIiBBcyXXVzhK4R1S29r8XT",
           "title": "Mosquito mission impossible! \ud83e\udd23 (best animation memes) #shorts",
@@ -306,16 +299,45 @@
           "filename": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts.mp4",
           "size_mb": 2.5,
           "created_time": "2026-10-28T12:17:33.835Z"
+        },
+        {
+          "id": "1QiR6HjWbjrdiZUpGtCcj7QGRvqjrkTV7",
+          "title": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes)",
+          "filename": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes).mp4",
+          "size_mb": 2.2,
+          "created_time": "2026-10-28T12:17:37.441Z"
         }
       ],
-      "last_posted_at": "2026-11-03 17:47:07",
-      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwFRQvGI&_nc_oc=AdrDltu7mEuSBiCP7-wkL0D8xOtFFFvy7sYu1zJFELa0RhEPxK0ToRtsqAwvpl5C2hY&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=HxfoXjHjYrdKa16F9v5oTQ&_nc_tpa=Q5bMBQKdyTMPaRkzz_osCn5koSZfcv021LlWNhucFZaGhVOj2604WlKMXefomCacEt-aNVhtNGU0XAjilA&oh=00_AQTGBxEeTTMRLKUc2i6RTxbitKoC5y-SiXKjg9haJ6LU-w&oe=6AF00B0E",
+      "last_posted_at": "2026-11-03 21:31:07",
+      "avatar_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwHNYn16&_nc_oc=AdpNnaF_bsgDNMZ5bXBx_29z58Qf-eHjYXrKqaSa0RMzxMW9jVWCEKKh6Z7GCC6ewzw&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=fhufcMQkdsrLm4OJ1lsiyQ&_nc_tpa=Q5bMBQLOKQ3jvchNchLAE-vky4n8pY26l3YBTyhP20DIz6JbwDuezQvDe_9yMCzVQL1_IV650kCiQzyRrw&oh=00_AQT8ji1t9D6be55ISEMQ8MkMUuCgxGL1OEIADuj3CV4tQw&oe=6AF00B0E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
     }
   ],
   "recent_uploads": [
+    {
+      "id": 46,
+      "page_id": "1439435542586778",
+      "drive_file_id": "184LgjtOAA7AfoTUfjWG-6ChQTPA3AfKG",
+      "facebook_video_id": "1466259488795866",
+      "filename": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-03 21:31:07",
+      "error_message": null
+    },
+    {
+      "id": 45,
+      "page_id": "1291088570765567",
+      "drive_file_id": "1vb8A0LuL_hV22K3h20rMQ97RVa445AD8",
+      "facebook_video_id": "1346894867478360",
+      "filename": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-03 21:30:58",
+      "error_message": null
+    },
     {
       "id": 44,
       "page_id": "1439435542586778",
