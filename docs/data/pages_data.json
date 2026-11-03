@@ -1,15 +1,15 @@
 {
   "metrics": {
     "total_fleet_followers": 1,
-    "total_views": 741,
-    "total_reels_published": 38,
-    "total_playable_stock": 35,
-    "last_sync": "2026-11-03 16:42:28 UTC",
+    "total_views": 824,
+    "total_reels_published": 40,
+    "total_playable_stock": 33,
+    "last_sync": "2026-11-03 17:47:12 UTC",
     "next_slot": {
-      "name": "Slot 2 (Mid-Day)",
-      "est": "01:00 PM EST",
-      "target_iso": "2026-11-03T17:00:00+00:00",
-      "seconds_left": 1051
+      "name": "Slot 3 (Evening)",
+      "est": "05:00 PM EST",
+      "target_iso": "2026-11-03T21:00:00+00:00",
+      "seconds_left": 11567
     }
   },
   "daily_analytics": [
@@ -57,16 +57,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 726,
-      "stock_count": 11,
+      "views": 809,
+      "stock_count": 10,
       "up_next": [
-        {
-          "id": "1CE8gdx0Ps5ThUD_XoBUn2c5V6keG9sMP",
-          "title": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending",
-          "filename": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
-          "size_mb": 7.2,
-          "created_time": "2026-10-28T12:21:11.698Z"
-        },
         {
           "id": "1vb8A0LuL_hV22K3h20rMQ97RVa445AD8",
           "title": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending",
@@ -94,10 +87,17 @@
           "filename": "Pacman's Bad Decision means Huge Problems ! \ud83d\ude32\ud83d\ude4f.mp4",
           "size_mb": 15.1,
           "created_time": "2026-10-28T12:21:37.373Z"
+        },
+        {
+          "id": "19uZ4qi11LObSYWjbmxfV82GglDoiVojA",
+          "title": "Pacman's Much Easier Way ! (must see END)  \ud83d\ude02\ud83d\ude02#friendship #pacman #trending #stickman #spider",
+          "filename": "Pacman's Much Easier Way ! (must see END)  \ud83d\ude02\ud83d\ude02#friendship #pacman #trending #stickman #spider.mp4",
+          "size_mb": 10.9,
+          "created_time": "2026-10-28T12:21:44.031Z"
         }
       ],
-      "last_posted_at": "2026-11-03 14:02:43",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwFVw4dz&_nc_oc=Adrz8kjsbRBPC_PtT-dq4DiHMKCZKQ3r0HPw4Kw9ZeAI6_dn8p3SG_F-W5SwwDt9IH4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=SnfqC4eFvZCpDQSfN8iInQ&_nc_tpa=Q5bMBQJ3FQzHfNobcplayq5jqygywnsL75sHZ7gAVQMhMt-bEFrfBBTNAZFMUQxKLnwg3KvzqM4B-_FXUQ&oh=00_AQQeyZyo4K5Kyz3uBEUhDpvZO_Z5qcP_gHWlEXeGZ95PTA&oe=6AEFD2BE",
+      "last_posted_at": "2026-11-03 17:46:56",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwGwDqY7&_nc_oc=AdqRVk9W6Yrm6MJ8sosYP7aPo49DBSBiW4LUuCbhLUA1DoSt9tCNCTGy7fIPM6pMVG4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=UBX1gk5BohbqxeK2qjmZRg&_nc_tpa=Q5bMBQJIzyZtH6yCbTmX9x-PizoaqgnL2NPpDI1GzSU2XNyAshXC8wEveGqYaSfVjdECi4m5iZgNTIfMiQ&oh=00_AQSlplnzjBXmaKPjgfxhsUNXDCN0WId4vNQ3pALn8FX3PA&oe=6AF00AFE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -110,15 +110,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 15,
-      "stock_count": 24,
+      "stock_count": 23,
       "up_next": [
-        {
-          "id": "1C97IS7kpU-qAgnwmQc9t9QJxLUwmTnPi",
-          "title": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 2.3,
-          "created_time": "2026-10-28T12:17:15.999Z"
-        },
         {
           "id": "184LgjtOAA7AfoTUfjWG-6ChQTPA3AfKG",
           "title": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -146,10 +139,17 @@
           "filename": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 2.6,
           "created_time": "2026-10-28T12:17:29.583Z"
+        },
+        {
+          "id": "1WV2w7JXdANiexKOAdb1mAQuTVbZ0kaFJ",
+          "title": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts",
+          "filename": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts.mp4",
+          "size_mb": 2.5,
+          "created_time": "2026-10-28T12:17:33.835Z"
         }
       ],
-      "last_posted_at": "2026-11-03 14:03:00",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwELoyVO&_nc_oc=AdrOVhestshYjxBRs3_uHeOswdewEb8yxmreHQ061rWYHypVL6xZ1YqtWdCgencr5LQ&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=wDxl5XPaVD6BONnHSzIg0g&_nc_tpa=Q5bMBQJO9bdt_Q-z9Pcz9XXN0sApXo9P4hJbyKz6dLglvRKOxNncpKphpX4QDPqknWUCmr8XIyPLRLH64Q&oh=00_AQR-6UsAAtaEqGQUJMYyFBAdySddrgNh9uo4PQAo1FFHBg&oe=6AEFD2CE",
+      "last_posted_at": "2026-11-03 17:47:07",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwGeMtgk&_nc_oc=AdqzkU_xg9zqhHMLX8UsHn5m96K2S9ydkqKKdaNJaFmkPPMxnLFVL28kzDdeyb8HJE8&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=-CD4fN81SnDCBCF9B5T5jg&_nc_tpa=Q5bMBQLWLx94x7KctMOYRh0JCuXmsnjlhee11q2H8s-8SuKgJ3T06Bhbd94GzciWBXPebP4yww7wKsmeEg&oh=00_AQR_S9ff-UXOR4KCD3QX2mieALcqSpV9nfpcP_lW-eWafA&oe=6AF00B0E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -163,16 +163,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 726,
-      "stock_count": 11,
+      "views": 809,
+      "stock_count": 10,
       "up_next": [
-        {
-          "id": "1CE8gdx0Ps5ThUD_XoBUn2c5V6keG9sMP",
-          "title": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending",
-          "filename": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
-          "size_mb": 7.2,
-          "created_time": "2026-10-28T12:21:11.698Z"
-        },
         {
           "id": "1vb8A0LuL_hV22K3h20rMQ97RVa445AD8",
           "title": "Pacman's 200 IQ Escape \u26a1\ufe0f\ud83d\udcaa\ud83d\ude4f\ud83d\ude02#friendship #pacman #trending",
@@ -200,10 +193,17 @@
           "filename": "Pacman's Bad Decision means Huge Problems ! \ud83d\ude32\ud83d\ude4f.mp4",
           "size_mb": 15.1,
           "created_time": "2026-10-28T12:21:37.373Z"
+        },
+        {
+          "id": "19uZ4qi11LObSYWjbmxfV82GglDoiVojA",
+          "title": "Pacman's Much Easier Way ! (must see END)  \ud83d\ude02\ud83d\ude02#friendship #pacman #trending #stickman #spider",
+          "filename": "Pacman's Much Easier Way ! (must see END)  \ud83d\ude02\ud83d\ude02#friendship #pacman #trending #stickman #spider.mp4",
+          "size_mb": 10.9,
+          "created_time": "2026-10-28T12:21:44.031Z"
         }
       ],
-      "last_posted_at": "2026-11-03 14:02:43",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwFVw4dz&_nc_oc=Adrz8kjsbRBPC_PtT-dq4DiHMKCZKQ3r0HPw4Kw9ZeAI6_dn8p3SG_F-W5SwwDt9IH4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=SnfqC4eFvZCpDQSfN8iInQ&_nc_tpa=Q5bMBQJ3FQzHfNobcplayq5jqygywnsL75sHZ7gAVQMhMt-bEFrfBBTNAZFMUQxKLnwg3KvzqM4B-_FXUQ&oh=00_AQQeyZyo4K5Kyz3uBEUhDpvZO_Z5qcP_gHWlEXeGZ95PTA&oe=6AEFD2BE",
+      "last_posted_at": "2026-11-03 17:46:56",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwGwDqY7&_nc_oc=AdqRVk9W6Yrm6MJ8sosYP7aPo49DBSBiW4LUuCbhLUA1DoSt9tCNCTGy7fIPM6pMVG4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=UBX1gk5BohbqxeK2qjmZRg&_nc_tpa=Q5bMBQJIzyZtH6yCbTmX9x-PizoaqgnL2NPpDI1GzSU2XNyAshXC8wEveGqYaSfVjdECi4m5iZgNTIfMiQ&oh=00_AQSlplnzjBXmaKPjgfxhsUNXDCN0WId4vNQ3pALn8FX3PA&oe=6AF00AFE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -216,15 +216,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 15,
-      "stock_count": 24,
+      "stock_count": 23,
       "up_next": [
-        {
-          "id": "1C97IS7kpU-qAgnwmQc9t9QJxLUwmTnPi",
-          "title": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 2.3,
-          "created_time": "2026-10-28T12:17:15.999Z"
-        },
         {
           "id": "184LgjtOAA7AfoTUfjWG-6ChQTPA3AfKG",
           "title": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -252,10 +245,17 @@
           "filename": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 2.6,
           "created_time": "2026-10-28T12:17:29.583Z"
+        },
+        {
+          "id": "1WV2w7JXdANiexKOAdb1mAQuTVbZ0kaFJ",
+          "title": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts",
+          "filename": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts.mp4",
+          "size_mb": 2.5,
+          "created_time": "2026-10-28T12:17:33.835Z"
         }
       ],
-      "last_posted_at": "2026-11-03 14:03:00",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwELoyVO&_nc_oc=AdrOVhestshYjxBRs3_uHeOswdewEb8yxmreHQ061rWYHypVL6xZ1YqtWdCgencr5LQ&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=wDxl5XPaVD6BONnHSzIg0g&_nc_tpa=Q5bMBQJO9bdt_Q-z9Pcz9XXN0sApXo9P4hJbyKz6dLglvRKOxNncpKphpX4QDPqknWUCmr8XIyPLRLH64Q&oh=00_AQR-6UsAAtaEqGQUJMYyFBAdySddrgNh9uo4PQAo1FFHBg&oe=6AEFD2CE",
+      "last_posted_at": "2026-11-03 17:47:07",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwGeMtgk&_nc_oc=AdqzkU_xg9zqhHMLX8UsHn5m96K2S9ydkqKKdaNJaFmkPPMxnLFVL28kzDdeyb8HJE8&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=-CD4fN81SnDCBCF9B5T5jg&_nc_tpa=Q5bMBQLWLx94x7KctMOYRh0JCuXmsnjlhee11q2H8s-8SuKgJ3T06Bhbd94GzciWBXPebP4yww7wKsmeEg&oh=00_AQR_S9ff-UXOR4KCD3QX2mieALcqSpV9nfpcP_lW-eWafA&oe=6AF00B0E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -270,15 +270,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 15,
-      "stock_count": 24,
+      "stock_count": 23,
       "up_next": [
-        {
-          "id": "1C97IS7kpU-qAgnwmQc9t9QJxLUwmTnPi",
-          "title": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 2.3,
-          "created_time": "2026-10-28T12:17:15.999Z"
-        },
         {
           "id": "184LgjtOAA7AfoTUfjWG-6ChQTPA3AfKG",
           "title": "It's my Eyes not me! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -306,16 +299,45 @@
           "filename": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 2.6,
           "created_time": "2026-10-28T12:17:29.583Z"
+        },
+        {
+          "id": "1WV2w7JXdANiexKOAdb1mAQuTVbZ0kaFJ",
+          "title": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts",
+          "filename": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts.mp4",
+          "size_mb": 2.5,
+          "created_time": "2026-10-28T12:17:33.835Z"
         }
       ],
-      "last_posted_at": "2026-11-03 14:03:00",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwELoyVO&_nc_oc=AdrOVhestshYjxBRs3_uHeOswdewEb8yxmreHQ061rWYHypVL6xZ1YqtWdCgencr5LQ&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=wDxl5XPaVD6BONnHSzIg0g&_nc_tpa=Q5bMBQJO9bdt_Q-z9Pcz9XXN0sApXo9P4hJbyKz6dLglvRKOxNncpKphpX4QDPqknWUCmr8XIyPLRLH64Q&oh=00_AQR-6UsAAtaEqGQUJMYyFBAdySddrgNh9uo4PQAo1FFHBg&oe=6AEFD2CE",
+      "last_posted_at": "2026-11-03 17:47:07",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwGeMtgk&_nc_oc=AdqzkU_xg9zqhHMLX8UsHn5m96K2S9ydkqKKdaNJaFmkPPMxnLFVL28kzDdeyb8HJE8&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=-CD4fN81SnDCBCF9B5T5jg&_nc_tpa=Q5bMBQLWLx94x7KctMOYRh0JCuXmsnjlhee11q2H8s-8SuKgJ3T06Bhbd94GzciWBXPebP4yww7wKsmeEg&oh=00_AQR_S9ff-UXOR4KCD3QX2mieALcqSpV9nfpcP_lW-eWafA&oe=6AF00B0E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
     }
   ],
   "recent_uploads": [
+    {
+      "id": 44,
+      "page_id": "1439435542586778",
+      "drive_file_id": "1C97IS7kpU-qAgnwmQc9t9QJxLUwmTnPi",
+      "facebook_video_id": "1861797294825083",
+      "filename": "Maths class be like! \ud83e\udd23 (best animation memes) #shorts.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-03 17:47:07",
+      "error_message": null
+    },
+    {
+      "id": 43,
+      "page_id": "1291088570765567",
+      "drive_file_id": "1CE8gdx0Ps5ThUD_XoBUn2c5V6keG9sMP",
+      "facebook_video_id": "4743985469067231",
+      "filename": "Pacman is trying to avoid falling into a giant black hole...(see end)\ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-03 17:46:56",
+      "error_message": null
+    },
     {
       "id": 42,
       "page_id": "1439435542586778",
