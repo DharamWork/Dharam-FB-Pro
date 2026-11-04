@@ -1,15 +1,15 @@
 {
   "metrics": {
     "total_fleet_followers": 1,
-    "total_views": 1494,
-    "total_reels_published": 42,
-    "total_playable_stock": 31,
-    "last_sync": "2026-11-04 00:33:02 UTC",
+    "total_views": 1651,
+    "total_reels_published": 44,
+    "total_playable_stock": 29,
+    "last_sync": "2026-11-04 02:15:39 UTC",
     "next_slot": {
-      "name": "Slot 4 (Night)",
-      "est": "09:30 PM EST",
-      "target_iso": "2026-11-04T01:30:00+00:00",
-      "seconds_left": 3417
+      "name": "Slot 1 (Morning)",
+      "est": "09:00 AM EST",
+      "target_iso": "2026-11-04T13:00:00+00:00",
+      "seconds_left": 38660
     }
   },
   "daily_analytics": [
@@ -57,16 +57,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 1478,
-      "stock_count": 9,
+      "views": 1635,
+      "stock_count": 8,
       "up_next": [
-        {
-          "id": "1QlQYwGgRQmY0EqyadEy42_b5M8sEQaYI",
-          "title": "Pacman vs Pitbull ! \ud83d\ude31\ud83d\udc15(must see END)",
-          "filename": "Pacman vs Pitbull ! \ud83d\ude31\ud83d\udc15(must see END).mp4",
-          "size_mb": 12.5,
-          "created_time": "2026-10-28T12:21:23.952Z"
-        },
         {
           "id": "150hvH5sStRiXzp9k2PV_nuLC6IVEnWlD",
           "title": "Pacman's Friends Save Him 2 \ud83d\ude4f\ud83d\ude02 #friendship #pacman #stickman",
@@ -94,10 +87,17 @@
           "filename": "Pacman's so smart and simple solution \ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
           "size_mb": 9.5,
           "created_time": "2026-10-28T12:21:50.077Z"
+        },
+        {
+          "id": "1wZJOAhg9ZOiKwOzF0HXep-_6vxg3CGq5",
+          "title": "Someone Has to Stop the TNT ! \ud83d\udca3\ud83d\ude31",
+          "filename": "Someone Has to Stop the TNT ! \ud83d\udca3\ud83d\ude31.mp4",
+          "size_mb": 8.7,
+          "created_time": "2026-10-28T12:21:55.399Z"
         }
       ],
-      "last_posted_at": "2026-11-03 21:30:58",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwEFhxHL&_nc_oc=Ados3aRvcUf2jKAObziZ1166ihIebMeIpWKvRHWqlwtui4Hlg_igoR8bK2IO3uj6XA4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=ArIBykQyTo33wXJS2S3drQ&_nc_tpa=Q5bMBQIn5HAWwBjRcNdL4fDi5M6_6PTOKb_D0rcB6doDE8kzyr5AgZIhH6TzT-OM78zND0EMYmj6I5nlLA&oh=00_AQRe_QLw0BlWz3zyyw--8eKHQoNht7EGtMddpK-PMvI-ug&oe=6AF0433E",
+      "last_posted_at": "2026-11-04 02:15:24",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwFlIYLs&_nc_oc=AdpZTDIbAmzRb9ufi9UDkgoaR3arIYWVYAjHNI5P8swHXJxBc0isrb7I5NM7aDmTvFc&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=jCgbrWp-xUp_vy1HzK2BTw&_nc_tpa=Q5bMBQLhrn9YJbQfRY7wrsKpgy01SAlTkbKZnhpU2fDLTkbDCZlxNsZ8DHjF2zDKqmpNGhwS3sYgT4e29Q&oh=00_AQTw5qy97aN5R6pGJgBZTV7XzRgFFJSMBGjFtkSj4E2Ulw&oe=6AF07B7E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -110,15 +110,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 22,
+      "stock_count": 21,
       "up_next": [
-        {
-          "id": "12Cf5aFQZ7xIiBBcyXXVzhK4R1S29r8XT",
-          "title": "Mosquito mission impossible! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "Mosquito mission impossible! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 1.8,
-          "created_time": "2026-10-28T12:17:22.879Z"
-        },
         {
           "id": "1oChndPA4dCiU2BGktZzRMirU0Apu9qJF",
           "title": "POV mosquitoes tragic ending! \ud83e\udd23 (best animation memes) #shorts",
@@ -146,10 +139,17 @@
           "filename": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes).mp4",
           "size_mb": 2.2,
           "created_time": "2026-10-28T12:17:37.441Z"
+        },
+        {
+          "id": "125U4sOL-O0wBVAvx1uNgKougis73q6DQ",
+          "title": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 4.2,
+          "created_time": "2026-10-28T12:17:41.736Z"
         }
       ],
-      "last_posted_at": "2026-11-03 21:31:07",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwHo2k_Y&_nc_oc=AdoTZ8brM90OdE7W8Reb3KVrq4oDnKRiFRvLFdgHnyXsBQkIr0X8DlLELw9tpbkIG5I&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=Io7Ih9vNU-Mfk6-Yd6Ja6A&_nc_tpa=Q5bMBQKlMmeghyjKxW6VAvhUAt38G2Pg0cPO386xmjdRw7cx_tUXyFGnyKXlB6CH1HWR0shAgSMNN5tX2Q&oh=00_AQRp-o9Bui5A3iCWlQuZQ2B1nPKuz7efJcY3d4ODiS6l0A&oe=6AF0434E",
+      "last_posted_at": "2026-11-04 02:15:34",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEgFjIb&_nc_oc=AdoyeqDohgrKtwMMTep7gXnI0_cRFwtXdRvcwMVr4qT72JBui8W_H9nTK8V06fvNRJw&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=4R9E4vJ9k7G_GtV512A-hA&_nc_tpa=Q5bMBQLyZpIyS00XQCLdaehfq_Fr-kDz0XhFNuXmnoUCgoXwAMfxrBWIslUB8rLLHHk04fNpGd6DyDO4Fw&oh=00_AQSAgMTfgoRLq7HON2nINpPUZUfQgy3qPP71UVzJMV9-Jg&oe=6AF07B8E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -163,16 +163,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 1478,
-      "stock_count": 9,
+      "views": 1635,
+      "stock_count": 8,
       "up_next": [
-        {
-          "id": "1QlQYwGgRQmY0EqyadEy42_b5M8sEQaYI",
-          "title": "Pacman vs Pitbull ! \ud83d\ude31\ud83d\udc15(must see END)",
-          "filename": "Pacman vs Pitbull ! \ud83d\ude31\ud83d\udc15(must see END).mp4",
-          "size_mb": 12.5,
-          "created_time": "2026-10-28T12:21:23.952Z"
-        },
         {
           "id": "150hvH5sStRiXzp9k2PV_nuLC6IVEnWlD",
           "title": "Pacman's Friends Save Him 2 \ud83d\ude4f\ud83d\ude02 #friendship #pacman #stickman",
@@ -200,10 +193,17 @@
           "filename": "Pacman's so smart and simple solution \ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
           "size_mb": 9.5,
           "created_time": "2026-10-28T12:21:50.077Z"
+        },
+        {
+          "id": "1wZJOAhg9ZOiKwOzF0HXep-_6vxg3CGq5",
+          "title": "Someone Has to Stop the TNT ! \ud83d\udca3\ud83d\ude31",
+          "filename": "Someone Has to Stop the TNT ! \ud83d\udca3\ud83d\ude31.mp4",
+          "size_mb": 8.7,
+          "created_time": "2026-10-28T12:21:55.399Z"
         }
       ],
-      "last_posted_at": "2026-11-03 21:30:58",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwEFhxHL&_nc_oc=Ados3aRvcUf2jKAObziZ1166ihIebMeIpWKvRHWqlwtui4Hlg_igoR8bK2IO3uj6XA4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=ArIBykQyTo33wXJS2S3drQ&_nc_tpa=Q5bMBQIn5HAWwBjRcNdL4fDi5M6_6PTOKb_D0rcB6doDE8kzyr5AgZIhH6TzT-OM78zND0EMYmj6I5nlLA&oh=00_AQRe_QLw0BlWz3zyyw--8eKHQoNht7EGtMddpK-PMvI-ug&oe=6AF0433E",
+      "last_posted_at": "2026-11-04 02:15:24",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwFlIYLs&_nc_oc=AdpZTDIbAmzRb9ufi9UDkgoaR3arIYWVYAjHNI5P8swHXJxBc0isrb7I5NM7aDmTvFc&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=jCgbrWp-xUp_vy1HzK2BTw&_nc_tpa=Q5bMBQLhrn9YJbQfRY7wrsKpgy01SAlTkbKZnhpU2fDLTkbDCZlxNsZ8DHjF2zDKqmpNGhwS3sYgT4e29Q&oh=00_AQTw5qy97aN5R6pGJgBZTV7XzRgFFJSMBGjFtkSj4E2Ulw&oe=6AF07B7E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -216,15 +216,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 22,
+      "stock_count": 21,
       "up_next": [
-        {
-          "id": "12Cf5aFQZ7xIiBBcyXXVzhK4R1S29r8XT",
-          "title": "Mosquito mission impossible! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "Mosquito mission impossible! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 1.8,
-          "created_time": "2026-10-28T12:17:22.879Z"
-        },
         {
           "id": "1oChndPA4dCiU2BGktZzRMirU0Apu9qJF",
           "title": "POV mosquitoes tragic ending! \ud83e\udd23 (best animation memes) #shorts",
@@ -252,10 +245,17 @@
           "filename": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes).mp4",
           "size_mb": 2.2,
           "created_time": "2026-10-28T12:17:37.441Z"
+        },
+        {
+          "id": "125U4sOL-O0wBVAvx1uNgKougis73q6DQ",
+          "title": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 4.2,
+          "created_time": "2026-10-28T12:17:41.736Z"
         }
       ],
-      "last_posted_at": "2026-11-03 21:31:07",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwHo2k_Y&_nc_oc=AdoTZ8brM90OdE7W8Reb3KVrq4oDnKRiFRvLFdgHnyXsBQkIr0X8DlLELw9tpbkIG5I&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=Io7Ih9vNU-Mfk6-Yd6Ja6A&_nc_tpa=Q5bMBQKlMmeghyjKxW6VAvhUAt38G2Pg0cPO386xmjdRw7cx_tUXyFGnyKXlB6CH1HWR0shAgSMNN5tX2Q&oh=00_AQRp-o9Bui5A3iCWlQuZQ2B1nPKuz7efJcY3d4ODiS6l0A&oe=6AF0434E",
+      "last_posted_at": "2026-11-04 02:15:34",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEgFjIb&_nc_oc=AdoyeqDohgrKtwMMTep7gXnI0_cRFwtXdRvcwMVr4qT72JBui8W_H9nTK8V06fvNRJw&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=4R9E4vJ9k7G_GtV512A-hA&_nc_tpa=Q5bMBQLyZpIyS00XQCLdaehfq_Fr-kDz0XhFNuXmnoUCgoXwAMfxrBWIslUB8rLLHHk04fNpGd6DyDO4Fw&oh=00_AQSAgMTfgoRLq7HON2nINpPUZUfQgy3qPP71UVzJMV9-Jg&oe=6AF07B8E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -270,15 +270,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 22,
+      "stock_count": 21,
       "up_next": [
-        {
-          "id": "12Cf5aFQZ7xIiBBcyXXVzhK4R1S29r8XT",
-          "title": "Mosquito mission impossible! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "Mosquito mission impossible! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 1.8,
-          "created_time": "2026-10-28T12:17:22.879Z"
-        },
         {
           "id": "1oChndPA4dCiU2BGktZzRMirU0Apu9qJF",
           "title": "POV mosquitoes tragic ending! \ud83e\udd23 (best animation memes) #shorts",
@@ -306,16 +299,45 @@
           "filename": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes).mp4",
           "size_mb": 2.2,
           "created_time": "2026-10-28T12:17:37.441Z"
+        },
+        {
+          "id": "125U4sOL-O0wBVAvx1uNgKougis73q6DQ",
+          "title": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts",
+          "filename": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
+          "size_mb": 4.2,
+          "created_time": "2026-10-28T12:17:41.736Z"
         }
       ],
-      "last_posted_at": "2026-11-03 21:31:07",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwHo2k_Y&_nc_oc=AdoTZ8brM90OdE7W8Reb3KVrq4oDnKRiFRvLFdgHnyXsBQkIr0X8DlLELw9tpbkIG5I&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=Io7Ih9vNU-Mfk6-Yd6Ja6A&_nc_tpa=Q5bMBQKlMmeghyjKxW6VAvhUAt38G2Pg0cPO386xmjdRw7cx_tUXyFGnyKXlB6CH1HWR0shAgSMNN5tX2Q&oh=00_AQRp-o9Bui5A3iCWlQuZQ2B1nPKuz7efJcY3d4ODiS6l0A&oe=6AF0434E",
+      "last_posted_at": "2026-11-04 02:15:34",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEgFjIb&_nc_oc=AdoyeqDohgrKtwMMTep7gXnI0_cRFwtXdRvcwMVr4qT72JBui8W_H9nTK8V06fvNRJw&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=4R9E4vJ9k7G_GtV512A-hA&_nc_tpa=Q5bMBQLyZpIyS00XQCLdaehfq_Fr-kDz0XhFNuXmnoUCgoXwAMfxrBWIslUB8rLLHHk04fNpGd6DyDO4Fw&oh=00_AQSAgMTfgoRLq7HON2nINpPUZUfQgy3qPP71UVzJMV9-Jg&oe=6AF07B8E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
     }
   ],
   "recent_uploads": [
+    {
+      "id": 48,
+      "page_id": "1439435542586778",
+      "drive_file_id": "12Cf5aFQZ7xIiBBcyXXVzhK4R1S29r8XT",
+      "facebook_video_id": "2074722410581412",
+      "filename": "Mosquito mission impossible! \ud83e\udd23 (best animation memes) #shorts.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-04 02:15:34",
+      "error_message": null
+    },
+    {
+      "id": 47,
+      "page_id": "1291088570765567",
+      "drive_file_id": "1QlQYwGgRQmY0EqyadEy42_b5M8sEQaYI",
+      "facebook_video_id": "1694043972436031",
+      "filename": "Pacman vs Pitbull ! \ud83d\ude31\ud83d\udc15(must see END).mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-04 02:15:24",
+      "error_message": null
+    },
     {
       "id": 46,
       "page_id": "1439435542586778",
