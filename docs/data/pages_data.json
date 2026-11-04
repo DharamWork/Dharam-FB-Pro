@@ -1,15 +1,15 @@
 {
   "metrics": {
     "total_fleet_followers": 1,
-    "total_views": 1695,
+    "total_views": 1696,
     "total_reels_published": 46,
-    "total_playable_stock": 27,
-    "last_sync": "2026-11-04 17:51:06 UTC",
+    "total_playable_stock": 0,
+    "last_sync": "2026-11-04 18:43:28 UTC",
     "next_slot": {
       "name": "Slot 3 (Evening)",
       "est": "05:00 PM EST",
       "target_iso": "2026-11-04T21:00:00+00:00",
-      "seconds_left": 11333
+      "seconds_left": 8191
     }
   },
   "daily_analytics": [
@@ -57,47 +57,11 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 1679,
-      "stock_count": 7,
-      "up_next": [
-        {
-          "id": "1ElbbSZsKr8uo7AptNGS0cu6b0WE8Igm1",
-          "title": "Pacman's Bad Decision means Huge Problems ! \ud83d\ude32\ud83d\ude4f",
-          "filename": "Pacman's Bad Decision means Huge Problems ! \ud83d\ude32\ud83d\ude4f.mp4",
-          "size_mb": 15.1,
-          "created_time": "2026-10-28T12:21:37.373Z"
-        },
-        {
-          "id": "19uZ4qi11LObSYWjbmxfV82GglDoiVojA",
-          "title": "Pacman's Much Easier Way ! (must see END)  \ud83d\ude02\ud83d\ude02#friendship #pacman #trending #stickman #spider",
-          "filename": "Pacman's Much Easier Way ! (must see END)  \ud83d\ude02\ud83d\ude02#friendship #pacman #trending #stickman #spider.mp4",
-          "size_mb": 10.9,
-          "created_time": "2026-10-28T12:21:44.031Z"
-        },
-        {
-          "id": "1ejllKb8AVZ5VPnyweJ1aWVmxIrBPH7X-",
-          "title": "Pacman's so smart and simple solution \ud83e\udd13\ud83d\ude4f#friendship #pacman #trending",
-          "filename": "Pacman's so smart and simple solution \ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
-          "size_mb": 9.5,
-          "created_time": "2026-10-28T12:21:50.077Z"
-        },
-        {
-          "id": "1wZJOAhg9ZOiKwOzF0HXep-_6vxg3CGq5",
-          "title": "Someone Has to Stop the TNT ! \ud83d\udca3\ud83d\ude31",
-          "filename": "Someone Has to Stop the TNT ! \ud83d\udca3\ud83d\ude31.mp4",
-          "size_mb": 8.7,
-          "created_time": "2026-10-28T12:21:55.399Z"
-        },
-        {
-          "id": "1VFzLJsdX9Xz67kAVKNjLojvhXSLNWT9x",
-          "title": "PERFECT MATH !  \ud83d\ude4f\u2795\ud83d\udc68\u200d\ud83d\udd2c",
-          "filename": "PERFECT MATH !  \ud83d\ude4f\u2795\ud83d\udc68\u200d\ud83d\udd2c.mp4",
-          "size_mb": 2.3,
-          "created_time": "2026-10-28T12:21:58.510Z"
-        }
-      ],
+      "views": 1680,
+      "stock_count": 0,
+      "up_next": [],
       "last_posted_at": "2026-11-04 17:50:50",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwELeS-w&_nc_oc=Adqt-D8pDcb1nv4sf3Qips69T903mik3kczxogw-FbIg97ZA7VKdZDHY1H62546uMsc&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=lH6kf5ewjtq6aI3dxVXRnw&_nc_tpa=Q5bMBQLEulfIsii7l9bcPMKMtdUKrJU4ddXGHMCTQHI61GOhzZQE8NvQg7JU9FRotPohlG8xFzUlEcFXCw&oh=00_AQQ4uZV6jqVauS53cucgbyjl6XcdCIqYDWZJHOSjJ1pKWQ&oe=6AF15C7E",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwF8MzZA&_nc_oc=Adro3RNdJzFi1RqHXP7jrMXkI9_fHu9Q3mQTomY9R9urF_AM7AIjJa0VL0KfaaWrHFU&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=zl4Qmh63wz0s5439vuIbUg&_nc_tpa=Q5bMBQKT2c_isnLlKlnuyEmGiv5ZvE4lDfGq9X9hGzWmtAHCGXX3pL_OsMhCC8ipHb-kSuKSwxpjxLLIyQ&oh=00_AQRXarrQkYc6OydMfqkY3EftQzutCg_Ip4-Bp_7sJZjxWw&oe=6AF15C7E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -110,46 +74,10 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 20,
-      "up_next": [
-        {
-          "id": "1LqmxqyawLB0uSr998WmEZgqfJ8nGqHRV",
-          "title": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.6,
-          "created_time": "2026-10-28T12:17:29.583Z"
-        },
-        {
-          "id": "1WV2w7JXdANiexKOAdb1mAQuTVbZ0kaFJ",
-          "title": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts",
-          "filename": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts.mp4",
-          "size_mb": 2.5,
-          "created_time": "2026-10-28T12:17:33.835Z"
-        },
-        {
-          "id": "1QiR6HjWbjrdiZUpGtCcj7QGRvqjrkTV7",
-          "title": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes)",
-          "filename": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes).mp4",
-          "size_mb": 2.2,
-          "created_time": "2026-10-28T12:17:37.441Z"
-        },
-        {
-          "id": "125U4sOL-O0wBVAvx1uNgKougis73q6DQ",
-          "title": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 4.2,
-          "created_time": "2026-10-28T12:17:41.736Z"
-        },
-        {
-          "id": "1gvb72TUfV8OidAYNf4-NfOI76Mc_t7FJ",
-          "title": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts",
-          "filename": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts.mp4",
-          "size_mb": 2.8,
-          "created_time": "2026-10-28T12:17:45.081Z"
-        }
-      ],
+      "stock_count": 0,
+      "up_next": [],
       "last_posted_at": "2026-11-04 17:51:01",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEBpckV&_nc_oc=AdrIRUp6_I4h8CO6XpNnIyLBWwErPaHEjs48PxykKOR52AUOELvkqFhnw2jq0dXX_30&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=F2CbobKEWIIQ9PzX33ooSA&_nc_tpa=Q5bMBQKc_lnmfGqAKBVLIaGNUM6uB1gT59vVad4Xh0JUehMxx_gKAJ4d5ECxTcyNF1HBSGO8wmSIQv0H4Q&oh=00_AQSEiKugcmPiVLtsv89-YJWPwD6kXcMi39zIa0LaDKxPUg&oe=6AF15C8E",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=jj6hZt4nAYAQ7kNvwF2ui9X&_nc_oc=AdpuEgItIBmhs-g3IAvLt2ZRSe-XoGfOeipDXIIKSlJYud8PPg1pOlBG7mbKcGRA2Cg&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=B5Kohkbrp-payPMsgnNBZg&_nc_tpa=Q5bMBQL7EWOf2etsOTBpMTB_AdBihgPIGWTnIZLOzfbWb-xyuFdy2m7HuN8pnexDX-daqOGazGJxzqNmHw&oh=00_AQRUq0aTI-xOze1gAzrtrPKO-64pUtaHYwA77H7WIuFrJA&oe=6AF15C8E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -163,47 +91,11 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 1679,
-      "stock_count": 7,
-      "up_next": [
-        {
-          "id": "1ElbbSZsKr8uo7AptNGS0cu6b0WE8Igm1",
-          "title": "Pacman's Bad Decision means Huge Problems ! \ud83d\ude32\ud83d\ude4f",
-          "filename": "Pacman's Bad Decision means Huge Problems ! \ud83d\ude32\ud83d\ude4f.mp4",
-          "size_mb": 15.1,
-          "created_time": "2026-10-28T12:21:37.373Z"
-        },
-        {
-          "id": "19uZ4qi11LObSYWjbmxfV82GglDoiVojA",
-          "title": "Pacman's Much Easier Way ! (must see END)  \ud83d\ude02\ud83d\ude02#friendship #pacman #trending #stickman #spider",
-          "filename": "Pacman's Much Easier Way ! (must see END)  \ud83d\ude02\ud83d\ude02#friendship #pacman #trending #stickman #spider.mp4",
-          "size_mb": 10.9,
-          "created_time": "2026-10-28T12:21:44.031Z"
-        },
-        {
-          "id": "1ejllKb8AVZ5VPnyweJ1aWVmxIrBPH7X-",
-          "title": "Pacman's so smart and simple solution \ud83e\udd13\ud83d\ude4f#friendship #pacman #trending",
-          "filename": "Pacman's so smart and simple solution \ud83e\udd13\ud83d\ude4f#friendship #pacman #trending.mp4",
-          "size_mb": 9.5,
-          "created_time": "2026-10-28T12:21:50.077Z"
-        },
-        {
-          "id": "1wZJOAhg9ZOiKwOzF0HXep-_6vxg3CGq5",
-          "title": "Someone Has to Stop the TNT ! \ud83d\udca3\ud83d\ude31",
-          "filename": "Someone Has to Stop the TNT ! \ud83d\udca3\ud83d\ude31.mp4",
-          "size_mb": 8.7,
-          "created_time": "2026-10-28T12:21:55.399Z"
-        },
-        {
-          "id": "1VFzLJsdX9Xz67kAVKNjLojvhXSLNWT9x",
-          "title": "PERFECT MATH !  \ud83d\ude4f\u2795\ud83d\udc68\u200d\ud83d\udd2c",
-          "filename": "PERFECT MATH !  \ud83d\ude4f\u2795\ud83d\udc68\u200d\ud83d\udd2c.mp4",
-          "size_mb": 2.3,
-          "created_time": "2026-10-28T12:21:58.510Z"
-        }
-      ],
+      "views": 1680,
+      "stock_count": 0,
+      "up_next": [],
       "last_posted_at": "2026-11-04 17:50:50",
-      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwELeS-w&_nc_oc=Adqt-D8pDcb1nv4sf3Qips69T903mik3kczxogw-FbIg97ZA7VKdZDHY1H62546uMsc&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=lH6kf5ewjtq6aI3dxVXRnw&_nc_tpa=Q5bMBQLEulfIsii7l9bcPMKMtdUKrJU4ddXGHMCTQHI61GOhzZQE8NvQg7JU9FRotPohlG8xFzUlEcFXCw&oh=00_AQQ4uZV6jqVauS53cucgbyjl6XcdCIqYDWZJHOSjJ1pKWQ&oe=6AF15C7E",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwF8MzZA&_nc_oc=Adro3RNdJzFi1RqHXP7jrMXkI9_fHu9Q3mQTomY9R9urF_AM7AIjJa0VL0KfaaWrHFU&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=zl4Qmh63wz0s5439vuIbUg&_nc_tpa=Q5bMBQKT2c_isnLlKlnuyEmGiv5ZvE4lDfGq9X9hGzWmtAHCGXX3pL_OsMhCC8ipHb-kSuKSwxpjxLLIyQ&oh=00_AQRXarrQkYc6OydMfqkY3EftQzutCg_Ip4-Bp_7sJZjxWw&oe=6AF15C7E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -216,46 +108,10 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 20,
-      "up_next": [
-        {
-          "id": "1LqmxqyawLB0uSr998WmEZgqfJ8nGqHRV",
-          "title": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.6,
-          "created_time": "2026-10-28T12:17:29.583Z"
-        },
-        {
-          "id": "1WV2w7JXdANiexKOAdb1mAQuTVbZ0kaFJ",
-          "title": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts",
-          "filename": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts.mp4",
-          "size_mb": 2.5,
-          "created_time": "2026-10-28T12:17:33.835Z"
-        },
-        {
-          "id": "1QiR6HjWbjrdiZUpGtCcj7QGRvqjrkTV7",
-          "title": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes)",
-          "filename": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes).mp4",
-          "size_mb": 2.2,
-          "created_time": "2026-10-28T12:17:37.441Z"
-        },
-        {
-          "id": "125U4sOL-O0wBVAvx1uNgKougis73q6DQ",
-          "title": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 4.2,
-          "created_time": "2026-10-28T12:17:41.736Z"
-        },
-        {
-          "id": "1gvb72TUfV8OidAYNf4-NfOI76Mc_t7FJ",
-          "title": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts",
-          "filename": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts.mp4",
-          "size_mb": 2.8,
-          "created_time": "2026-10-28T12:17:45.081Z"
-        }
-      ],
+      "stock_count": 0,
+      "up_next": [],
       "last_posted_at": "2026-11-04 17:51:01",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEBpckV&_nc_oc=AdrIRUp6_I4h8CO6XpNnIyLBWwErPaHEjs48PxykKOR52AUOELvkqFhnw2jq0dXX_30&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=F2CbobKEWIIQ9PzX33ooSA&_nc_tpa=Q5bMBQKc_lnmfGqAKBVLIaGNUM6uB1gT59vVad4Xh0JUehMxx_gKAJ4d5ECxTcyNF1HBSGO8wmSIQv0H4Q&oh=00_AQSEiKugcmPiVLtsv89-YJWPwD6kXcMi39zIa0LaDKxPUg&oe=6AF15C8E",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=jj6hZt4nAYAQ7kNvwF2ui9X&_nc_oc=AdpuEgItIBmhs-g3IAvLt2ZRSe-XoGfOeipDXIIKSlJYud8PPg1pOlBG7mbKcGRA2Cg&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=B5Kohkbrp-payPMsgnNBZg&_nc_tpa=Q5bMBQL7EWOf2etsOTBpMTB_AdBihgPIGWTnIZLOzfbWb-xyuFdy2m7HuN8pnexDX-daqOGazGJxzqNmHw&oh=00_AQRUq0aTI-xOze1gAzrtrPKO-64pUtaHYwA77H7WIuFrJA&oe=6AF15C8E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -270,46 +126,10 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 20,
-      "up_next": [
-        {
-          "id": "1LqmxqyawLB0uSr998WmEZgqfJ8nGqHRV",
-          "title": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 2.6,
-          "created_time": "2026-10-28T12:17:29.583Z"
-        },
-        {
-          "id": "1WV2w7JXdANiexKOAdb1mAQuTVbZ0kaFJ",
-          "title": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts",
-          "filename": "One wrong move and it's over! \ud83e\udd23 (best animation memes) #funny #animation #usa #shorts.mp4",
-          "size_mb": 2.5,
-          "created_time": "2026-10-28T12:17:33.835Z"
-        },
-        {
-          "id": "1QiR6HjWbjrdiZUpGtCcj7QGRvqjrkTV7",
-          "title": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes)",
-          "filename": "POV Me Watching Dance Videos at 3 AM! \ud83e\udd23 (Best Animation Memes).mp4",
-          "size_mb": 2.2,
-          "created_time": "2026-10-28T12:17:37.441Z"
-        },
-        {
-          "id": "125U4sOL-O0wBVAvx1uNgKougis73q6DQ",
-          "title": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts",
-          "filename": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
-          "size_mb": 4.2,
-          "created_time": "2026-10-28T12:17:41.736Z"
-        },
-        {
-          "id": "1gvb72TUfV8OidAYNf4-NfOI76Mc_t7FJ",
-          "title": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts",
-          "filename": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts.mp4",
-          "size_mb": 2.8,
-          "created_time": "2026-10-28T12:17:45.081Z"
-        }
-      ],
+      "stock_count": 0,
+      "up_next": [],
       "last_posted_at": "2026-11-04 17:51:01",
-      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEBpckV&_nc_oc=AdrIRUp6_I4h8CO6XpNnIyLBWwErPaHEjs48PxykKOR52AUOELvkqFhnw2jq0dXX_30&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=F2CbobKEWIIQ9PzX33ooSA&_nc_tpa=Q5bMBQKc_lnmfGqAKBVLIaGNUM6uB1gT59vVad4Xh0JUehMxx_gKAJ4d5ECxTcyNF1HBSGO8wmSIQv0H4Q&oh=00_AQSEiKugcmPiVLtsv89-YJWPwD6kXcMi39zIa0LaDKxPUg&oe=6AF15C8E",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=jj6hZt4nAYAQ7kNvwF2ui9X&_nc_oc=AdpuEgItIBmhs-g3IAvLt2ZRSe-XoGfOeipDXIIKSlJYud8PPg1pOlBG7mbKcGRA2Cg&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=B5Kohkbrp-payPMsgnNBZg&_nc_tpa=Q5bMBQL7EWOf2etsOTBpMTB_AdBihgPIGWTnIZLOzfbWb-xyuFdy2m7HuN8pnexDX-daqOGazGJxzqNmHw&oh=00_AQRUq0aTI-xOze1gAzrtrPKO-64pUtaHYwA77H7WIuFrJA&oe=6AF15C8E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
