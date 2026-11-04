@@ -1,15 +1,15 @@
 {
   "metrics": {
     "total_fleet_followers": 1,
-    "total_views": 1694,
-    "total_reels_published": 44,
-    "total_playable_stock": 29,
-    "last_sync": "2026-11-04 16:43:23 UTC",
+    "total_views": 1695,
+    "total_reels_published": 46,
+    "total_playable_stock": 27,
+    "last_sync": "2026-11-04 17:51:06 UTC",
     "next_slot": {
-      "name": "Slot 2 (Mid-Day)",
-      "est": "01:00 PM EST",
-      "target_iso": "2026-11-04T17:00:00+00:00",
-      "seconds_left": 996
+      "name": "Slot 3 (Evening)",
+      "est": "05:00 PM EST",
+      "target_iso": "2026-11-04T21:00:00+00:00",
+      "seconds_left": 11333
     }
   },
   "daily_analytics": [
@@ -57,16 +57,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 1678,
-      "stock_count": 8,
+      "views": 1679,
+      "stock_count": 7,
       "up_next": [
-        {
-          "id": "150hvH5sStRiXzp9k2PV_nuLC6IVEnWlD",
-          "title": "Pacman's Friends Save Him 2 \ud83d\ude4f\ud83d\ude02 #friendship #pacman #stickman",
-          "filename": "Pacman's Friends Save Him 2 \ud83d\ude4f\ud83d\ude02 #friendship #pacman #stickman.mp4",
-          "size_mb": 7.0,
-          "created_time": "2026-10-28T12:21:28.965Z"
-        },
         {
           "id": "1ElbbSZsKr8uo7AptNGS0cu6b0WE8Igm1",
           "title": "Pacman's Bad Decision means Huge Problems ! \ud83d\ude32\ud83d\ude4f",
@@ -94,10 +87,17 @@
           "filename": "Someone Has to Stop the TNT ! \ud83d\udca3\ud83d\ude31.mp4",
           "size_mb": 8.7,
           "created_time": "2026-10-28T12:21:55.399Z"
+        },
+        {
+          "id": "1VFzLJsdX9Xz67kAVKNjLojvhXSLNWT9x",
+          "title": "PERFECT MATH !  \ud83d\ude4f\u2795\ud83d\udc68\u200d\ud83d\udd2c",
+          "filename": "PERFECT MATH !  \ud83d\ude4f\u2795\ud83d\udc68\u200d\ud83d\udd2c.mp4",
+          "size_mb": 2.3,
+          "created_time": "2026-10-28T12:21:58.510Z"
         }
       ],
-      "last_posted_at": "2026-11-04 02:15:24",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwHrLCda&_nc_oc=AdoKF5b8ph9DLIBtgsKPp08aufTZ8Sk0P7TE8pZHOuuZd6-MgukQR0cxJHln3r1ViAQ&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=g-VJMeMFlC6IW01X-nsHtg&_nc_tpa=Q5bMBQI1abLTcRKOB-kxPbkSLESv70Kz-BRK4_kBu9Hs9jjL6z0PQ1UbCpeybemIZDHI_kfrEqBSbU2yvA&oh=00_AQTLH-qfMY63yYnaDUcaPuqufnfOaMyGaWDQGPP0sXo0wQ&oe=6AF1243E",
+      "last_posted_at": "2026-11-04 17:50:50",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwELeS-w&_nc_oc=Adqt-D8pDcb1nv4sf3Qips69T903mik3kczxogw-FbIg97ZA7VKdZDHY1H62546uMsc&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=lH6kf5ewjtq6aI3dxVXRnw&_nc_tpa=Q5bMBQLEulfIsii7l9bcPMKMtdUKrJU4ddXGHMCTQHI61GOhzZQE8NvQg7JU9FRotPohlG8xFzUlEcFXCw&oh=00_AQQ4uZV6jqVauS53cucgbyjl6XcdCIqYDWZJHOSjJ1pKWQ&oe=6AF15C7E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -110,15 +110,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 21,
+      "stock_count": 20,
       "up_next": [
-        {
-          "id": "1oChndPA4dCiU2BGktZzRMirU0Apu9qJF",
-          "title": "POV mosquitoes tragic ending! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "POV mosquitoes tragic ending! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 1.9,
-          "created_time": "2026-10-28T12:17:26.437Z"
-        },
         {
           "id": "1LqmxqyawLB0uSr998WmEZgqfJ8nGqHRV",
           "title": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -146,10 +139,17 @@
           "filename": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 4.2,
           "created_time": "2026-10-28T12:17:41.736Z"
+        },
+        {
+          "id": "1gvb72TUfV8OidAYNf4-NfOI76Mc_t7FJ",
+          "title": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts",
+          "filename": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts.mp4",
+          "size_mb": 2.8,
+          "created_time": "2026-10-28T12:17:45.081Z"
         }
       ],
-      "last_posted_at": "2026-11-04 02:15:34",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEmsiUD&_nc_oc=Adp745KDe1cqRijEM3iuMvBjttOeLJKuB-OpaVismf_l3kKKDilaC9n6XRtqSbkUssw&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=1P62k7gZ9EGYjaWgT0wnvA&_nc_tpa=Q5bMBQKfchGOTo8yCvfSC1wicjz4KePxYUqNY52rwo7_x9X7XZQ9IMwddYGC9cbtcT8_PbfjyHFW4DQTIg&oh=00_AQR4htCF3MMF18D3_MAW71c5TC-OHy4G6j5KPS2Oj6wHNw&oe=6AF1244E",
+      "last_posted_at": "2026-11-04 17:51:01",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEBpckV&_nc_oc=AdrIRUp6_I4h8CO6XpNnIyLBWwErPaHEjs48PxykKOR52AUOELvkqFhnw2jq0dXX_30&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=F2CbobKEWIIQ9PzX33ooSA&_nc_tpa=Q5bMBQKc_lnmfGqAKBVLIaGNUM6uB1gT59vVad4Xh0JUehMxx_gKAJ4d5ECxTcyNF1HBSGO8wmSIQv0H4Q&oh=00_AQSEiKugcmPiVLtsv89-YJWPwD6kXcMi39zIa0LaDKxPUg&oe=6AF15C8E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -163,16 +163,9 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 1678,
-      "stock_count": 8,
+      "views": 1679,
+      "stock_count": 7,
       "up_next": [
-        {
-          "id": "150hvH5sStRiXzp9k2PV_nuLC6IVEnWlD",
-          "title": "Pacman's Friends Save Him 2 \ud83d\ude4f\ud83d\ude02 #friendship #pacman #stickman",
-          "filename": "Pacman's Friends Save Him 2 \ud83d\ude4f\ud83d\ude02 #friendship #pacman #stickman.mp4",
-          "size_mb": 7.0,
-          "created_time": "2026-10-28T12:21:28.965Z"
-        },
         {
           "id": "1ElbbSZsKr8uo7AptNGS0cu6b0WE8Igm1",
           "title": "Pacman's Bad Decision means Huge Problems ! \ud83d\ude32\ud83d\ude4f",
@@ -200,10 +193,17 @@
           "filename": "Someone Has to Stop the TNT ! \ud83d\udca3\ud83d\ude31.mp4",
           "size_mb": 8.7,
           "created_time": "2026-10-28T12:21:55.399Z"
+        },
+        {
+          "id": "1VFzLJsdX9Xz67kAVKNjLojvhXSLNWT9x",
+          "title": "PERFECT MATH !  \ud83d\ude4f\u2795\ud83d\udc68\u200d\ud83d\udd2c",
+          "filename": "PERFECT MATH !  \ud83d\ude4f\u2795\ud83d\udc68\u200d\ud83d\udd2c.mp4",
+          "size_mb": 2.3,
+          "created_time": "2026-10-28T12:21:58.510Z"
         }
       ],
-      "last_posted_at": "2026-11-04 02:15:24",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwHrLCda&_nc_oc=AdoKF5b8ph9DLIBtgsKPp08aufTZ8Sk0P7TE8pZHOuuZd6-MgukQR0cxJHln3r1ViAQ&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=g-VJMeMFlC6IW01X-nsHtg&_nc_tpa=Q5bMBQI1abLTcRKOB-kxPbkSLESv70Kz-BRK4_kBu9Hs9jjL6z0PQ1UbCpeybemIZDHI_kfrEqBSbU2yvA&oh=00_AQTLH-qfMY63yYnaDUcaPuqufnfOaMyGaWDQGPP0sXo0wQ&oe=6AF1243E",
+      "last_posted_at": "2026-11-04 17:50:50",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=lTYVHM_xTw0Q7kNvwELeS-w&_nc_oc=Adqt-D8pDcb1nv4sf3Qips69T903mik3kczxogw-FbIg97ZA7VKdZDHY1H62546uMsc&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=lH6kf5ewjtq6aI3dxVXRnw&_nc_tpa=Q5bMBQLEulfIsii7l9bcPMKMtdUKrJU4ddXGHMCTQHI61GOhzZQE8NvQg7JU9FRotPohlG8xFzUlEcFXCw&oh=00_AQQ4uZV6jqVauS53cucgbyjl6XcdCIqYDWZJHOSjJ1pKWQ&oe=6AF15C7E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -216,15 +216,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 21,
+      "stock_count": 20,
       "up_next": [
-        {
-          "id": "1oChndPA4dCiU2BGktZzRMirU0Apu9qJF",
-          "title": "POV mosquitoes tragic ending! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "POV mosquitoes tragic ending! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 1.9,
-          "created_time": "2026-10-28T12:17:26.437Z"
-        },
         {
           "id": "1LqmxqyawLB0uSr998WmEZgqfJ8nGqHRV",
           "title": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -252,10 +245,17 @@
           "filename": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 4.2,
           "created_time": "2026-10-28T12:17:41.736Z"
+        },
+        {
+          "id": "1gvb72TUfV8OidAYNf4-NfOI76Mc_t7FJ",
+          "title": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts",
+          "filename": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts.mp4",
+          "size_mb": 2.8,
+          "created_time": "2026-10-28T12:17:45.081Z"
         }
       ],
-      "last_posted_at": "2026-11-04 02:15:34",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEmsiUD&_nc_oc=Adp745KDe1cqRijEM3iuMvBjttOeLJKuB-OpaVismf_l3kKKDilaC9n6XRtqSbkUssw&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=1P62k7gZ9EGYjaWgT0wnvA&_nc_tpa=Q5bMBQKfchGOTo8yCvfSC1wicjz4KePxYUqNY52rwo7_x9X7XZQ9IMwddYGC9cbtcT8_PbfjyHFW4DQTIg&oh=00_AQR4htCF3MMF18D3_MAW71c5TC-OHy4G6j5KPS2Oj6wHNw&oe=6AF1244E",
+      "last_posted_at": "2026-11-04 17:51:01",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEBpckV&_nc_oc=AdrIRUp6_I4h8CO6XpNnIyLBWwErPaHEjs48PxykKOR52AUOELvkqFhnw2jq0dXX_30&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=F2CbobKEWIIQ9PzX33ooSA&_nc_tpa=Q5bMBQKc_lnmfGqAKBVLIaGNUM6uB1gT59vVad4Xh0JUehMxx_gKAJ4d5ECxTcyNF1HBSGO8wmSIQv0H4Q&oh=00_AQSEiKugcmPiVLtsv89-YJWPwD6kXcMi39zIa0LaDKxPUg&oe=6AF15C8E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -270,15 +270,8 @@
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
       "views": 16,
-      "stock_count": 21,
+      "stock_count": 20,
       "up_next": [
-        {
-          "id": "1oChndPA4dCiU2BGktZzRMirU0Apu9qJF",
-          "title": "POV mosquitoes tragic ending! \ud83e\udd23 (best animation memes) #shorts",
-          "filename": "POV mosquitoes tragic ending! \ud83e\udd23 (best animation memes) #shorts.mp4",
-          "size_mb": 1.9,
-          "created_time": "2026-10-28T12:17:26.437Z"
-        },
         {
           "id": "1LqmxqyawLB0uSr998WmEZgqfJ8nGqHRV",
           "title": "POV Watching Funny Video at 3 AM! \ud83e\udd23 (Best Animation Memes) #shorts",
@@ -306,16 +299,45 @@
           "filename": "Mistake Were Made! \ud83e\udd23 (Best Animation Memes) #shorts.mp4",
           "size_mb": 4.2,
           "created_time": "2026-10-28T12:17:41.736Z"
+        },
+        {
+          "id": "1gvb72TUfV8OidAYNf4-NfOI76Mc_t7FJ",
+          "title": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts",
+          "filename": "Saving life so easily \ud83e\udd23 (best animation memes) #memes #animation #shorts.mp4",
+          "size_mb": 2.8,
+          "created_time": "2026-10-28T12:17:45.081Z"
         }
       ],
-      "last_posted_at": "2026-11-04 02:15:34",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEmsiUD&_nc_oc=Adp745KDe1cqRijEM3iuMvBjttOeLJKuB-OpaVismf_l3kKKDilaC9n6XRtqSbkUssw&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=1P62k7gZ9EGYjaWgT0wnvA&_nc_tpa=Q5bMBQKfchGOTo8yCvfSC1wicjz4KePxYUqNY52rwo7_x9X7XZQ9IMwddYGC9cbtcT8_PbfjyHFW4DQTIg&oh=00_AQR4htCF3MMF18D3_MAW71c5TC-OHy4G6j5KPS2Oj6wHNw&oe=6AF1244E",
+      "last_posted_at": "2026-11-04 17:51:01",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MPYUDrocWTUQ7kNvwEBpckV&_nc_oc=AdrIRUp6_I4h8CO6XpNnIyLBWwErPaHEjs48PxykKOR52AUOELvkqFhnw2jq0dXX_30&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=F2CbobKEWIIQ9PzX33ooSA&_nc_tpa=Q5bMBQKc_lnmfGqAKBVLIaGNUM6uB1gT59vVad4Xh0JUehMxx_gKAJ4d5ECxTcyNF1HBSGO8wmSIQv0H4Q&oh=00_AQSEiKugcmPiVLtsv89-YJWPwD6kXcMi39zIa0LaDKxPUg&oe=6AF15C8E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
     }
   ],
   "recent_uploads": [
+    {
+      "id": 50,
+      "page_id": "1439435542586778",
+      "drive_file_id": "1oChndPA4dCiU2BGktZzRMirU0Apu9qJF",
+      "facebook_video_id": "1801021364440438",
+      "filename": "POV mosquitoes tragic ending! \ud83e\udd23 (best animation memes) #shorts.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-04 17:51:01",
+      "error_message": null
+    },
+    {
+      "id": 49,
+      "page_id": "1291088570765567",
+      "drive_file_id": "150hvH5sStRiXzp9k2PV_nuLC6IVEnWlD",
+      "facebook_video_id": "1129873993018435",
+      "filename": "Pacman's Friends Save Him 2 \ud83d\ude4f\ud83d\ude02 #friendship #pacman #stickman.mp4",
+      "post_type": "reel",
+      "status": "posted",
+      "posted_at": "2026-11-04 17:50:50",
+      "error_message": null
+    },
     {
       "id": 48,
       "page_id": "1439435542586778",
