@@ -4,12 +4,12 @@
     "total_views": 1731,
     "total_reels_published": 46,
     "total_playable_stock": 0,
-    "last_sync": "2026-11-07 20:24:46 UTC",
+    "last_sync": "2026-11-07 21:26:20 UTC",
     "next_slot": {
-      "name": "Slot 3 (Evening)",
-      "est": "05:00 PM EST",
-      "target_iso": "2026-11-07T21:00:00+00:00",
-      "seconds_left": 2113
+      "name": "Slot 4 (Night)",
+      "est": "09:30 PM EST",
+      "target_iso": "2026-11-08T01:30:00+00:00",
+      "seconds_left": 14619
     }
   },
   "daily_analytics": [
@@ -61,7 +61,7 @@
       "stock_count": 0,
       "up_next": [],
       "last_posted_at": "2026-11-04 17:50:50",
-      "avatar_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=pFtGaX9sB6sQ7kNvwGJIxul&_nc_oc=AdoGkn2HM9lOE7ooi9ZQYHSE0J8wsGlmNsJrTLYmQjtNKT3eU23ZeNgxxhs2S0I6ueo&_nc_zt=24&_nc_ht=scontent-sea5-2.xx&edm=AJdBtusEAAAA&_nc_gid=e7cWw7isteg8fWSKdU8R0Q&_nc_tpa=Q5bMBQLxa13MzwFJrame-oJ8wWl_fZo9AAo1kXQGsANwjiWh2kvMHQVNBm4rcqEM7inx3NFAQ6EHy0q1EQ&oh=00_AQRSpblIO7GRtu9vNH_GBjFLz4M9IXSmsPU7zd97Y6RJqg&oe=6AF550FE",
+      "avatar_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=pFtGaX9sB6sQ7kNvwHB0RbL&_nc_oc=Adrnyluh0ISdn7jrd1ON0istknyVla6Fk6ns5_HmYVemF16nagBFR-Hz12Sf24xrMDk&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=7HvOENpNUrbdFqKFEODRoA&_nc_tpa=Q5bMBQKR3ueH6eq46mniiPRCoCSDO3vANMxpBSBDVclldT6-qWAOAin3lmUAMqUobUOULE6eV6Sqsa2LTA&oh=00_AQTfGNEDah7kjHj_nY3kjb-4PJEye3kQouH8kmj6k-FZlA&oe=6AF550FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -77,7 +77,7 @@
       "stock_count": 0,
       "up_next": [],
       "last_posted_at": "2026-11-04 17:51:01",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5H85w9I9IvYQ7kNvwHvOj_J&_nc_oc=AdqzGEBBjIE1QwQyKJFCDlPBXVO6LtTuiuwmz1pPcabrDn8_O2iv10rzawTOZZeE86c&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=ihffa6vD2JTT9ChXZlsIlQ&_nc_tpa=Q5bMBQIk2Mv8KLCOViYw-HGL54O6Bf2m7rL5d_63_tg_5HLVmHZWFoNgtrx0PnsFxT-dXeJxe_66azFVdQ&oh=00_AQR3onWAvePkZY67mOu_84Wk5eKnW5Vk3fY8GZRuIBmP_w&oe=6AF5510E",
+      "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5H85w9I9IvYQ7kNvwEYFdoN&_nc_oc=AdrslSaKRTPJ07fmr8RaL4BYBYBCvXhabfWvkWPZftz5NqYt50KNePTJjYaPUsOO1B4&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&edm=AJdBtusEAAAA&_nc_gid=ub9FYTTp3Hm5l2MtYr5iDw&_nc_tpa=Q5bMBQKzoMkoXr5395V0RCPmzRxDPHJnTYIE1k3fp6AsVp6Ils-IA0hTQ1uTECAvFh8m5eU6b2dPuLQrYA&oh=00_AQSolGcWBVP9mdkw26GIXUqcGIgzG-f-OXw2USdkLSwsqQ&oe=6AF5510E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "up_next": [],
       "last_posted_at": "2026-11-04 17:50:50",
-      "avatar_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=pFtGaX9sB6sQ7kNvwGJIxul&_nc_oc=AdoGkn2HM9lOE7ooi9ZQYHSE0J8wsGlmNsJrTLYmQjtNKT3eU23ZeNgxxhs2S0I6ueo&_nc_zt=24&_nc_ht=scontent-sea5-2.xx&edm=AJdBtusEAAAA&_nc_gid=e7cWw7isteg8fWSKdU8R0Q&_nc_tpa=Q5bMBQLxa13MzwFJrame-oJ8wWl_fZo9AAo1kXQGsANwjiWh2kvMHQVNBm4rcqEM7inx3NFAQ6EHy0q1EQ&oh=00_AQRSpblIO7GRtu9vNH_GBjFLz4M9IXSmsPU7zd97Y6RJqg&oe=6AF550FE",
+      "avatar_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=pFtGaX9sB6sQ7kNvwHB0RbL&_nc_oc=Adrnyluh0ISdn7jrd1ON0istknyVla6Fk6ns5_HmYVemF16nagBFR-Hz12Sf24xrMDk&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=7HvOENpNUrbdFqKFEODRoA&_nc_tpa=Q5bMBQKR3ueH6eq46mniiPRCoCSDO3vANMxpBSBDVclldT6-qWAOAin3lmUAMqUobUOULE6eV6Sqsa2LTA&oh=00_AQTfGNEDah7kjHj_nY3kjb-4PJEye3kQouH8kmj6k-FZlA&oe=6AF550FE",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -111,7 +111,7 @@
       "stock_count": 0,
       "up_next": [],
       "last_posted_at": "2026-11-04 17:51:01",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5H85w9I9IvYQ7kNvwHvOj_J&_nc_oc=AdqzGEBBjIE1QwQyKJFCDlPBXVO6LtTuiuwmz1pPcabrDn8_O2iv10rzawTOZZeE86c&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=ihffa6vD2JTT9ChXZlsIlQ&_nc_tpa=Q5bMBQIk2Mv8KLCOViYw-HGL54O6Bf2m7rL5d_63_tg_5HLVmHZWFoNgtrx0PnsFxT-dXeJxe_66azFVdQ&oh=00_AQR3onWAvePkZY67mOu_84Wk5eKnW5Vk3fY8GZRuIBmP_w&oe=6AF5510E",
+      "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5H85w9I9IvYQ7kNvwEYFdoN&_nc_oc=AdrslSaKRTPJ07fmr8RaL4BYBYBCvXhabfWvkWPZftz5NqYt50KNePTJjYaPUsOO1B4&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&edm=AJdBtusEAAAA&_nc_gid=ub9FYTTp3Hm5l2MtYr5iDw&_nc_tpa=Q5bMBQKzoMkoXr5395V0RCPmzRxDPHJnTYIE1k3fp6AsVp6Ils-IA0hTQ1uTECAvFh8m5eU6b2dPuLQrYA&oh=00_AQSolGcWBVP9mdkw26GIXUqcGIgzG-f-OXw2USdkLSwsqQ&oe=6AF5510E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -129,7 +129,7 @@
       "stock_count": 0,
       "up_next": [],
       "last_posted_at": "2026-11-04 17:51:01",
-      "avatar_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5H85w9I9IvYQ7kNvwHvOj_J&_nc_oc=AdqzGEBBjIE1QwQyKJFCDlPBXVO6LtTuiuwmz1pPcabrDn8_O2iv10rzawTOZZeE86c&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=ihffa6vD2JTT9ChXZlsIlQ&_nc_tpa=Q5bMBQIk2Mv8KLCOViYw-HGL54O6Bf2m7rL5d_63_tg_5HLVmHZWFoNgtrx0PnsFxT-dXeJxe_66azFVdQ&oh=00_AQR3onWAvePkZY67mOu_84Wk5eKnW5Vk3fY8GZRuIBmP_w&oe=6AF5510E",
+      "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5H85w9I9IvYQ7kNvwEYFdoN&_nc_oc=AdrslSaKRTPJ07fmr8RaL4BYBYBCvXhabfWvkWPZftz5NqYt50KNePTJjYaPUsOO1B4&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&edm=AJdBtusEAAAA&_nc_gid=ub9FYTTp3Hm5l2MtYr5iDw&_nc_tpa=Q5bMBQKzoMkoXr5395V0RCPmzRxDPHJnTYIE1k3fp6AsVp6Ils-IA0hTQ1uTECAvFh8m5eU6b2dPuLQrYA&oh=00_AQSolGcWBVP9mdkw26GIXUqcGIgzG-f-OXw2USdkLSwsqQ&oe=6AF5510E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
