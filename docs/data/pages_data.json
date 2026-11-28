@@ -1,15 +1,15 @@
 {
   "metrics": {
     "total_fleet_followers": 1,
-    "total_views": 1737,
+    "total_views": 1741,
     "total_reels_published": 46,
     "total_playable_stock": 0,
-    "last_sync": "2026-11-28 05:51:13 UTC",
+    "last_sync": "2026-11-28 14:54:13 UTC",
     "next_slot": {
-      "name": "Slot 1 (Morning)",
-      "est": "09:00 AM EST",
-      "target_iso": "2026-11-28T13:00:00+00:00",
-      "seconds_left": 25726
+      "name": "Slot 2 (Mid-Day)",
+      "est": "01:00 PM EST",
+      "target_iso": "2026-11-28T17:00:00+00:00",
+      "seconds_left": 7546
     }
   },
   "daily_analytics": [
@@ -57,11 +57,11 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 1707,
+      "views": 1708,
       "stock_count": 0,
       "up_next": [],
       "last_posted_at": "2026-11-04 17:50:50",
-      "avatar_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=WOq7JBtrffQQ7kNvwHVLOSI&_nc_oc=AdoeuVSQjdzmTIGjRoe7lCLnUSDc_Scm3ecnQVmcGp3WcpcN-Yv5vlJmvp92k4fI_Gk&_nc_zt=24&_nc_ht=scontent-sea5-2.xx&edm=AJdBtusEAAAA&_nc_gid=bZdippFulptQsG-rx5fgVw&_nc_tpa=Q5bMBQJJfDR6vypWoG5okAclhyCZwaesmOJ6-wY9qwKanHCa4pGf2nIN-IBBmVhRsjRs6pcNGHx-ZSk0fQ&oh=00_AQWi17B4D7pYNZlXkQN8w5-vDwnGN7Cuw1YcoOZGezOrwA&oe=6B1057BE",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=WOq7JBtrffQQ7kNvwFC_Jyr&_nc_oc=Adozatp6VB96u_G7pZ-m5XM6ojfxa5cnkSIEFxKNuQRyyX3ydGjOYb9J62QqwOCLxMs&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=dfbocps4hORiJIHMT9glwg&_nc_tpa=Q5bMBQIMOPSvci0Mub0JRSEblJZZWOJGGcyor7Ue9alPw5omG6WoO8MNqvk9rqhj-EijQ4Fmo7p6sHPYvQ&oh=00_AQWr2LTnyxA7opAnLLLt-GXpR1C1Fhfp7IfZ_uMvxk63eA&oe=6B10C83E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -73,11 +73,11 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
-      "views": 30,
+      "views": 33,
       "stock_count": 0,
       "up_next": [],
       "last_posted_at": "2026-11-04 17:51:01",
-      "avatar_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TROhy69xEbYQ7kNvwHYjmcy&_nc_oc=AdrCc8O3zmjT2dH7i0nKqPHUHPX04zZy45QqhxPAwPURHvVRdvRbAUgmf18NZ2JHbIs&_nc_zt=24&_nc_ht=scontent-sea5-2.xx&edm=AJdBtusEAAAA&_nc_gid=Aa-KizMF6uzZiqFO4NriQA&_nc_tpa=Q5bMBQIeRSyt0625esEFTXKLBUSWmcXXzECTmNqPAgyQ8XVcfswuP75Eff51g5cPFqcudrVyFFAtG2TAaw&oh=00_AQVXLUTXNsHcsqVDDMHSZ5e50Uo_G2ZWxEigqNFfNRbPDA&oe=6B1057CE",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TROhy69xEbYQ7kNvwHjadJs&_nc_oc=AdqmlNe2Q84OhmcPbYLOA4sX9lV46PTE_o9fRCHJJ24QY7drXWDitTojEXhmgIICy0s&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=bVUFSPPv1DSFPLv5CDLYmw&_nc_tpa=Q5bMBQJPsn8rDfym7k01tUBp7UR3Ggflodf5dtbIT3wuvePFNl0z8-c_DLI8XFBIRrg7xUjtlWggaiGDqg&oh=00_AQVkoYNhec82GK7Az8ECLqSvsk9tQZ2trmEw5Vxw5F8v5w&oe=6B10C84E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -91,11 +91,11 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1jmWnoEkFwYnP3S1KwDJot80BOGHg30Lp",
       "followers": 1,
-      "views": 1707,
+      "views": 1708,
       "stock_count": 0,
       "up_next": [],
       "last_posted_at": "2026-11-04 17:50:50",
-      "avatar_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=WOq7JBtrffQQ7kNvwHVLOSI&_nc_oc=AdoeuVSQjdzmTIGjRoe7lCLnUSDc_Scm3ecnQVmcGp3WcpcN-Yv5vlJmvp92k4fI_Gk&_nc_zt=24&_nc_ht=scontent-sea5-2.xx&edm=AJdBtusEAAAA&_nc_gid=bZdippFulptQsG-rx5fgVw&_nc_tpa=Q5bMBQJJfDR6vypWoG5okAclhyCZwaesmOJ6-wY9qwKanHCa4pGf2nIN-IBBmVhRsjRs6pcNGHx-ZSk0fQ&oh=00_AQWi17B4D7pYNZlXkQN8w5-vDwnGN7Cuw1YcoOZGezOrwA&oe=6B1057BE",
+      "avatar_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/862617514_122096478903533355_1156541740301358403_n.png?stp=dst-png_s200x200&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=WOq7JBtrffQQ7kNvwFC_Jyr&_nc_oc=Adozatp6VB96u_G7pZ-m5XM6ojfxa5cnkSIEFxKNuQRyyX3ydGjOYb9J62QqwOCLxMs&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AJdBtusEAAAA&_nc_gid=dfbocps4hORiJIHMT9glwg&_nc_tpa=Q5bMBQIMOPSvci0Mub0JRSEblJZZWOJGGcyor7Ue9alPw5omG6WoO8MNqvk9rqhj-EijQ4Fmo7p6sHPYvQ&oh=00_AQWr2LTnyxA7opAnLLLt-GXpR1C1Fhfp7IfZ_uMvxk63eA&oe=6B10C83E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -107,11 +107,11 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
-      "views": 30,
+      "views": 33,
       "stock_count": 0,
       "up_next": [],
       "last_posted_at": "2026-11-04 17:51:01",
-      "avatar_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TROhy69xEbYQ7kNvwHYjmcy&_nc_oc=AdrCc8O3zmjT2dH7i0nKqPHUHPX04zZy45QqhxPAwPURHvVRdvRbAUgmf18NZ2JHbIs&_nc_zt=24&_nc_ht=scontent-sea5-2.xx&edm=AJdBtusEAAAA&_nc_gid=Aa-KizMF6uzZiqFO4NriQA&_nc_tpa=Q5bMBQIeRSyt0625esEFTXKLBUSWmcXXzECTmNqPAgyQ8XVcfswuP75Eff51g5cPFqcudrVyFFAtG2TAaw&oh=00_AQVXLUTXNsHcsqVDDMHSZ5e50Uo_G2ZWxEigqNFfNRbPDA&oe=6B1057CE",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TROhy69xEbYQ7kNvwHjadJs&_nc_oc=AdqmlNe2Q84OhmcPbYLOA4sX9lV46PTE_o9fRCHJJ24QY7drXWDitTojEXhmgIICy0s&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=bVUFSPPv1DSFPLv5CDLYmw&_nc_tpa=Q5bMBQJPsn8rDfym7k01tUBp7UR3Ggflodf5dtbIT3wuvePFNl0z8-c_DLI8XFBIRrg7xUjtlWggaiGDqg&oh=00_AQVkoYNhec82GK7Az8ECLqSvsk9tQZ2trmEw5Vxw5F8v5w&oe=6B10C84E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
@@ -125,11 +125,11 @@
       "account_group": "Gayu Sagar (USA)",
       "drive_folder_id": "1r60--Ce6KoKgrUCGeKZMIkfXrmvdkZ4B",
       "followers": 0,
-      "views": 30,
+      "views": 33,
       "stock_count": 0,
       "up_next": [],
       "last_posted_at": "2026-11-04 17:51:01",
-      "avatar_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TROhy69xEbYQ7kNvwHYjmcy&_nc_oc=AdrCc8O3zmjT2dH7i0nKqPHUHPX04zZy45QqhxPAwPURHvVRdvRbAUgmf18NZ2JHbIs&_nc_zt=24&_nc_ht=scontent-sea5-2.xx&edm=AJdBtusEAAAA&_nc_gid=Aa-KizMF6uzZiqFO4NriQA&_nc_tpa=Q5bMBQIeRSyt0625esEFTXKLBUSWmcXXzECTmNqPAgyQ8XVcfswuP75Eff51g5cPFqcudrVyFFAtG2TAaw&oh=00_AQVXLUTXNsHcsqVDDMHSZ5e50Uo_G2ZWxEigqNFfNRbPDA&oe=6B1057CE",
+      "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/873068482_122093261055539869_1272392846364850292_n.png?stp=dst-png_s200x200&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TROhy69xEbYQ7kNvwHjadJs&_nc_oc=AdqmlNe2Q84OhmcPbYLOA4sX9lV46PTE_o9fRCHJJ24QY7drXWDitTojEXhmgIICy0s&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=bVUFSPPv1DSFPLv5CDLYmw&_nc_tpa=Q5bMBQJPsn8rDfym7k01tUBp7UR3Ggflodf5dtbIT3wuvePFNl0z8-c_DLI8XFBIRrg7xUjtlWggaiGDqg&oh=00_AQVkoYNhec82GK7Az8ECLqSvsk9tQZ2trmEw5Vxw5F8v5w&oe=6B10C84E",
       "token_healthy": true,
       "gap_alert": false,
       "enabled": true
